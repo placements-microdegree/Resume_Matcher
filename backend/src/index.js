@@ -11,6 +11,6 @@ app.get("/health", (_req, res) => res.json({ ok: true }));
 app.use("/api/resumes", resumeRoutes);
 
 const port = process.env.PORT || 5000;
-app.listen(port, () => {
-  console.log(`Backend listening on http://localhost:${port}`);
+app.listen(5000, "0.0.0.0", () => {
+  console.log("Server is running on port 5000");
 });

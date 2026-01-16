@@ -1,0 +1,77 @@
+ARPITHA S
+Software Quality Engineer
+arpithas684@gmail.com 	9113035023 	Bangalore
+PROFILE
+DevOps focused Software Quality Engineer with expertise in cloud infrastructure and DevOps tools,
+committed to enhancing software quality through rigorous quality assurance practices. Proven ability to
+collaborate with Agile development teams to deliver high-quality software products. Skilled in managing
+CI/CD pipelines and leveraging public cloud platforms, along with technologies such as GitHub, Docker,
+Kubernetes, Jenkins, and Ansible to optimize system operations. Seeking a DevOps Engineer role to
+further apply and grow cloud-native infrastructure and automation expertise.
+PROFESSIONAL EXPERIENCE
+Infosys Ltd.
+Software Quality Engineer
+· Experienced in using Docker to containerize applications for consistent and
+efficient deployment.
+May 2021 – present
+Bangalore, India
+· Created Dockerfiles to build lightweight, production-ready container images
+for various applications and microservices.
+· Configured Kubernetes objects such as Pods, Deployments, and Services,
+and integrated health checks to maintain application availability and stability
+during deployments.
+· Used shell scripting to make deployments faster and reduce manual work.
+· Proficient in using GitHub for version control with hands-on experience
+managing and working with Linux-based systems for development and
+deployment tasks.
+· Integrated Jenkins with GitHub repositories to enable automated triggers on
+pull requests, reducing manual release effort by 40%.
+· Wrote Ansible playbooks and roles to automate provisioning, patching, and
+configuration of Linux servers across development and production
+environments.
+· Have exposure to Jenkins for setting up and managing CI/CD pipelines.
+· Experienced in monitoring and observability using Prometheus and Grafana
+for infrastructure and application performance.
+· Utilized AWS services such as EC2, CloudWatch, Load Balancers, Auto
+Scaling, S3, SNS and IAM to build secure, scalable environments.
+· Worked on designing secure and scalable cloud setups by configuring VPCs
+with public and private subnets.
+· Used Confluence and JIRA to document pipelines, deployment processes,
+and track infrastructure-related issues and tasks.
+· Worked on integrating Selenium Grid with Docker to efficiently execute
+parallel test cases across multiple browser instances and environments,
+enhancing test speed and scalability.
+· Designed and implemented test automation frameworks using Selenium,
+TestNG, and Maven, reducing regression testing time by 40%.
+
+-- 1 of 2 --
+
+· Designed and configured Auto Scaling groups to dynamically adjust EC2
+capacity based on CPU utilization and custom CloudWatch metrics, reducing
+downtime and optimizing costs.
+· Integrated Auto Scaling with ELB to maintain consistent performance and
+handle traffic spikes during seasonal user activity.
+· Wrote and maintained smoke, sanity, and regression suites, increasing early
+defect detection and improving deployment confidence.
+· Documented detailed test cases, execution plans, and test scenarios using
+JIRA and Confluence; maintained traceability to requirements and ensured
+full coverage.
+SKILLS
+Version Control System - Git, GitHub
+Scripting Languages - Shell, YAML, Java
+AWS Cloud - EC2, S3, Auto scaling, Load balancer, Cloud watch, IAM, VPC, Route 53
+CICD tools - Jenkins, Ansible
+Containerization - Docker
+Orchestration - Kubernetes
+Monitoring & Alerting - Prometheus, Grafana
+Automation Frameworks - Selenium, UiPath, JUnit, Maven
+EDUCATION
+Bangalore University
+B.Sc. in Economics, Math and Statistics
+Dec 2020
+Bangalore, India
+CERTIFICATES
+AWS Certified Cloud Practitioner
+
+-- 2 of 2 --
+

@@ -1,0 +1,68 @@
+Harshitha M R
+mrharshitha022@gmail.com| +91 7411834485| Bengaluru
+PROFESSIONAL SUMMARY
+IT professional with over 3+ years of experience. Have experience in automating, optimizing and maintaining high-
+performance infrastructure and deployment. Proficient in CI/CD pipeline development, cloud platforms (AWS), Devops
+tools like Jenkins, GIT, Docker, Kubernetes and infrastructure as code (Terraform). Passionate about continuous
+improvement and innovations in technology practices.
+WORK EXPERIENCE
+Synechron Pvt Ltd Oct. 2022 – Jan.2024
+Associate Technology Bengaluru
+▪ Hands-on experience with Linux Machine & Unix
+▪ Created VPCs, Subnets, RouteTable and connected through Internet & NAT Gateway.
+▪ Created users and groups in IAM and used MFA for better security. Assigned policies to groups and created new
+policies and IAM Roles.
+▪ Launched EC2 instance using Ubuntu, Windows, Amazon Linux as AMIs
+▪ Created S3 Buckets and managed Bucket Permissions & Hosted Static Website.
+▪ GIT - Cloned repos and dealt with branches, file creation, staging, committing, and pushing to the remote
+repositories with commit messages – GitHub
+▪ Jenkins – Creating Jobs, Git integration, Scheduled builds or tasks
+▪ Created and maintained fully automated CI/CD pipelines for application deployment.
+▪ Ansible – Experienced in writing ansible scripts using multiple built-in modules to automate the tasks.
+▪ Docker – Pulling Images from DockerHub, Running Docker Images, Exposing Ports through DockerFile
+▪ Kubernetes – Managed Kubernetes Clusters, Pods, Nodes, Auto scaling and Load balancer
+▪ Terraform – Knowledge on Terraform concepts like Terraform INIT, Plan, Apply, Destroy etc..
+Capgemini Pvt Ltd Jun.2021 – Oct 2022
+Associate Consultant Bengaluru
+▪ Managed and created S3 buckets and managed bucket Permission. Created VPC Subnets, route table and
+connected through Internet and NAT gateway.
+▪ Created users and groups in IAM and used MFA for better. Security. Assigned policies to groups and created
+new policies and IAM roles.
+▪ Cloned repos and dealt with branches, file creation, staging, committing, and pushing to the remote repositories
+with commit messages – GitHub. Created and maintained fully automated CI/CD pipelines for application
+deployment using Jenkins.
+
+-- 1 of 2 --
+
+Capgemini Pvt Ltd Jun.2020 – Jun 2021
+Software Engineer Bengaluru
+▪ Trained in Level 1 Vision PLUS modules (TRAMS, CMS, MBS, FAS, etc. which is mainly based on Credit Card
+Life Cycle) in cards practice domain of Capgemini. Performing batch execution which comprises VisionPlus
+Modules and contributing in file processing for batch. Performing CA7 batch monitoring and abend analysis.
+▪ Operating System Mainframe MVS, Mainframe z/OS. Languages COBOL, CICS.
+EDUCATION
+Degree: Bachelor of Engineering (ISE),
+Graduation Year : 2019
+Vemana Institution of Technology, Bengaluru
+TECHNICAL SKILLS
+Cloud Platform : AWS
+Cloud Services : S3,EC2,VPC,IAM,Cloudwatch,Cloudfront,Lambda
+Networking : VPC configuration, Subnetting, Firewall rules & VPC Peering
+SSH Client Tool : Linux
+CI/CD : Jenkins
+Containerization Tool : Docker
+Container Orchestration Tool : Kubernetes
+Infrastructure as code(IAC) : Terraform
+Configuration Management Tool : Ansible
+Programming Language : Python
+CERTIFICATION
+▪ AWS & DevOps Certified from MicroDegree
+Certificates link: https://drive.google.com/drive/folders/1vzv8s-V7-
+MThTDZz3hjY3E2pl5SLEM77
+DECLARATION
+I, hereby declare that all the information provided is true to the best of my knowledge and belief.
+Harshitha M R
+Place: Bengaluru Date:
+
+-- 2 of 2 --
+

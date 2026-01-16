@@ -1,0 +1,106 @@
+AWS/DevOps & SRE Engineer
+Nagaveni Nulkar
+📞 Cell: +91-9686762753 📞 E-mail: nagaveninulkar@gmail.com 📞 LinkedIn: www.linkedin.com/in/nagaveni-nulkar-
+a2405923b
+Professional Summary
+AWS/DevOps and SRE Engineer with 4.3+ years of experience in automating CI/CD pipelines using Jenkins, Git, and Maven.
+Skilled in implementing Infrastructure as Code (IaC) with Terraform and Ansible, and proficient in containerization and
+orchestration using Docker and Kubernetes. Experienced in managing AWS services including EC2, S3, IAM, VPC, and
+CloudWatch to build scalable and secure environments. Strong in Linux, Python, and Shell scripting, with a passion for
+delivering efficient cloud solutions.
+Educational Details
+• Bachelor of Engineering (B.E) – 2021, Belagavi University.
+Professional Experience:
+⮚ Working as AWS DevOps & SRE Engineer for Nano Tech E Services Pvt Ltd, Bangalore from July 2024
+– Present
+⮚ Worked at DXC Technology Pvt Ltd, Bangalore from November 2021 to June 2024.
+Technical Skills:
+Version Control Tools Git, GitHub, Subversion
+Build Tools Maven, Gradle
+Continuous Integration Jenkins, GitHub-Actions, Gitlab-CI
+Containerization Docker, Kubernetes
+IAC Terraform
+Configuration Management Ansible
+Scripting Languages Shell Scripting, Python
+Operating System Linux, Ubuntu, CentOS, Windows
+Cloud Technologies Amazon Web Services
+Monitoring Zabbix, New Relic, Splunk
+Ticketing Tool JIRA
+
+-- 1 of 3 --
+
+PROJECT 3: IPCS
+Client: HPE (Hewlett Packard Enterprise)
+Role: DEVOPS ENGINEER
+Roles and Responsibilities:
+ Implemented CI/CD pipelines in Jenkins using Groovy scripts, automating build, test, and
+deployment processes to improve efficiency and reliability.
+ Monitored and maintained production systems using Prometheus, Grafana, and
+CloudWatch to ensure high availability and optimal performance.
+ Designed and managed Kubernetes clusters, automating deployment, scaling, and rolling
+updates for containerized applications.
+ Utilized Docker for containerization, enabling consistent development, testing, and
+production environments.
+ Developed and maintained Infrastructure as Code (IaC) using Terraform to automate cloud
+infrastructure provisioning and management.
+ Implemented alerting and incident response mechanisms, reducing downtime and
+improving mean time to recovery (MTTR).
+ Ensured system reliability and fault tolerance by configuring load balancers, auto-scaling
+groups, and backup recovery strategies.
+ Managed Linux-based servers, performing regular maintenance, patching, and
+troubleshooting for performance optimization.
+ Collaborated with development teams to improve application performance, deployment
+automation, and infrastructure scalability.
+ Maintained detailed release documentation and change logs to ensure smooth deployments
+and cross-team communication.
+PROJECT 2: Application Support Engineer
+Client: London Market (UK/US)
+Role: Support Engineer
+Roles and Responsibilities:
+ Provide guidance and direction to users of the change and release management processes
+whenever needed.
+ Plan, deploy, configure, and document issues related to server deployments.
+ Provide support for all services across development, testing, and production environments.
+ Continuously monitor applications and systems to ensure optimal performance using
+monitoring tools.
+ Respond to incidents, diagnose root causes, and ensure quick resolution of production
+issues.
+
+-- 2 of 3 --
+
+ Implement automated deployment pipelines in Jenkins to streamline build and release
+processes.
+ Use Docker and Kubernetes for containerization and orchestration of microservices.
+ Develop Infrastructure as Code (IaC) using Terraform for automated provisioning and
+management of cloud resources.
+ Configure proactive monitoring and alerting through Prometheus, Grafana, and
+CloudWatch.
+ Maintain detailed release documentation, RCA reports, and deployment records for better
+visibility and process improvement.
+PROJECT 1: Spencer’s E-Commerce
+Client: Spencer’s E-Commerce
+Role: AWS DEVOPS/SRE ENGINEER
+Roles and Responsibilities:
+ Managed DNS configurations, SSL certificates, and load balancers to ensure secure and
+highly available applications.
+ Implemented auto-scaling and load-balancing strategies to optimize performance and cost
+efficiency in production environments.
+ Performed root cause analysis (RCA) for production incidents and implemented preventive
+measures to minimize downtime.
+ Maintained and optimized CI/CD pipelines for multi-environment deployments (Dev, QA,
+Prod).
+ Monitored resource utilization and optimized AWS costs using CloudWatch metrics and cost
+management tools.
+ Managed Linux-based servers for patching, log monitoring, and performance tuning.
+ Created and maintained Infrastructure as Code (IaC) templates for consistent cloud resource
+provisioning.
+ Integrated version control workflows using Git for collaboration and efficient code
+management.
+ Ensured high availability and fault tolerance through backup, disaster recovery, and failover
+configurations.
+ Documented all deployments, configurations, and troubleshooting procedures for future
+reference and audits.
+(Nagaveni)
+
+-- 3 of 3 --
+

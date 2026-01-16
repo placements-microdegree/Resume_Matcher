@@ -1,0 +1,102 @@
+Mufeez Shaik
+Cloud & DevOps Engineer
+mufeezthebest@gmail.com 	9590492909 	Bengaluru KA 	Mufeez-Shaik
+www.mufeez.com 	mufeezthebest1
+PROFESSIONAL SUMMARY
+Devops and Cloud infra. Engineer with 4+ years of experiance in automating, deploying, and managing cloud
+infrastructures using AWS & DevOps technologies like Jenkins, Docker, Kubernetes, and Terraform.Strong
+troubleshooting and optimization skills for CI/CD pipelines, Infrastructure as Code (laC), and Linux systems.
+WORK EXPERIENCE
+Cloud Infrastructure & Devops Engineer, LevelsAi India Ltd.
+•Succesfully implimented and managed CI/CD pipelines for Laravel apps using
+GitHub, Jenkins, and AWS (IAM,EC2, S3, RDS, ECS, ELB, ASG).
+•Configured VPCs and security groups with ELB for secure and scalable
+architecture.
+06/2023 – 10/2025
+Remote, India
+•Automated daily tasks and CI/CD workflows using custom shell scripts with
+GitHub, Maven, and Jenkins, reducing manual deployment by 92%.
+•Improved deployment reliability by optimizing automation, reducing failures by
+85%.
+•Key Projects: www.avanticare.com , www.keyscoin.com
+AWS & DevOps Trainee, MicroDegree
+•Undergone comprehensive full-time effective training in AWS Cloud and DevOps,
+covering foundational to advanced topics.
+•Built real-world project pipelines simulating production-level CI/CD and
+infrastructure setups.
+08/2022 – 04/2023
+Bengaluru, India
+•Gained hands-on experience with AWS DevOps tools: CodeCommit, CodeBuild,
+CodePipeline, and CodeDeploy.
+•Practiced deployment strategies, environment management, and automation
+using Jenkins, Docker, Terraform, and Kubernetes.
+Asst. NodeJs Developer, The 10XAcademy
+•Implimented REST APIs using Node.js, Express.js, and MongoDB.
+•Built backend logic for CRUD operations and real-time data handling.
+07/2021 – 08/2022
+Bengaluru
+•Implemented JWT-based authentication and middleware security.
+•Managed code using Git and handled basic CLI-based deployments.
+•Practiced debugging, error handling, and performance optimization.
+Technical Associate, Bosch Automotive Electronics India Ltd
+•As a Technical Analyst, provided technical support and solutions for automotive
+electronics projects.
+•Collaborated with engineering and Planning teams to analyze, troubleshoot, and
+resolve technical issues, ensuring project milestones were met.
+02/2020 – 07/2021
+Bengaluru
+•Conducted detailed technical analysis and documentation to support the R&D
+and maintenance of automotive electronic systems.
+•Assisted in the implementation of software updates and improvements to
+enhance system performance and reliability.
+
+-- 1 of 2 --
+
+SKILLS
+Cloud Platforms
+AWS (EC2, S3, VPC, Route 53, RDS, IAM, CloudWatch,
+Auto Scaling, ALB)
+Infrastructure as Code
+Terraform,Ansible
+Scripting
+Shell Script
+Monitoring & Logging
+Prometheus, Grafana, CloudWatch
+CI/CD Tools
+Jenkins, AWS Code Pipeline, GitHub
+Containerization & Orchestration
+Docker, Kubernetes
+Source Control
+Git, GitHub
+Operating Systems
+Linux, Windows
+PROJECTS
+Infrastructure Automation with Terraform and Cloud Platform,
+Terraform, EC2, S3, VPC, RDS, Jenkins, GitHub
+•Designed and implemented a highly available AWS cloud infrastructure using Terraform.
+•Created a custom VPC with public subnets across multiple Availability Zones.
+•Deployed EC2 instances with ALB, ensuring traffic distribution and fault tolerance.
+•Configured internet gateway, route tables, and security groups for secure access.
+End-to-End CI/CD Implementation of Node.js Application with Jenkins,
+Git,Maven,Jenkins, Docker, Kubernetes
+•Successfully established a comprehensive CI/CD pipeline for a Node.js application
+•Integrated Jenkins declarative pipelines with GitHub webhooks to automate processes
+•Incorporated multiple stages including Build, Unit Testing, Dependency Check, and file scanning
+•Generated Docker Images and deployed them on Deployment on Kubernetes platform
+Automation of Microservices-based Web App using AWS DevOps Services,
+AWS-CodeCommit,CodeBuild,CodePipeline,CodeDeploy
+•Designed and implemented a complete CI/CD pipeline using AWS CodeCommit, CodeBuild, CodePipeline,
+and CodeDeploy for a containerized microservices application.
+•Source code was version-controlled in CodeCommit, with automated builds triggered in CodeBuild on each
+commit.
+•Deployed to EC2 instances behind an Application Load Balancer (ALB) using CodeDeploy, with rollback
+strategies and lifecycle hooks.
+•Resulted in 90% reduction in manual intervention and significantly improved deployment speed.
+Education
+BE, Vishveshvaraya Technological University - Belagavi 	2015 – 2019
+Certifications
+AWS Solutions Architect and Devops, MicroDegree 	08/2023 – 02/2024
+Diploma in Basic Cloud Computing, Inspire Computer Education 	2022
+
+-- 2 of 2 --
+

@@ -35,7 +35,7 @@ coverage/
 *.pid.lock
 
 # Resume Matcher generated/temporary artifacts
-backend/parsed/
+
 backend/resumes/
 
 # Optional: keep package-lock tracked, so do NOT ignore it

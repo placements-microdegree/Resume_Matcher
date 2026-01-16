@@ -1,0 +1,54 @@
+Arpitha K K
+DevOps Engineer
+arpitha68341@gmail.com 	7337768341 	Bengaluru 	LinkedIn 	GitHub
+Profile
+DevOps Engineer with 3 years of IT experience, combining application development and hands-on cloud
+infrastructure, CI/CD, and automation expertise. Skilled in AWS, Azure, Docker, Kubernetes, Terraform, GitHub
+Actions, with a strong problem-solving mindset and experience delivering scalable cloud-native solutions.
+Professional Experience
+Lead Engineer, HCL Technologies 	2022 – 2022
+•Supported MES system deployments and integrated with existing CI/CD pipelines.
+•Worked closely with infrastructure teams to troubleshoot deployment issues and improve release reliability.
+•Leveraged .NET and backend knowledge to understand workflows and provide production support.
+Software Engineer II, Dell Technologies 	2021 – 2022
+•Maintained enterprise applications and supported backend integration tasks.
+•Participated in application deployment cycles, ensuring smooth releases.
+•Provided L3 support for applications, resolving production issues quickly.
+Software Engineer, ThoughtFocus 	2020 – 2021
+•Assisted in backend enhancements and ensured deployment readiness.
+•Worked in Agile sprints, collaborating with QA and infra teams for timely delivery.
+•Gained exposure to application release and support workflows.
+Associate Software Engineer, Cenduit LLC 	2019 – 2020
+•Developed web forms and backend services using C#/.NET for clinical trial platforms.
+•Supported deployments using IIS in collaboration with infrastructure teams.
+•Collaborated with QA and infra teams to address environment configuration issues.
+Projects
+Scalable E-Commerce Web App, AWS ECS, Learning Project
+•Deployed cloud-native app using Docker and AWS ECS (Fargate)
+•Used GitHub Actions for CI/CD and CloudFormation for infra provisioning
+•Optimized using S3, RDS, and CloudFront
+Serverless Log Monitoring & Alerting System (AWS), Learning Project
+•Built log pipeline with Lambda, Kinesis, OpenSearch
+•Set alerts via CloudWatch and SNS; used Terraform for laC
+Kubernetes-Based Microservices Monitoring with EKS, Learning Project
+•Deployed services on EKS using Helm
+•Monitored with Prometheus + Grafana, infrastructure via Terraform
+Skills
+DevOps & CI/CD: Docker, Kubernetes (EKS), Jenkins, GitHub Actions, Terraform, Ansible
+Cloud Platforms: AWS (EC2, S3, Lambda, IAM, VPC, RDS, Route 53), Azure (fundamentals)
+Programming/Scripting: Bash, Shell, YAML, Python (basic), C# (basic), SQL
+Monitoring & Logging: Prometheus, Grafana, CloudWatch, OpenSearch
+Tools & OS: Linux, Windows, Git, VS Code
+Soft Skills: Proactive Learning, Problem-Solving, Collaboration, Adaptability
+
+-- 1 of 2 --
+
+Certificates
+AWS Certified Solutions Architect — MicroDegree
+Devops Engineer — MicroDegree
+Azure 900 Certification (In progress) — MicroDegree
+Education
+BE in Information Science, BMS College Of Engineering 	Bengaluru
+
+-- 2 of 2 --
+

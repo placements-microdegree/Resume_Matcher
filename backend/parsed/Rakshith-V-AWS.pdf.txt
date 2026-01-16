@@ -1,0 +1,86 @@
+Rakshith V
+Software Developer
+rakshithv751@gmail.com | 8073783250 | Bengaluru | www.linkedin.com/in/raksh-v
+PROFESSIONAL SUMMARY
+AWS & Cloud Engineer with 4+ years of experience building scalable, user-focused applications and managing cloud-native
+infrastructures. Skilled in AWS-based DevOps practices, CI/CD automation, Docker/Kubernetes containerization, cloud
+infrastructure management, and performance optimization on AWS. Known for bridging development and DevOps to deliver
+reliable, high-quality solutions in fast-paced environments.
+WORK EXPERIENCE
+Acharya Institutes, Software Developer - ERP Department
+•Developed Dockerfiles to automate the creation of custom Docker images for React.js applications, ensuring consistent and reliable
+builds across environments.
+•Integrated Docker with Kubernetes and AWS EKS for scalable container orchestration, enabling automated scaling, load
+management, and self-healing of application instances.
+•Designed and implemented CI/CD pipelines in Jenkins with Docker and AWS integration, improving release speed, reliability,
+and deployment automation.
+•Participated in end-to-end deployment and maintenance activities, ensuring smooth delivery to production environments and
+continuous application stability.
+•Managed end-to-end deployment and maintenance activities on AWS EKS, ensuring smooth production rollouts, stable
+application performance, and minimal downtime.
+•Configured Amazon ECR for centralized container image storage and streamlined image versioning in AWS-based environments.
+•Implemented Amazon CloudWatch monitoring and logging to track cluster health, application metrics, and deployment stability on
+AWS.
+•Applied AWS IAM role-based access control to secure interactions between CI/CD pipelines, EKS workloads, and other AWS
+services.
+PROJECTS
+ERP APPLICATION
+A comprehensive ERP platform built to automate institutional workflows across Student Services, Proctoring, Accounts, Inventory, HR,
+and Administration. The system streamlined operations such as admissions, fee management, staff–student mapping, financial
+accounting, inventory control, and secure authentication.
+•AWS & DevOps Contributions – 15% (Enhanced with AWS services)
+Containerized the entire application using Docker, ensuring environment consistency across development, staging, and production.
+•Developed and optimized Dockerfiles, and automated Docker image builds & push to Amazon ECR (Elastic Container
+Registry).
+•Implemented CI/CD pipelines using Jenkins, integrating Git, Docker, and AWS for automated build, test, and deploy workflows.
+•Deployed and managed the application on Amazon EKS (Elastic Kubernetes Service) using Kubernetes deployments, services,
+config maps, and HPA for auto-scaling.
+•Configured AWS ALB (Application Load Balancer) for secure, high-availability ingress to Kubernetes workloads.
+•Set up Amazon RDS for reliable and scalable database management, with automated backups and multi-AZ failover.
+•Integrated Amazon S3 for document storage (offer letters, admission files, student documents).
+•Implemented IAM role-based access for secure interactions between EKS pods and AWS services.
+•Configured CloudWatch logging & monitoring for cluster health, application logs, and CI/CD pipeline insights.
+•Automated deployments to EKS using Jenkins + kubectl + eksctl for rolling updates and zero-downtime releases.
+•Student Module – 20%
+•Developed complete Student Admission workflow with validations and API integrations.
+•Implemented Fee Template creation for dynamic fee configuration.
+•Built Offer Letter Generation functionality.
+•Created Job Application module for student recruitment processes.
+•Proctor Module – 10%
+•Implemented Proctor Creation and Proctor–Student Assignment with mapping logic.
+•Accounts Module – 15%
+•Developed Bank Creation, Voucher Entry, and Ledger Management screens.
+•Integrated financial APIs and handled audit-friendly data validation.
+•Inventory Module – 10%
+•Implemented Vendor Management, Item Creation, and Stock Management workflows.
+•Ensured data accuracy with form validations and optimized API usage.
+•Authentication & Access – 10%
+11/2021 – Present | Bengaluru, India
+02/2022 – Present
+
+-- 1 of 2 --
+
+•Built secure Student & Staff Login pages with JWT/Bearer token authentication.
+•Implemented role-based access with token expiration (1-hour validity) and session handling.
+SKILLS
+Cloud Platforms: AWS (EC2, VPC, S3, CloudFront, CloudWatch, RDS Lambda, Route 53, IAM, EBS, Load Balancing)
+Containerization & Orchestration: Docker, Kubernetes, Helm
+Infrastructure as Code (IaC): Terraform
+CI/CD Tools: Jenkins, Github Actions
+Front End: HTML5, CSS, JavaScript (ES6+), React.js, Material-UI, Bootstrap, JSX
+Version Control: Git 	Github
+CERTIFICATES
+AWS Solution Architect
+(Microdegree)
+Devops Certification
+(Microdegree)
+EDUCATION
+Senior Secondary Education, Vikram PU College
+Bachelor in Engineering in Electronics and Communication Engineering,
+CMR Institute Of Technology
+|	|
+Chintamani, India
+Bengaluru, India
+
+-- 2 of 2 --
+

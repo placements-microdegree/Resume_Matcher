@@ -1,0 +1,73 @@
+Noor Basha
+Devops Engineer | AWS | CI/CD | Container |Kubernetes | IAC
+noorcloud92@gmail.com | +91 8050470156
+Professional Summary
+=
+DevOps Engineer with 4+ years of experience designing, automating, and optimizing AWS cloud infrastructure and CI/CD
+pipelines. Skilled in Docker-based containerization with exposure to Kubernetes, Infrastructure as Code (Terraform), and
+implementing secure, scalable, and cost-efficient solutions. Proven track record in improving observability, accelerating
+releases, and collaborating in agile environments to deliver high-quality software.
+Skills
+Cloud Platform: AWS
+Infrastructure as Code (IaC): Terraform
+Containerization & Orchestration: Docker, Kubernetes (EKS)
+CI/CD Tools: GitLab, GitHub Actions
+Observability & Monitoring: Prometheus, Grafana, Cloud Watch
+Version Control: Git, Gitlab
+Scripting & Automation: PowerShell, Bash
+Operating Systems: Linux, Windows
+Work Experience
+Capgemini Technology | Senior Software Engineer (DevOps) May 2025 – Present
+❖ Experience with spring boot framework for developing Java-based micro services.
+❖ Infrastructure Patch management for all windows/Linux/Ubuntu servers using Ansible.
+❖ Developed shell scripts for automating node health checks, monitoring CPU, memory, and other critical metrics,
+ensuring system stability.
+❖ Developing and maintaining the continuous integration and deployment pipelines using Jenkins, Git, Maven, nexus
+❖ Collaborated with developers to optimize code repositories, resulting in faster code retrieval and collaboration.
+Rackspace Technology Private Ltd | Software Engineer (DevOps) Dec 2020 - May 2025
+❖ Designed and implemented secure, highly available AWS infrastructure using Terraform, leveraging ECS (Fargate &
+EC2), EKS, Load Balancer (ALB), CloudWatch, Lambda, API Gateway, VPC, IAM, and other AWS services,
+ensuring scalability and security compliance.
+❖ Developed reusable Terraform modules for multi-environment provisioning (dev, test, prod) with Terraform Cloud,
+implemented automated infrastructure testing using Terratest to ensure reliability and compliance.
+❖ Built and optimized CI/CD pipelines in GitLab, integrating automated testing, SAST/DAST scans, and zero-downtime
+deployments, reducing release times by 30%.
+❖ Managed containerized applications with Docker and deployed on AWS ECS, ensuring high availability, resilience,
+and implementing centralized logging and monitoring using CloudWatch.
+❖ Deployed and orchestrated workloads on Kubernetes (EKS), implementing RBAC for secure access control and
+enhancing observability using Prometheus and Grafana for monitoring and alerting.
+❖ Reduced cloud costs by 20% through right-sizing, workload consolidation, and provisioning optimizations.
+❖ Collaborated in Agile/Scrum teams, accelerating release cycles and improving delivery quality.
+❖ Develop Terraform modules - EFS, ELB, ASG, S3, Network (VPC, IGW,RT,SUBNET,SG,NAT,Endpoint), GI Pipeline
+❖ Develop Ansible Roles & playbook - Configure Jenkins Master, Harden the GI, Patch the OS of Jenkins Master
+
+-- 1 of 2 --
+
+❖ Develop Packer module - Jenkins GI
+❖ Develop shell script - Configure GI slave, automate GI build steps, automate Jenkins backup
+❖ Develop Jenkinsfile - Build GI Pipeline & Scan it, Backup of Jenkins Master
+❖ Rolling out newer version of Jenkins once in 1 or 3 months
+❖ Upgrading/Scaling Jenkins Master for capacity
+❖ Set & Scan the server for vulnerabilities, based on the reports we accordingly harden the AMI or update Ansible
+Roles
+❖ Automated health checks, log monitoring, and performance tracking with Bash and PowerShell scripts, improving
+incident detection speed by 40%.
+❖ Defined and enforced Git branching strategies (GitFlow) and merge request workflows, improving code quality and
+reducing merge conflicts.
+Management Trainee | Genpact India Private Ltd June 2016 to July 2017
+❖ Define project requirements by identifying project milestones, phases and elements; forming project team;
+establishing project budget
+❖ Contribute to team effort by accomplishing related results as needed
+❖ Conduct insightful, ad hoc analyses to investigate ongoing or one-time operational issues.
+Iron Mountain Private | Senior Associate April 2012 to Dec 2015
+❖ Extracting the bank statements from JP Morgan site, sending them to the debt collectors and Regional credit managers
+❖ Managing the AR accounts and following up with customers for any outstanding invoices.
+❖ Create the current month's production invoice for SENA for the prior month's production and get accountants to update
+the actual production details.
+❖ Extract pipeline invoices, shipper statements, and cash-out prices to be circulated to the accountants.
+Education
+Bangalore University
+Bachelor of Business Management – KLE’s Nijalingappa College – 2008
+
+-- 2 of 2 --
+

@@ -1,0 +1,41 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build outputs
+frontend/dist/
+backend/dist/
+
+# Vite cache
+frontend/.vite/
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Resume Matcher generated/temporary artifacts
+backend/parsed/
+backend/resumes/
+
+# Optional: keep package-lock tracked, so do NOT ignore it

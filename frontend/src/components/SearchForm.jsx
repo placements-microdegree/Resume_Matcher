@@ -40,7 +40,7 @@ export default function SearchForm({ onResults, onLoadingChange }) {
   }, [skillsInput]);
 
   const apiBase = useMemo(() => {
-    return import.meta?.env?.VITE_API_BASE || "http://localhost:5000";
+    return import.meta.env.VITE_API_BASE;
   }, []);
 
   async function handleSubmit(e) {

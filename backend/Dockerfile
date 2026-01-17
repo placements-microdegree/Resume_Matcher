@@ -20,6 +20,6 @@ RUN mkdir -p /app/resumes /app/parsed
 ENV NODE_ENV=production
 ENV PORT=5000
 
-EXPOSE 9090
+EXPOSE 5000
 
 CMD ["npm", "start"]

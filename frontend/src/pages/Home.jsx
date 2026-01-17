@@ -9,7 +9,7 @@ export default function Home() {
   const [error, setError] = useState("");
 
   const apiBase = useMemo(() => {
-    return import.meta?.env?.VITE_API_BASE || "http://localhost:5000";
+    return import.meta.env.VITE_API_BASE || "http://localhost:5000";
   }, []);
 
   async function onMatch() {

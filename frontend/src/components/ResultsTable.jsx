@@ -1,4 +1,20 @@
-import React, { useMemo, useState } from "react";
+import React, { useMemo, useRef, useState } from "react";
+
+async function copyToClipboard(text) {
+  const value = String(text ?? "");
+  if (!value) return false;
+
+  try {
+    if (navigator?.clipboard?.writeText) {
+      await navigator.clipboard.writeText(value);
+      return true;
+    }
+  } catch {
+    return false;
+  }
+
+  return false;
+}
 
 function ScorePill({ value }) {
   const v = Number(value);
@@ -50,6 +66,8 @@ function LoadingSkeleton() {
 export default function ResultsTable({ results, loading }) {
   const [query, setQuery] = useState("");
   const [sortDir, setSortDir] = useState("desc");
+  const [copiedKey, setCopiedKey] = useState(null);
+  const copyTimerRef = useRef(null);
 
   const normalized = useMemo(() => {
     const list = Array.isArray(results) ? results : [];
@@ -187,17 +205,49 @@ export default function ResultsTable({ results, loading }) {
                         </div>
                       </td>
                       <td className="px-4 py-3">
-                        <div className="flex flex-wrap gap-1.5">
-                          {r.missingSkills?.length ? (
-                            r.missingSkills.map((s) => (
-                              <Chip key={`${r.fileName}-x-${s}`} tone="rose">
-                                {s}
-                              </Chip>
-                            ))
-                          ) : (
-                            <span className="text-sm text-slate-400">—</span>
-                          )}
-                        </div>
+                        {r.missingSkills?.length ? (
+                          <div className="space-y-2">
+                            <div className="flex items-center justify-between gap-2">
+                              <span className="text-xs font-semibold text-slate-600">
+                                {r.missingSkills.length} missing
+                              </span>
+                              <button
+                                type="button"
+                                className="inline-flex items-center rounded-lg border border-slate-200 bg-white px-2 py-1 text-xs font-semibold text-slate-700 hover:bg-slate-50"
+                                onClick={async () => {
+                                  const key = `${r.fileName}-${r._idx}`;
+                                  const text = r.missingSkills.join(", ");
+                                  const ok = await copyToClipboard(text);
+                                  if (ok) {
+                                    setCopiedKey(key);
+                                    if (copyTimerRef.current) {
+                                      clearTimeout(copyTimerRef.current);
+                                    }
+                                    copyTimerRef.current = setTimeout(
+                                      () => setCopiedKey(null),
+                                      1200
+                                    );
+                                  }
+                                }}
+                                title="Copy missing skills (comma separated)"
+                              >
+                                {copiedKey === `${r.fileName}-${r._idx}`
+                                  ? "Copied"
+                                  : "Copy"}
+                              </button>
+                            </div>
+
+                            <div className="flex flex-wrap gap-1.5">
+                              {r.missingSkills.map((s) => (
+                                <Chip key={`${r.fileName}-x-${s}`} tone="rose">
+                                  {s}
+                                </Chip>
+                              ))}
+                            </div>
+                          </div>
+                        ) : (
+                          <span className="text-sm text-slate-400">—</span>
+                        )}
                       </td>
                     </tr>
                   ))}

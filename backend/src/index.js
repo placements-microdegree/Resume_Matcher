@@ -12,8 +12,8 @@ app.use(express.json({ limit: "2mb" }));
 app.get("/health", (_req, res) => res.json({ ok: true }));
 app.use("/api/resumes", resumeRoutes);
 
-const port = process.env.PORT || 6000;
+const port = process.env.PORT || 5000;
 const host = process.env.HOST || "0.0.0.0";
 app.listen(port, host, () => {
-  console.log(`Backend listening on http://${host}:${port}`);
+  console.log(`Backend listening on http://localhost:${port}`);
 });

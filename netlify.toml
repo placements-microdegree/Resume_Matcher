@@ -1,0 +1,14 @@
+[build]
+  base = "frontend"
+  command = "npm run build"
+  publish = "dist"
+
+# Ensure Vite (v5) has a compatible Node runtime on Netlify
+[build.environment]
+  NODE_VERSION = "20"
+
+# SPA routing: always serve index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

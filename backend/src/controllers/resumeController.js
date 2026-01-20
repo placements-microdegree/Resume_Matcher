@@ -33,7 +33,25 @@ async function uploadResume(req, res) {
 function listResumes(_req, res) {
   ensureDirs();
   const files = fs.readdirSync(RESUMES_DIR).filter(Boolean);
-  res.json({ files });
+
+  // Optional debug payload: /api/resumes?debug=1
+  // Useful for validating the running server's paths on a droplet/container.
+  const debug = String(_req?.query?.debug || "") === "1";
+
+  res.json(
+    debug
+      ? {
+          files,
+          debug: {
+            cwd: process.cwd(),
+            appRoot: APP_ROOT,
+            resumesDir: RESUMES_DIR,
+            parsedDir: PARSED_DIR,
+            resumesCount: files.length,
+          },
+        }
+      : { files },
+  );
 }
 
 async function matchResumes(req, res) {

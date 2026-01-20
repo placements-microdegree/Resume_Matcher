@@ -5,7 +5,8 @@ const path = require("path");
 const { PDFParse } = require("pdf-parse");
 const mammoth = require("mammoth");
 
-const PARSED_DIR = path.join(process.cwd(), "parsed");
+const APP_ROOT = path.resolve(__dirname, "..", "..");
+const PARSED_DIR = path.join(APP_ROOT, "parsed");
 
 function ensureParsedDir() {
   if (!fs.existsSync(PARSED_DIR)) fs.mkdirSync(PARSED_DIR, { recursive: true });

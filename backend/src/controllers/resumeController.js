@@ -4,8 +4,9 @@ const fs = require("fs");
 const parseResume = require("../utils/parseResume");
 const matchLogic = require("../utils/matchLogic");
 
-const RESUMES_DIR = path.join(process.cwd(), "resumes");
-const PARSED_DIR = path.join(process.cwd(), "parsed");
+const APP_ROOT = path.resolve(__dirname, "..", "..");
+const RESUMES_DIR = path.join(APP_ROOT, "resumes");
+const PARSED_DIR = path.join(APP_ROOT, "parsed");
 
 function ensureDirs() {
   if (!fs.existsSync(RESUMES_DIR))

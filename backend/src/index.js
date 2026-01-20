@@ -9,6 +9,9 @@ const app = express();
 app.use(cors());
 app.use(express.json({ limit: "2mb" }));
 
+// Avoid noisy 404s from browsers requesting a favicon.
+app.get("/favicon.ico", (_req, res) => res.status(204).end());
+
 // ✅ root route (prevents 404 on domain root)
 app.get("/", (_req, res) => {
   res.send("Resume Matcher Backend Running ✅");

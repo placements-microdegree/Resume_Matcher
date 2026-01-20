@@ -1,25 +1,22 @@
 # syntax=docker/dockerfile:1
-
 FROM node:20-alpine
 
-# Create app directory
 WORKDIR /app
 
-# Install production dependencies first (better layer caching)
+# Install deps
 COPY package*.json ./
 RUN npm ci --omit=dev
 
-# Copy source
-COPY src ./src
-COPY *.js ./
+# Copy entire src + required files
+COPY . .
 
-# Ensure upload/output folders exist inside the container
+# Create required folders
 RUN mkdir -p /app/resumes /app/parsed
 
-# Default port (DigitalOcean/containers typically set PORT)
 ENV NODE_ENV=production
-ENV PORT=5000
+ENV PORT=9090
+ENV HOST=0.0.0.0
 
-EXPOSE 5000
+EXPOSE 9090
 
 CMD ["npm", "start"]

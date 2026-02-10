@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import SearchForm from "./components/SearchForm.jsx";
 import ResultsTable from "./components/ResultsTable.jsx";
+import ScrollToTopButton from "./components/ScrollToTopButton.jsx";
 
 export default function App() {
   const [results, setResults] = useState([]);
@@ -31,6 +32,8 @@ export default function App() {
           <span className="font-mono">POST /api/resumes/match</span>
         </div>
       </div>
+
+      <ScrollToTopButton />
     </div>
   );
 }

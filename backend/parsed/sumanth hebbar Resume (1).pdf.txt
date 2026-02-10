@@ -1,0 +1,65 @@
+SUMANTHA HEBBAR
++91-9741989564 | hebbarsumantha452@gmail.com |
+LinkedIn:https://www.linkedin.com/in/iamsumanthahebbar/
+PROFESSIONAL SUMMARY
+Cloud Infrastructure Engineer with 3.1 years of experience in designing, managing, and
+supporting Azure and on-premises infrastructure. Proficient in Azure Administration, AWS,
+and DevOps with hands-on experience in Infrastructure as Code, CI/CD pipelines,
+containerization, and orchestration. Strong understanding of cloud security and DevSecOps
+practices with a focus on automation and performance optimization.
+TECHNICAL SKILLS
+• Cloud Platforms: AWS (EC2, VPC, S3, IAM), Azure (Functions, VM, Vnets, Storage
+Account, Azure AD, Private Endpoints, Key Vaults, AKS)
+• CI/CD Tools: Jenkins, Azure DevOps (Basic)
+• Version Control: Git, GitHub
+• Infrastructure as Code: Terraform
+• Containers & Orchestration: Docker, Kubernetes
+• Web Infrastructure: IIS, BIG-IP F5, DNS management
+• Scripting: Bash/Shell, Python (Basic)
+• Operating Systems: Windows, Linux
+• Monitoring: Azure Monitor, Prometheus, Grafana
+• ITSM: ServiceNow
+PROFESSIONAL EXPERIENCE
+Cloud Engineer | LTIMINDTREE | May 2023 - Present
+• Maintained and administered Azure infrastructure, utilizing PaaS and IaaS solutions to
+optimize costs and performance across various business environments.
+• Provisioned and maintained cloud infrastructure including Virtual machines, Virtual
+networks and implemented VM scale sets to enable auto-scaling capabilities.
+• Configured and administered Azure AD for user/group management, role assignments,
+and conditional access policies.
+• Implemented Azure Function Apps, Logic Apps based on developer requirements.
+• Configured Private Endpoints for secure access to Azure Functions, Storage Accounts,
+and Key Vaults.
+• Utilized Azure Application Insights and Log Analytics to proactively monitor and
+troubleshoot Azure Function Apps.
+• Automated Azure infrastructure provisioning using Terraform.
+
+-- 1 of 2 --
+
+• Contributed to Azure Governance by implementing resource tagging, management
+groups, and subscriptions for compliance tracking.
+Application Infra Support Engineer | LTIMINDTREE | Aug 2022 – May 2023
+• Configured and installed 100+ .NET applications on IIS 10.0 Windows 2016/2019/2022
+web servers.
+• Managed BIG-IP F5 load balancers for 99.9% high availability of business-critical
+applications.
+• Ensured application security by managing and implementing 120+ SSL certificates.
+• Provided end-to-end enterprise application support for .NET applications using ITIL
+best practices.
+DEVOPS INITIATIVES (PROJECTS)
+• Automated the provisioning of infrastructure on AWS using Terraform.
+• Designed CI/CD pipelines in integrated with GitHub, Maven, SonarQube, Docker, and
+Kubernetes.
+• Managed builds using Maven and enforced code quality using SonarQube.
+• Implemented DevSecOps practices with Trivy for container vulnerability scanning and
+OPA Conftest for policy enforcement.
+• Developed and managed Docker images for application deployment.
+• Deployed containerized applications to Kubernetes clusters using YAML manifest files.
+EDUCATION
+Bachelor of Engineering | RNS Institute of Technology, Bengaluru | 2018 – 2022
+CERTIFICATIONS
+• Microsoft Certified: Azure Administrator Associate (AZ-104)
+• Microsoft Certified: Azure Fundamentals (AZ-900)
+
+-- 2 of 2 --
+

@@ -1,0 +1,100 @@
+ManikantaRaju
+AWS & DevOps Engineer
+manikantaraju33002@gmail.com 9902533002 Bangalore manikantarajust stmanikantaraju
+PROFESSIONAL SUMMARY
+WORK EXPERIENCE
+Senior IT Administrator, DotMappers IT Pvt. Ltd. 	04/2019 – Present | Bangalore, India
+•Working as a DevOps Engineer for a team that involved different development.
+•Maintained the code using Source code Management tools like Git & GitHub.
+•Worked on implementing AWS using EC2, S3, RDS, ECS, Elastic Load Balancer, Auto Scaling groups.
+•Configured and managed security groups and VPC with ELBs.
+•Used Ansible as a configure management tool.
+•Worked on container orchestration tools like Kubernetes, with Docker files & running containers.
+•Engaged collaboratively with team members to fulfill project goals and comply with deadlines.
+System Administrator, Prognosys Medical Systems Pvt. Ltd. 	07/2018 – 04/2019 | Bangalore, India
+•Handled In-house Server with centralized support, Setup Network printer to all office systems.
+•Install, Configure applications (like Windows, Radiology related Apps, Anti-Virus (with periodical updates).
+•G-suite Mail configure through different mail client application (for Individuals & also with Department ID).
+•NAS Box installation, configured, & maintained weekly basis backup process.
+•Configured VOIP & Toll free services to Hardphone & softphone.
+Senior System Administrator cum HOD of ITT, ICAI- Bangalore 	05/2014 – 02/2018 | Bangalore, India
+•Handled in-house Server with handling Branches issues remotely.
+•Monitor - Installing, Configuring & Maintenance of OS, Applications, and Anti-Virus (periodically).
+•Organized Hosting / Webcasting / Upload Videos of Conference/ Seminars/ Teleconference Meet/ Podcasts.
+•Handled issues of Student registration / Cloud campus portal issues (like course registration & result oriented).
+•ITT Batches - Schedules/ Internal & External Faculties allocation/ Conduct tests & exams/ Batch & Certificate
+Report update online & offline. Taught ITT courses for CA students (on emergency & demands)
+•Complete Bangalore Branch Website Maintained (like events update, alerts, notifications).
+System Administrator, The Photo Store 	04/2013 – 04/2014 | Bangalore, India
+•Handled complete IT infrastructure like, Install, Configure, Troubleshoot, Maintainance, Update of OS, Adobe
+applications, Anti-Virus in Windows on MAC Desktops.
+•Configured In-house FTP server for outstation customers for Photos & Albums printing.
+•Provided supports to end users & handled security for devices (like Desktop, Laptop, Printers, Software etc.)
+System Administrator cum Faculty, ICAI-Bangalore 	08/2012 – 04/2013 | Bangalore, India
+•Install, Configure & Maintenance of OS, Applications, and Anti-Virus (periodically).
+•Handled issues of Student registration/ Cloud campus portal issues (like course registration & result oriented).
+•Taught ITT courses for CA Students/ Conducted tests & exams/ prepared consolidated Batch Report .
+•Maintained Branch Website (like update events, notifications, Live events telecasts & upload after the sessions).
+•Handled webcasting of workshops/ seminars/ Conferences.
+•Handled around 300+ user systems of Windows.
+DevOps Engineer with 4 years of expertise in automating, deploying, and managing cloud
+infrastructure using AWS, Jenkins, Docker, Kubernetes, and Terraform.
+Strong troubleshooting and optimization skills for CI/CD pipelines, Infrastructure as Code (IaC),
+and Linux systems.
+Proven ability to collaborate with cross-functional teams and communicate complex technical
+concepts effectively.
+Independent work method, high commitment to delivery and self responsibility & ownership. Eager to
+learn new technology & contribute as DevOps Engineer for organizational needs.
+•Writing shell scripts to make daily tasks as automate with Creating CI/CD pipelines by integrating GitHub,
+Maven, Jenkins.
+
+-- 1 of 2 --
+
+Senior Technical Executive (South India In-charge),
+Karizma (A Division of Monarch Innovative Technologies Pvt. Ltd.,)
+03/2009 – 08/2012 | Mumbai, India
+•Provided application support to customers (like install & activation) for inhouse photo designing Software.
+•Provided software training to the dealers, their staffs & customers.
+•Provided solutions for client request/ approach & productivity Increase.
+Junior Technical Engineer,
+Soaring Stocks & Commodities (India) Pvt. Ltd.
+02/2008 – 02/2009 | Bangalore, India
+•Handled installation / Administation of Linux Server.
+•Troubleshoot system & network issues of dealers & customers.
+•Supported to Install & configure the commodities relevent Software in office & client place (onsite & remotely).
+•Maintained the network speed for real-time order process & monitored band-width for smooth operation.
+Asst. System Engineer cum Graphic Designer, Photo Emporium 	10/2005 – 06/2008 | Bangalore, India
+•Worked as Asst. Hardware & Network Engineer by Providing technical & Software training to new staffs.
+•Also worked as Photo & Graphics designer.
+•Handled Customers technical issues to upload photos from their smart device.
+SKILLS
+PROJECTS
+Cloud-Enabled Web Infrastructure Deployment, EC2, S3, EFS, VPC, RDS, ALB, ASG, Route 53, CloudFront
+•Built scalable and highly available web infrastructure on AWS using EC2, S3, EFS, and RDS with Read Replica.
+•Configured NGINX on EC2 instances, integrated Route 53 for domain routing, and used ALB/ASG with CloudFront
+for Load Balancing and content delivery.
+•Implemented IAM roles and security groups for secure access control across services.
+•Enabled automated backups and monitoring using CloudWatch and SNS for alerting and logs.
+Automated Infrastructure Deployment with Terraform and AWS, Terraform, EC2, S3, VPC, RDS, Jenkins, GitHub
+•Developed Terraform scripts for provisioning cloud resources, enabling Infrastructure as Code (IaC) practices.
+•Automated infrastructure deployments using Jenkins pipelines, reducing manual effort by 0%.
+•Ensured security best practices by configuring IAM roles and policies.
+•Enhanced scalability and reliability using AWS auto-scaling and load balancing features.
+CERTIFICATIONS
+AWS Solutions Architect Certification & Devops, MicroDegree
+A+, N+ Certification, JetKing - Rajajinagar, Bengaluru
+DTP & Graphic Designer Certification, CTCUP, Bengaluru
+EDUCATION
+MCA, IGNOU
+BCA, IGNOU
+Cloud Platforms: AWS (EC2, S3, VPC, Route 53, RDS, IAM, CloudWatch, Auto Scaling, ALB)
+CI/CD Tools: Jenkins, AWS Code Pipeline, GitHub
+Infrastructure as Code: Terraform, Ansible
+Containerization & Orchestration: Docker, Kubernetes
+Scripting: Bash (Basic)
+Source Control: Git, GitHub
+Monitoring & Logging: Prometheus, Grafana, CloudWatch
+Operating Systems: Linux, Windows, Mac
+
+-- 2 of 2 --
+

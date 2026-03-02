@@ -1,4 +1,5 @@
-import React, { useMemo, useRef, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
+import axios from "axios";
 
 async function copyToClipboard(text) {
   const value = String(text ?? "");
@@ -24,8 +25,8 @@ function ScorePill({ value }) {
     score >= 80
       ? "bg-emerald-50 text-emerald-700 ring-emerald-200"
       : score >= 60
-      ? "bg-amber-50 text-amber-700 ring-amber-200"
-      : "bg-rose-50 text-rose-700 ring-rose-200";
+        ? "bg-amber-50 text-amber-700 ring-amber-200"
+        : "bg-rose-50 text-rose-700 ring-rose-200";
 
   return (
     <span
@@ -63,11 +64,20 @@ function LoadingSkeleton() {
   );
 }
 
-export default function ResultsTable({ results, loading }) {
+export default function ResultsTable({
+  apiBase: apiBaseProp,
+  results,
+  loading,
+}) {
   const [query, setQuery] = useState("");
   const [sortDir, setSortDir] = useState("desc");
   const [copiedKey, setCopiedKey] = useState(null);
   const copyTimerRef = useRef(null);
+
+  const [expEdits, setExpEdits] = useState({});
+  const [expSaving, setExpSaving] = useState({});
+  const [expError, setExpError] = useState({});
+  const [expSaved, setExpSaved] = useState({});
 
   const normalized = useMemo(() => {
     const list = Array.isArray(results) ? results : [];
@@ -78,8 +88,28 @@ export default function ResultsTable({ results, loading }) {
       matchedSkills: Array.isArray(r.matchedSkills) ? r.matchedSkills : [],
       missingSkills: Array.isArray(r.missingSkills) ? r.missingSkills : [],
       experienceFound: r.experienceFound ?? r.experience ?? r.years ?? null,
+      experienceOverride: r.experienceOverride ?? null,
+      experienceUsed: r.experienceUsed ?? null,
     }));
   }, [results]);
+
+  // Initialize editable experience values from incoming results.
+  useEffect(() => {
+    const next = {};
+    for (const r of normalized) {
+      if (!r?.fileName) continue;
+      const seed =
+        r.experienceOverride != null
+          ? r.experienceOverride
+          : r.experienceFound != null
+            ? r.experienceFound
+            : "";
+      next[r.fileName] = seed;
+    }
+    setExpEdits(next);
+    setExpError({});
+    setExpSaved({});
+  }, [normalized]);
 
   const filteredAndSorted = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -95,6 +125,67 @@ export default function ResultsTable({ results, loading }) {
       return a._idx - b._idx;
     });
   }, [normalized, query, sortDir]);
+
+  const apiBase = useMemo(() => {
+    return (
+      apiBaseProp || import.meta.env.VITE_API_BASE || "http://localhost:8000"
+    );
+  }, [apiBaseProp]);
+
+  async function saveExperienceOverride(fileName) {
+    const raw = expEdits?.[fileName];
+    const n = Number(raw);
+    if (!Number.isFinite(n) || n < 0 || n > 80) {
+      setExpError((m) => ({
+        ...m,
+        [fileName]: "Enter a number between 0 and 80",
+      }));
+      return;
+    }
+
+    setExpSaving((m) => ({ ...m, [fileName]: true }));
+    setExpError((m) => ({ ...m, [fileName]: "" }));
+    setExpSaved((m) => ({ ...m, [fileName]: false }));
+    try {
+      await axios.patch(
+        `${apiBase}/api/resumes/${encodeURIComponent(String(fileName))}/experience`,
+        { experienceYearsOverride: n },
+      );
+      setExpSaved((m) => ({ ...m, [fileName]: true }));
+      // Note: match % won't update until user reruns match.
+    } catch (err) {
+      const message =
+        err?.response?.data?.error || err?.message || "Save failed";
+      setExpError((m) => ({ ...m, [fileName]: message }));
+    } finally {
+      setExpSaving((m) => ({ ...m, [fileName]: false }));
+      setTimeout(() => {
+        setExpSaved((m) => ({ ...m, [fileName]: false }));
+      }, 1500);
+    }
+  }
+
+  async function clearExperienceOverride(fileName) {
+    setExpSaving((m) => ({ ...m, [fileName]: true }));
+    setExpError((m) => ({ ...m, [fileName]: "" }));
+    setExpSaved((m) => ({ ...m, [fileName]: false }));
+    try {
+      await axios.patch(
+        `${apiBase}/api/resumes/${encodeURIComponent(String(fileName))}/experience`,
+        { experienceYearsOverride: null },
+      );
+      setExpSaved((m) => ({ ...m, [fileName]: true }));
+    } catch (err) {
+      const message =
+        err?.response?.data?.error || err?.message || "Clear failed";
+      setExpError((m) => ({ ...m, [fileName]: message }));
+    } finally {
+      setExpSaving((m) => ({ ...m, [fileName]: false }));
+      setTimeout(() => {
+        setExpSaved((m) => ({ ...m, [fileName]: false }));
+      }, 1500);
+    }
+  }
 
   return (
     <div className="space-y-4">
@@ -164,6 +255,9 @@ export default function ResultsTable({ results, loading }) {
                       Experience Found
                     </th>
                     <th className="px-4 py-3 text-left text-xs font-semibold text-slate-600">
+                      Experience Override
+                    </th>
+                    <th className="px-4 py-3 text-left text-xs font-semibold text-slate-600">
                       Matched Skills
                     </th>
                     <th className="px-4 py-3 text-left text-xs font-semibold text-slate-600">
@@ -187,9 +281,81 @@ export default function ResultsTable({ results, loading }) {
                         <ScorePill value={r.match} />
                       </td>
                       <td className="px-4 py-3 text-sm text-slate-700">
-                        {r.experienceFound ?? (
-                          <span className="text-slate-400">—</span>
-                        )}
+                        <div className="space-y-1">
+                          <div>
+                            {r.experienceFound ?? (
+                              <span className="text-slate-400">—</span>
+                            )}
+                          </div>
+                          {r.experienceOverride != null ? (
+                            <div className="text-xs text-slate-500">
+                              Used: {r.experienceUsed ?? r.experienceOverride}{" "}
+                              (override)
+                            </div>
+                          ) : r.experienceUsed != null ? (
+                            <div className="text-xs text-slate-500">
+                              Used: {r.experienceUsed}
+                            </div>
+                          ) : null}
+                        </div>
+                      </td>
+
+                      <td className="px-4 py-3">
+                        <div className="space-y-2">
+                          <input
+                            type="number"
+                            min={0}
+                            step={1}
+                            value={expEdits?.[r.fileName] ?? ""}
+                            onChange={(e) => {
+                              const v = e.target.value;
+                              setExpEdits((m) => ({
+                                ...(m || {}),
+                                [r.fileName]: v,
+                              }));
+                              setExpError((m) => ({
+                                ...(m || {}),
+                                [r.fileName]: "",
+                              }));
+                            }}
+                            className="w-28 rounded-lg border border-slate-200 bg-white px-2 py-1 text-sm outline-none focus:border-slate-400"
+                            placeholder="Years"
+                          />
+
+                          <div className="flex items-center gap-2">
+                            <button
+                              type="button"
+                              onClick={() => saveExperienceOverride(r.fileName)}
+                              disabled={!!expSaving?.[r.fileName]}
+                              className="inline-flex items-center rounded-lg bg-slate-900 px-2.5 py-1.5 text-xs font-semibold text-white hover:bg-slate-800 disabled:opacity-60"
+                            >
+                              {expSaving?.[r.fileName] ? "Saving…" : "Save"}
+                            </button>
+                            <button
+                              type="button"
+                              onClick={() =>
+                                clearExperienceOverride(r.fileName)
+                              }
+                              disabled={!!expSaving?.[r.fileName]}
+                              className="inline-flex items-center rounded-lg border border-slate-200 bg-white px-2.5 py-1.5 text-xs font-semibold text-slate-700 hover:bg-slate-50 disabled:opacity-60"
+                              title="Remove override and use extracted experience"
+                            >
+                              Clear
+                            </button>
+
+                            {expSaved?.[r.fileName] ? (
+                              <span className="text-xs font-semibold text-emerald-700">
+                                Saved
+                              </span>
+                            ) : null}
+                          </div>
+
+                          {expError?.[r.fileName] ? (
+                            <div className="text-xs text-rose-700">
+                              {expError[r.fileName]}
+                            </div>
+                          ) : null}
+                        </div>
                       </td>
                       <td className="px-4 py-3">
                         <div className="flex flex-wrap gap-1.5">
@@ -225,7 +391,7 @@ export default function ResultsTable({ results, loading }) {
                                     }
                                     copyTimerRef.current = setTimeout(
                                       () => setCopiedKey(null),
-                                      1200
+                                      1200,
                                     );
                                   }
                                 }}

@@ -1,0 +1,91 @@
+Malhar Ashrit
+Senior Engineer
+malharashrit99@gmail.com 	9019658537 	Bengaluru 	linkedin.com/in/ashrit12
+Professional Summary
+Software Engineer with 12 years of IT experience and 5+ years specializing in DevOps, Cloud Engineering,
+and Infrastructure Automation. Extensive experience in CI/CD pipeline implementation, cloud platforms
+(AWS), Infrastructure as Code, containerization (Docker, Kubernetes), and automation. Strong expertise in
+Linux, monitoring and logging tools, Agile/Scrum methodologies, and production support. Adept at
+collaborating with cross-functional teams to drive DevOps transformation and continuous delivery
+initiatives
+Work Experience
+ATG Business solutions
+Senior Engineer
+•Designed and implemented CI/CD pipelines using Jenkins and GitHub Actions
+to automate code integration, testing and deployment
+10/2021 – 04/2025
+•Containerized applications with Docker and orchestrated deployments using
+Kubernetes
+•Automated infrastructure provisioning and deployments using Terraform,
+Ansible
+•Monitoring system performance and availability using Prometheus, Grafana
+and CloudWatch
+•Managed cloud environments (AWS) ensuring scalability and security
+•Collaborated with development and QA teams to streamline workflows and
+improve release
+•Designed and deployed cloud infrastructure using AWS EC2, S3, Cloud Front
+•Implemented CloudWatch alarms, and dashboards, improving system
+visibility by 45%
+Wabtec India pvt ltd
+Senior Test Engineer
+•Preparation of test plan, test cases, executions and defect tracking with Jira,
+Azure devops
+08/2017 – 10/2021
+•Testing web & mobile applications on Android and iOS with selenium,
+Appium, android studio
+•Adhered to Agile process including refinements, planning, retrospective
+meetings
+TEKsystems Global service
+Test Engineer
+•Understanding workflow, prepare test plan, test documents
+08/2014 – 08/2017
+•Execution of automation test scripts using Selenium
+•Execution of test cases, defect tracking and preparing test execution reports
+•Testing application in both web and Mobile devices
+•Interactions with developers and client
+
+-- 1 of 2 --
+
+Marlabs software pvt ltd
+Test Analyst
+•Identify scenarios and write testcases
+06/2012 – 06/2014
+•Responsible for smoke testing, Integration testing and regression testing
+•Defect tracking and retesting
+•Document the success and failures and report to team lead
+Projects
+Automation of CI/CD Pipeline for spring boot Java application
+•Designed and implemented CI/CD pipeline for spring boot Java application using Git, Jenkins,
+Maven,Docker, and Kubernetes to streamline build, test, and deployment workflows
+•Utilized Docker containers for consistent testing and deployment across environments
+•Supported Kubernetes-based microservices deployments in collaboration with cross-functional teams,
+ensuring highavailability and monitoring with CloudWatch and Prometheus
+•Implemented Infrastructure as Code using Terraform to provision scalable, secure environments across
+multi-cloud platforms
+•Automated deployment workflows across AWS services (EC2, S3, Lambda), improving scalability and
+reducing manualintervention by 30%
+•Performed end-to-end troubleshooting of cloud infrastructure issues, restoring services quickly and
+minimizing downtime
+•Collaborated with development, QA, and release management teams to resolve compliants
+Cloud Integration on Multiple VPC's in different regions
+•Configured and connected multiple VPC's in different regions with VPC peering
+•Connected multiple VPC's with different user accounts to communicate privately
+•Sharing traffic securely with serverless connections and without using internet
+IAM Cross Account Access control
+•Creating IAM users and user groups for verifying Authontication and Authorizations
+•Creating Security Token Service (STS) policy to IAM user groups
+•Verify Authorization is available to access pre-production resources like S3 and EC2 by switching roles
+Skills
+•Devops Tools: Jenkins, Docker, Kubernates, Terraform, Maven
+•Cloud Platforms: AWS (EC2, S3, VPC,Route53, RDS, EBS, EFS, IAM, Load balancer)
+•Monitoring & Logging: Prometheus, Graphana, CloudWatch
+•Containerization & Orchestration: Docker, Kubernetes, Amazon EKS
+•Database: RDS, DynamoDB, MySQL and Oracle
+•Repository: Github, Data Management portal
+•Testing: Functional Testing (web and Mobile applications), API testing, Performance testing (Jmeter)
+Education
+Bachelor of Engineering
+Visvesvaraya Technological University - Belgaum
+
+-- 2 of 2 --
+

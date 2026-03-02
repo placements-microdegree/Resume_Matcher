@@ -1,0 +1,85 @@
+Murali Kumar S
+Devops Engineer
+9 1 1 3 6 7 8 8 7 9 Bangalore
+Professional Summary
+DevOps Engineer and System & Network Admin with 3+ years of IT experience in designing, deploying, and
+managing scalable cloud infrastructure and automation solutions. Proficient in implementing CI/CD pipelines
+using Jenkins, Terraform, Docker, and Kubernetes, with strong expertise in AWS cloud services. Skilled in
+containerization, orchestration, and infrastructure-as-code to deliver reliable, high-performing solutions.
+Recognized with a Customer Delight Award and multiple client appreciations for driving efficiency, ensuring
+smooth releases, and contributing to business success.
+Work Experience
+System & Network Admin with Devops Engineer, Spectrum Talent management 06/2024 – 02/2025 | Bangalore
+Designed and managed CI/CD pipelines using Jenkins, Docker, Kubernetes and python scripting for automation
+reducing deployment time by 40% and improving release frequency.
+Automated infrastructure provisioning with Terraform, which improved infrastructure efficiency by 35% and
+reduced manual setup efforts.
+Deployed and managed AWS services (EC2, VPC, S3, IAM, Auto Scaling), enhancing application scalability and
+reducing downtime by 25%.
+Implemented monitoring and alerting with Prometheus and Grafana, improving incident response time.
+Collaborated with developers, QA, and release teams to troubleshoot build failures, reducing production issues
+by 20%.
+System & Network Admin with Devops Engineer, VK Computers 	07/2023 – 06/2024 | Bangalore
+Built CI/CD pipelines with Jenkins and Terraform to automate AWS infrastructure provisioning, reducing manual
+efforts by 45%.
+Managed containerized deployments using Docker and Kubernetes, improving scalability and resource utilization
+by 30%.
+Implemented AWS solutions (EC2, S3,IAM, CloudWatch, Auto Scaling), increasing application availability and
+reliability by 25%.
+Developed custom Docker images and automated builds, which reduced environment inconsistencies by 20%.
+Developed and optimized Python scripts for automation, log analysis, and system monitoring, improving
+operational efficiency and reducing manual intervention.
+Worked with Jira for issue tracking and sprint planning, improving team collaboration and delivery efficiency.
+Projects
+DSC Storage Automation Framework, Client GPS Renewables 07/2023 – 02/2025
+Designed and implemented Jenkins CI/CD pipelines, resolving build failures and ensuring smooth, automated
+deployments.
+Automated AWS infrastructure provisioning using Terraform (IaC), improving scalability and reducing manual efforts.
+Built and deployed containerized applications with Docker and orchestrated services on Kubernetes clusters.
+Integrated Prometheus and Grafana for real-time monitoring, proactive alerting, and improved incident response.
+Collaborated with Agile teams for release planning, log analysis, and troubleshooting, ensuring reliable software
+delivery.
+Built and managed CI/CD pipelines using Jenkins and Terraform to automate AWS infrastructure provisioning and
+application deployments.
+Implemented AWS solutions including VPC, EC2, S3, RDS, IAM, ELB, Auto Scaling, Security Groups, and CloudWatch for
+secure and efficient cloud operations.
+Developed custom Docker images and optimized container-based deployments, reducing build failures and improving
+release quality.
+Collaborated with developers, QA, and architects to debug builds, optimize deployments, and manage project
+activities using Jira.
+muralikumars302@gmail.com
+
+-- 1 of 2 --
+
+Skills
+Container Tool : Docker
+IaC and Automation : Terraform, Kubernetes
+Version Control Tools : Git, GitHub
+CI/CD Tools : Jenkins
+Cloud Services : AWS (EC2, AMI, S3, IAM, VPC)
+Scripting & Development : Python, Bash, YAML
+Monitoring Tools : Prometheus, Grafana, Cloudwatch
+Agile & Collaboration Tools: Jira
+Operating Systems : Linux (CentOS, Ubuntu, RHEL),
+Windows Server
+Certificates
+AWS Solutions Architect (Microdegree)
+Devops Engineer (Microdegree)
+Additional Work Experience
+Network Admin, Experis IT Pvt Ltd (Client Telstra) 	06/2019 – 11/2019 | Bangalore
+Ensure 100% stable operation and efficient performance of the 7+ departments network infrastructure.
+Monitored, troubleshoot and analyzed network performance across the organization’s LANs, WANs, and
+wireless deployments, improving network performance by over 50%.
+Senior Analyst, TrueBlue India LLP (Client Dell) 	05/2017 – 05/2019 | Bangalore
+Managing the entire IT hardware asset management lifecycle for all corporate hardware assets.
+Created, implemented, and monitored corporate IT hardware asset management policies, procedures,
+processes, work instructions, compliance, and governance.
+Negotiated and managed IT vendor relationships and contracts from procurement to disposal.
+Managed IT hardware warranties, repair, and redeployment to maximize the value of IT hardware.
+Education
+Bachelor of Commerce, C.C.S University Meerut 	11/2019 – 05/2022 | Meerut
+Diploma in Electronic and Communication, K.S Polytechnic 	08/2008 – 05/2011 | Bangalore
+SSLC, JHS School 	06/1998 – 05/2008 | Bangalore
+
+-- 2 of 2 --
+

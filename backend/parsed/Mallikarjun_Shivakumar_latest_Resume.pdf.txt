@@ -1,0 +1,95 @@
+Mallikarjuns0412@gmail.com
+MALLIKARJUN S
+Devops Engineer
+Bengaluru, KARNATAKA, IN 	+91 9743013534
+DevOps Engineer with 5 years of experience in designing and implementing CI/CD pipelines, cloud infrastructure, and
+containerized deployment solutions across AWS and Kubernetes environments. Skilled in Infrastructure as Code (Terraform),
+automation, monitoring, and release management to enable scalable, secure, and highly available systems. Proven ability to bridge
+development and operations by improving deployment frequency, reducing failure rates, and enhancing system reliability through
+DevOps best practices and SRE principles.
+Professional Summary
+CI/CD & DevOps Tools: Jenkins, GitLab CI, GitHub Actions
+Cloud Platforms: Amazon Web Services (EC2, IAM, S3, RDS, Lambda, EKS, Route53, Load Balancer, CloudWatch)
+Infrastructure as Code: Terraform, AWS CloudFormation (fundamentals)
+Containers & Orchestration: Docker, Kubernetes, Amazon EKS
+Version Control: Git
+Monitoring & Observability: Prometheus, Grafana, ELK Stack, AWS CloudWatch
+Scripting & Automation: Bash, Shell Scripting
+Security & Compliance: IAM, Security Groups, Vulnerability Awareness, Cloud Security Best Practices
+Operating Systems: Linux (RHEL/Ubuntu)
+SKILLS
+-
+Designed and maintained enterprise-grade CI/CD pipelines enabling automated build, test, and deployment workflows.
+Managed CI/CD infrastructure including compute, storage, networking, and pipeline orchestration across on-prem and cloud
+environments.
+Automated application deployment using scripting and DevOps tooling to reduce manual effort and deployment failures.
+Implemented standardized internal tools and frameworks to streamline development and release processes.
+Ensured environment portability by building infrastructure-agnostic deployment workflows.
+Monitored application performance and system health using observability tools.
+Identified and resolved performance bottlenecks improving application response time and stability.
+Enhanced system scalability and uptime through proactive monitoring and automation.
+Implemented secure deployment practices aligned with organizational security standards.
+Supported application deployments for internal teams and external client environments.
+Trained development teams on CI/CD usage and DevOps best practices.
+Participated in architectural design reviews to ensure release readiness and deployment compatibility.
+Continuously evaluated emerging DevOps technologies and introduced improvements to existing pipelines.
+-
+Contributed to end-to-end system, integration, and UAT cycles for multiple projects.
+Ensured thorough test coverage by linking traceability matrices to requirements.
+Conducted cross-browser and mobile testing using BrowserStack
+Assisted in documentation and knowledge transfer activities.
+-
+Successfully executed API and database validation using Postman and SQL queries for insurance and e-commerce platforms.
+Collaborated in Agile sprints, participated in daily stand-ups, sprint planning, and retrospectives.
+Improved bug documentation process, reducing resolution time by 25%.
+Work experience
+Oracle Financial Services Software – Bengaluru 	2018-10 2025-10
+DevOps Engineer
+Zenith Software Ltd 	2014-08 2017-03
+Software QC Engineer
+Zeal Encore Technologies 	2014-01 2016-10
+Software Tester
+Automation of Financial Services Cloud Applications:
+Project
+
+-- 1 of 2 --
+
+Designed and implemented a CI/CD pipeline for Java-based Financial Services Cloud applications using Git, Jenkins, Maven,
+Docker, and Kubernetes to streamline build, test, and deployment workflows.
+Supported Kubernetes-based microservices deployments in collaboration with cross-functional teams, ensuring high
+availability and strong performance monitoring with CloudWatch and Prometheus.
+Implemented Infrastructure as Code using Terraform to provision scalable, secure environments across multi-cloud platforms.
+Streamlined system provisioning, configuration, and monitoring with Ansible and AWS tools, enabling cost-effective and reliable
+infrastructure management.
+Led end-to-end troubleshooting of cloud infrastructure issues, restoring services quickly and minimizing downtime through
+strong diagnostic and problem-solving skills
+Improved operational efficiency by integrating automation and cloud-native practices that optimized resource utilization across
+environments
+Collaborated with development, QA, and release management teams to ensure risk-free, compliant, and auditable CI/CD
+processes aligned with financial industry standards.
+End-to-End CI/CD & Kubernetes Deployment Automation
+Built a full CI/CD pipeline using Jenkins, Maven, Docker, and Kubernetes for automated build, test, and deployment workflows.
+Provisioned AWS infrastructure using Terraform (IaC).
+Implemented Docker containerization and deployed workloads on Kubernetes (EKS)
+Integrated Prometheus & Grafana monitoring with alerting for proactive issue detection
+Applied IAM policies and cloud security best practices for secure deployments.
+Automated environment setup and application deployment using Ansible
+Cloud Infrastructure Deployment:
+Supported deployment of applications in cloud-based environments ensuring portability.
+Implemented infrastructure aligned with scalability and resilience best practices.
+Automated provisioning and deployment workflows for cloud-hosted applications.
+Collaborated on secure access design including bastion-based connectivity.
+CI/CD for Containerized Workloads:
+Integrated container build and deployment into CI/CD pipelines.
+Enabled environment consistency across development, staging, and production.
+Reduced deployment downtime through automated rollout strategies.
+Bachelor of Engineering: Electronic and Communication
+VTU - Belgaum, Belgaum
+Education
+Bachelor of Engineering
+Global compliance certification
+Played a key role in the successful launches of 3 major software release, ensuring timely and high-quality releases
+Achievements
+
+-- 2 of 2 --
+

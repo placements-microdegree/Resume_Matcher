@@ -1,0 +1,69 @@
+Prathiksha Devadiga
+Associate DevOps / Cloud Engineer
+prathikshaa991@gmail.com 	8971897321 	Udupi 	prathiksha-devadiga 	prathikshaud28
+Professional Summary
+Aspiring Cloud and DevOps Engineer with 4 years of experience at Tata Consultancy Services, supporting fibre
+network projects for British Telecom Openreach. Skilled in AWS, CI/CD pipelines, automation, and Linux, with
+hands-on experience in Terraform, Docker, Kubernetes, and Jenkins, along with strong networking and
+troubleshooting expertise. Currently expanding knowledge in Microsoft Azure and advanced DevOps practices,
+seeking an entry-level Cloud/DevOps role to apply cloud and infrastructure skills.
+Technical Skills
+Cloud & Infrastructure: AWS (EC2, S3, RDS, VPC, IAM, Route53, CloudWatch, Lambda), Microsoft Azure (currently
+learning)
+DevOps & CI/CD: Jenkins, Git, GitHub Actions, AWS CodePipeline, Code Build, Code Deploy
+Containers & Orchestration: Docker, Kubernetes (basic deployments and orchestration fundamentals)
+Scripting & Automation: Shell scripting, Groovy (Jenkins pipelines), cron jobs, EC2 user data scripts
+Monitoring & Logging: AWS CloudWatch, Grafana (basic), log rotation, alerting
+Networking & Security: VPC architecture, subnets, route tables, NAT gateways, security groups ,DNS (Route 53)
+Operating Systems & Web Servers: Linux (Ubuntu, Amazon Linux), Apache, Nginx
+Other Tools: Excel (advanced formulas, VBA), ArcGIS,Static website hosting using Amazon S3 and Route 53
+Professional Experience
+Network Planning Engineer, Tata Consultancy Services (TCS) 	06/2021 – 09/2025 | Bangalore
+Client: British Telecom – Openreach
+Role: Designer / Network Fibre Planner
+•Managed end-to-end fibre network planning and design (FTTP / FTTH / FTTX) ensuring high-quality deliverables
+•Designed CBT network layouts using ORION and PIPER, and prepared As-Built, Node Split, and New-Build plans
+•Ensured compliance with BT design standards through design reviews, QC checks, and validation processes
+•Coordinated with clients and stakeholders for design clarifications, updates, and approvals
+•Supported effort estimation, cost analysis, and product planning activities
+•Implemented process improvements that reduced rework and improved planning accuracy and delivery
+timelines
+•Provided technical support to team members and collaborated with cross-functional teams for successful project
+delivery
+Projects
+AWS Infrastructure Automation using Terraform (Hands-on Project)
+Tools: AWS (EC2, VPC, Security Groups), Terraform, Linux, NGINX
+•Designed and provisioned AWS infrastructure using Terraform, including VPC, public subnet, Internet Gateway,
+and route tables
+•Automated EC2 instance creation and NGINX installation using cloud-init user data scripts
+•Configured security groups to securely allow SSH (22) and HTTP (80) access
+•Implemented Infrastructure as Code (IaC) for repeatable, version-controlled, and consistent deployments
+•Deployed and validated NGINX web server by accessing the application through the EC2 public IP
+CI/CD Pipeline Automation for Django Application on AWS (Hands-on Project)
+Tools: AWS (EC2), Jenkins, Docker, Docker Hub, Kubernetes, Git, GitHub, Linux, Python, Django
+
+-- 1 of 2 --
+
+•Supported and maintained a CI/CD pipeline, diagnosing build and deployment failures
+•Analyzed Jenkins logs to resolve pipeline and configuration issues
+•Containerized applications using Docker and supported deployments on Kubernetes
+•Improved deployment reliability and reduced manual intervention through automation
+Certificates
+AWS Solutions Architect (Micro Degree Skilling Institute (2025))
+DevOps Engineer (Micro Degree Skilling Institute (2026))
+Awards & Recognition
+Service & Commitment Award – TCS (June 2024)
+Recognized for 3 years of dedicated service and consistent performance
+Star of the Month – TCS (March, May, December 2024)
+Awarded multiple times for outstanding contributions, dedication, and leadership
+Certificate of Appreciation – TCS (January 2024)
+Recognized for energy, enthusiasm, and positive impact on team performance
+Xcelerate Warrior Recognition – TCS(July 2023)
+Honored for growth potential and commitment to career development
+Education
+Bachelor of Computer Applications(BCA),
+Mahatma Gandhi Memorial College Udupi
+06/2017 – 12/2020 | Udupi
+
+-- 2 of 2 --
+

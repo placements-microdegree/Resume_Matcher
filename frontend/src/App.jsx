@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useMemo, useState } from "react";
 import SearchForm from "./components/SearchForm.jsx";
 import ResultsTable from "./components/ResultsTable.jsx";
 import ScrollToTopButton from "./components/ScrollToTopButton.jsx";
@@ -6,6 +6,10 @@ import ScrollToTopButton from "./components/ScrollToTopButton.jsx";
 export default function App() {
   const [results, setResults] = useState([]);
   const [loading, setLoading] = useState(false);
+
+  const apiBase = useMemo(() => {
+    return import.meta.env.VITE_API_BASE || "http://localhost:8000";
+  }, []);
 
   return (
     <div className="min-h-screen">
@@ -19,11 +23,19 @@ export default function App() {
 
         <div className="grid gap-6 lg:grid-cols-[420px_1fr]">
           <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-            <SearchForm onResults={setResults} onLoadingChange={setLoading} />
+            <SearchForm
+              apiBase={apiBase}
+              onResults={setResults}
+              onLoadingChange={setLoading}
+            />
           </div>
 
           <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-            <ResultsTable results={results} loading={loading} />
+            <ResultsTable
+              apiBase={apiBase}
+              results={results}
+              loading={loading}
+            />
           </div>
         </div>
 

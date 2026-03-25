@@ -1,6 +1,37 @@
 {
   "improvementHistory": [
     {
+      "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779959",
+      "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
+      "fileName": "Mallikarjun_Shivakumar_latest_Resume.pdf",
+      "jobLabel": "devops",
+      "jobDescriptionSnippet": "devops",
+      "requiredExperience": 2,
+      "match": 82.8,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "mallikarjuns0412@gmail.com mallikarjun s devops engineer bengaluru, karnataka, in +91 9743013534 devops engineer with 5 years of experience in designing and implementing ci/cd pipelines, cloud infrastructure, and contain...",
+        "manual effort and deployment failures. implemented standardized internal tools and frameworks to streamline development and release processes. ensured environment portability by building infrastructure-agnostic deploymen...",
+        "continuously evaluated emerging devops technologies and introduced improvements to existing pipelines. - contributed to end-to-end system, integration, and uat cycles for multiple projects. ensured thorough test coverage..."
+      ],
+      "matchedRequirements": [
+        "devops"
+      ],
+      "missingRequirements": [],
+      "improvementSuggestions": [
+        "Move devops closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Mallikarjun_Shivakumar_latest_Resume.pdf\nCurrent match: 83% (HIGH)\nSummary: Strong overlap on devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T09:42:59.959Z"
+    },
+    {
       "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738843",
       "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
       "fileName": "Mallikarjun_Shivakumar_latest_Resume.pdf",
@@ -1010,91 +1041,38 @@
       "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
       "analysisCached": false,
       "updatedAt": "2026-03-25T06:15:31.744Z"
-    },
-    {
-      "id": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909:1774419242286",
-      "jobHash": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909",
-      "fileName": "Mallikarjun_Shivakumar_latest_Resume.pdf",
-      "jobLabel": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "jobDescriptionSnippet": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "requiredExperience": 0,
-      "match": 81.6,
-      "bucket": "high",
-      "recommendation": "Strong shortlist candidate.",
-      "matchingSummary": "Strong overlap on aws, cicd, gitlab.",
-      "generatedResponse": "Strong overlap on aws, cicd, gitlab.",
-      "evidenceHighlights": [
-        "s3, rds, lambda, eks, route53, load balancer, cloudwatch) infrastructure as code: terraform, aws cloudformation (fundamentals) containers & orchestration: docker, kubernetes, amazon eks version control: git monitoring &...",
-        "mallikarjuns0412@gmail.com mallikarjun s devops engineer bengaluru, karnataka, in +91 9743013534 devops engineer with 5 years of experience in designing and implementing ci/cd pipelines, cloud infrastructure, and contain...",
-        "and aws tools, enabling cost-effective and reliable infrastructure management. led end-to-end troubleshooting of cloud infrastructure issues, restoring services quickly and minimizing downtime through strong diagnostic a..."
-      ],
-      "matchedRequirements": [
-        "aws",
-        "cicd",
-        "gitlab",
-        "jenkins",
-        "linux",
-        "linux shell scripting",
-        "scripting",
-        "shell"
-      ],
-      "missingRequirements": [
-        "azure",
-        "gcp"
-      ],
-      "improvementSuggestions": [
-        "Add clear evidence for azure, gcp if you have that experience.",
-        "Move aws, cicd, gitlab closer to the resume summary or latest project bullets.",
-        "Quantify impact with metrics so the strongest matching skills feel more credible."
-      ],
-      "improvementMessage": "Resume: Mallikarjun_Shivakumar_latest_Resume.pdf\nCurrent match: 82% (HIGH)\nSummary: Strong overlap on aws, cicd, gitlab.\nMissing or weak areas: azure, gcp\nSuggested improvements:\n- Add clear evidence for azure, gcp if you have that experience.\n- Move aws, cicd, gitlab closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
-      "analysisProvider": "hybrid-ml",
-      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
-      "analysisCached": false,
-      "updatedAt": "2026-03-25T06:14:02.286Z"
     }
   ],
   "latestImprovement": {
-    "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738843",
-    "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+    "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779959",
+    "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
     "fileName": "Mallikarjun_Shivakumar_latest_Resume.pdf",
-    "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "requiredExperience": 4,
-    "match": 80.7,
+    "jobLabel": "devops",
+    "jobDescriptionSnippet": "devops",
+    "requiredExperience": 2,
+    "match": 82.8,
     "bucket": "high",
     "recommendation": "Strong shortlist candidate.",
-    "matchingSummary": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
-    "generatedResponse": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+    "matchingSummary": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+    "generatedResponse": "Strong overlap on devops. Experience clears the 2+ year requirement.",
     "evidenceHighlights": [
-      "s3, rds, lambda, eks, route53, load balancer, cloudwatch) infrastructure as code: terraform, aws cloudformation (fundamentals) containers & orchestration: docker, kubernetes, amazon eks version control: git monitoring &...",
-      "and aws tools, enabling cost-effective and reliable infrastructure management. led end-to-end troubleshooting of cloud infrastructure issues, restoring services quickly and minimizing downtime through strong diagnostic a...",
-      "engineer zenith software ltd 2014-08 2017-03 software qc engineer zeal encore technologies 2014-01 2016-10 software tester automation of financial services cloud applications: project -- 1 of 2 -- designed and implemente..."
+      "mallikarjuns0412@gmail.com mallikarjun s devops engineer bengaluru, karnataka, in +91 9743013534 devops engineer with 5 years of experience in designing and implementing ci/cd pipelines, cloud infrastructure, and contain...",
+      "manual effort and deployment failures. implemented standardized internal tools and frameworks to streamline development and release processes. ensured environment portability by building infrastructure-agnostic deploymen...",
+      "continuously evaluated emerging devops technologies and introduced improvements to existing pipelines. - contributed to end-to-end system, integration, and uat cycles for multiple projects. ensured thorough test coverage..."
     ],
     "matchedRequirements": [
-      "aws",
-      "cicd",
-      "eks",
-      "grafana",
-      "jenkins",
-      "kubernetes",
-      "prometheus",
-      "terraform"
+      "devops"
     ],
-    "missingRequirements": [
-      "argocd",
-      "helm"
-    ],
+    "missingRequirements": [],
     "improvementSuggestions": [
-      "Add clear evidence for argocd, helm if you have that experience.",
-      "Move aws, cicd, eks closer to the resume summary or latest project bullets.",
+      "Move devops closer to the resume summary or latest project bullets.",
       "Quantify impact with metrics so the strongest matching skills feel more credible."
     ],
-    "improvementMessage": "Resume: Mallikarjun_Shivakumar_latest_Resume.pdf\nCurrent match: 81% (HIGH)\nSummary: Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, helm\nSuggested improvements:\n- Add clear evidence for argocd, helm if you have that experience.\n- Move aws, cicd, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+    "improvementMessage": "Resume: Mallikarjun_Shivakumar_latest_Resume.pdf\nCurrent match: 83% (HIGH)\nSummary: Strong overlap on devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
     "analysisProvider": "hybrid-ml",
     "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
     "analysisCached": false,
-    "updatedAt": "2026-03-25T07:12:18.843Z"
+    "updatedAt": "2026-03-25T09:42:59.959Z"
   },
   "experienceYearsOverride": 5
 }

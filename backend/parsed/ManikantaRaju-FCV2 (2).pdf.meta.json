@@ -1,6 +1,37 @@
 {
   "improvementHistory": [
     {
+      "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779961",
+      "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
+      "fileName": "ManikantaRaju-FCV2 (2).pdf",
+      "jobLabel": "devops",
+      "jobDescriptionSnippet": "devops",
+      "requiredExperience": 2,
+      "match": 82.3,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "for ca students/ conducted tests & exams/ prepared consolidated batch report . â€¢maintained branch website (like update events, notifications, live events telecasts & upload after the sessions). â€¢handled webcasting of...",
+        "and self responsibility & ownership. eager to learn new technology & contribute as devops engineer for organizational needs. â€¢writing shell scripts to make daily tasks as automate with creating ci/cd pipelines by integ...",
+        "manikantaraju aws & devops engineer manikantaraju33002@gmail.com 9902533002 bangalore manikantarajust stmanikantaraju professional summary work experience senior it administrator, dotmappers it pvt. ltd. 04/2019 â€“ pres..."
+      ],
+      "matchedRequirements": [
+        "devops"
+      ],
+      "missingRequirements": [],
+      "improvementSuggestions": [
+        "Move devops closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: ManikantaRaju-FCV2 (2).pdf\nCurrent match: 82% (HIGH)\nSummary: Strong overlap on devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T09:42:59.961Z"
+    },
+    {
       "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738843",
       "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
       "fileName": "ManikantaRaju-FCV2 (2).pdf",
@@ -1032,92 +1063,38 @@
       "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
       "analysisCached": false,
       "updatedAt": "2026-03-25T06:15:31.746Z"
-    },
-    {
-      "id": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909:1774419242287",
-      "jobHash": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909",
-      "fileName": "ManikantaRaju-FCV2 (2).pdf",
-      "jobLabel": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "jobDescriptionSnippet": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "requiredExperience": 0,
-      "match": 81.5,
-      "bucket": "high",
-      "recommendation": "Strong shortlist candidate.",
-      "matchingSummary": "Strong overlap on aws, cicd, jenkins.",
-      "generatedResponse": "Strong overlap on aws, cicd, jenkins.",
-      "evidenceHighlights": [
-        "auto scaling, alb) ci/cd tools: jenkins, aws code pipeline, github infrastructure as code: terraform, ansible containerization & orchestration: docker, kubernetes scripting: bash (basic) source control: git, github monit...",
-        "infrastructure deployment with terraform and aws, terraform, ec2, s3, vpc, rds, jenkins, github â€¢developed terraform scripts for provisioning cloud resources, enabling infrastructure as code (iac) practices. â€¢automat...",
-        "for ca students/ conducted tests & exams/ prepared consolidated batch report . â€¢maintained branch website (like update events, notifications, live events telecasts & upload after the sessions). â€¢handled webcasting of..."
-      ],
-      "matchedRequirements": [
-        "aws",
-        "cicd",
-        "jenkins",
-        "linux",
-        "linux shell scripting",
-        "scripting",
-        "shell",
-        "terraform"
-      ],
-      "missingRequirements": [
-        "azure",
-        "gcp",
-        "gitlab"
-      ],
-      "improvementSuggestions": [
-        "Add clear evidence for azure, gcp, gitlab if you have that experience.",
-        "Move aws, cicd, jenkins closer to the resume summary or latest project bullets.",
-        "Quantify impact with metrics so the strongest matching skills feel more credible."
-      ],
-      "improvementMessage": "Resume: ManikantaRaju-FCV2 (2).pdf\nCurrent match: 82% (HIGH)\nSummary: Strong overlap on aws, cicd, jenkins.\nMissing or weak areas: azure, gcp, gitlab\nSuggested improvements:\n- Add clear evidence for azure, gcp, gitlab if you have that experience.\n- Move aws, cicd, jenkins closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
-      "analysisProvider": "hybrid-ml",
-      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
-      "analysisCached": false,
-      "updatedAt": "2026-03-25T06:14:02.287Z"
     }
   ],
   "latestImprovement": {
-    "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738843",
-    "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+    "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779961",
+    "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
     "fileName": "ManikantaRaju-FCV2 (2).pdf",
-    "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "requiredExperience": 4,
-    "match": 78.2,
+    "jobLabel": "devops",
+    "jobDescriptionSnippet": "devops",
+    "requiredExperience": 2,
+    "match": 82.3,
     "bucket": "high",
     "recommendation": "Strong shortlist candidate.",
-    "matchingSummary": "Strong overlap on aws, cicd, grafana. Experience clears the 4+ year requirement.",
-    "generatedResponse": "Strong overlap on aws, cicd, grafana. Experience clears the 4+ year requirement.",
+    "matchingSummary": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+    "generatedResponse": "Strong overlap on devops. Experience clears the 2+ year requirement.",
     "evidenceHighlights": [
-      "auto scaling, alb) ci/cd tools: jenkins, aws code pipeline, github infrastructure as code: terraform, ansible containerization & orchestration: docker, kubernetes scripting: bash (basic) source control: git, github monit...",
-      "infrastructure deployment with terraform and aws, terraform, ec2, s3, vpc, rds, jenkins, github â€¢developed terraform scripts for provisioning cloud resources, enabling infrastructure as code (iac) practices. â€¢automat...",
-      "for ca students/ conducted tests & exams/ prepared consolidated batch report . â€¢maintained branch website (like update events, notifications, live events telecasts & upload after the sessions). â€¢handled webcasting of..."
+      "for ca students/ conducted tests & exams/ prepared consolidated batch report . â€¢maintained branch website (like update events, notifications, live events telecasts & upload after the sessions). â€¢handled webcasting of...",
+      "and self responsibility & ownership. eager to learn new technology & contribute as devops engineer for organizational needs. â€¢writing shell scripts to make daily tasks as automate with creating ci/cd pipelines by integ...",
+      "manikantaraju aws & devops engineer manikantaraju33002@gmail.com 9902533002 bangalore manikantarajust stmanikantaraju professional summary work experience senior it administrator, dotmappers it pvt. ltd. 04/2019 â€“ pres..."
     ],
     "matchedRequirements": [
-      "aws",
-      "cicd",
-      "grafana",
-      "jenkins",
-      "kubernetes",
-      "prometheus",
-      "terraform"
+      "devops"
     ],
-    "missingRequirements": [
-      "argocd",
-      "eks",
-      "helm"
-    ],
+    "missingRequirements": [],
     "improvementSuggestions": [
-      "Add clear evidence for argocd, eks, helm if you have that experience.",
-      "Move aws, cicd, grafana closer to the resume summary or latest project bullets.",
+      "Move devops closer to the resume summary or latest project bullets.",
       "Quantify impact with metrics so the strongest matching skills feel more credible."
     ],
-    "improvementMessage": "Resume: ManikantaRaju-FCV2 (2).pdf\nCurrent match: 78% (HIGH)\nSummary: Strong overlap on aws, cicd, grafana. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, eks, helm\nSuggested improvements:\n- Add clear evidence for argocd, eks, helm if you have that experience.\n- Move aws, cicd, grafana closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+    "improvementMessage": "Resume: ManikantaRaju-FCV2 (2).pdf\nCurrent match: 82% (HIGH)\nSummary: Strong overlap on devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
     "analysisProvider": "hybrid-ml",
     "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
     "analysisCached": false,
-    "updatedAt": "2026-03-25T07:12:18.843Z"
+    "updatedAt": "2026-03-25T09:42:59.961Z"
   },
   "experienceYearsOverride": 4
 }

@@ -1,6 +1,37 @@
 {
   "improvementHistory": [
     {
+      "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779953",
+      "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
+      "fileName": "JyothiJ_Resume.pdf",
+      "jobLabel": "devops",
+      "jobDescriptionSnippet": "devops",
+      "requiredExperience": 2,
+      "match": 83.1,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "and automate cloud resource management. collaborated with cross-functional teams to design and deploy scalable, secure, and cost-effective cloud architectures. conducted regular security audits and implemented best pract...",
+        "professional experience grafana & prometheus linux shell & python scripting academian indian pvt ltd senior devops engineer march 2023-feb 2025 senior devops engineer transformation for 15+ enterprise applications, imple...",
+        "jyothi j +91 9019421487 | akashjyothi369@gmail.com | https://www.linkedin.com/in/jyothi369/ bengaluru senior devops engineer skilled in designing and deploying scalable, high-availability solutions on aws. proficient in..."
+      ],
+      "matchedRequirements": [
+        "devops"
+      ],
+      "missingRequirements": [],
+      "improvementSuggestions": [
+        "Move devops closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: JyothiJ_Resume.pdf\nCurrent match: 83% (HIGH)\nSummary: Strong overlap on devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T09:42:59.953Z"
+    },
+    {
       "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738838",
       "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
       "fileName": "JyothiJ_Resume.pdf",
@@ -1021,92 +1052,38 @@
       "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
       "analysisCached": false,
       "updatedAt": "2026-03-25T06:15:31.739Z"
-    },
-    {
-      "id": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909:1774419242281",
-      "jobHash": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909",
-      "fileName": "JyothiJ_Resume.pdf",
-      "jobLabel": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "jobDescriptionSnippet": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "requiredExperience": 0,
-      "match": 74,
-      "bucket": "medium",
-      "recommendation": "Worth recruiter review with moderate alignment.",
-      "matchingSummary": "Partial match with aws, cicd, jenkins. Biggest gaps: azure, gcp.",
-      "generatedResponse": "Partial match with aws, cicd, jenkins. Biggest gaps: azure, gcp.",
-      "evidenceHighlights": [
-        "professional experience grafana & prometheus linux shell & python scripting academian indian pvt ltd senior devops engineer march 2023-feb 2025 senior devops engineer transformation for 15+ enterprise applications, imple...",
-        "sensitive data and maintain compliance with regulatory standards. -- 1 of 2 -- intraedge technologies pvt ltd devops engineer responsibilities oct-2021-feb-2023 implemented ci/cd pipelines for java, genai, reactjs, and n...",
-        "and resource utilization. managed git-based source control with feature branching, code reviews, and automated testing for consistent release management. implemented infrastructure as code (iac) using terraform and cloud..."
-      ],
-      "matchedRequirements": [
-        "aws",
-        "cicd",
-        "jenkins",
-        "linux",
-        "linux shell scripting",
-        "scripting",
-        "shell",
-        "terraform"
-      ],
-      "missingRequirements": [
-        "azure",
-        "gcp",
-        "gitlab"
-      ],
-      "improvementSuggestions": [
-        "Add clear evidence for azure, gcp, gitlab if you have that experience.",
-        "Move aws, cicd, jenkins closer to the resume summary or latest project bullets.",
-        "Quantify impact with metrics so the strongest matching skills feel more credible."
-      ],
-      "improvementMessage": "Resume: JyothiJ_Resume.pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with aws, cicd, jenkins. Biggest gaps: azure, gcp.\nMissing or weak areas: azure, gcp, gitlab\nSuggested improvements:\n- Add clear evidence for azure, gcp, gitlab if you have that experience.\n- Move aws, cicd, jenkins closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
-      "analysisProvider": "hybrid-ml",
-      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
-      "analysisCached": false,
-      "updatedAt": "2026-03-25T06:14:02.281Z"
     }
   ],
   "latestImprovement": {
-    "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738838",
-    "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+    "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779953",
+    "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
     "fileName": "JyothiJ_Resume.pdf",
-    "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "requiredExperience": 4,
-    "match": 74.8,
-    "bucket": "medium",
-    "recommendation": "Worth recruiter review with moderate alignment.",
-    "matchingSummary": "Partial match with aws, cicd, eks. Biggest gaps: argocd, helm. Experience clears the 4+ year requirement.",
-    "generatedResponse": "Partial match with aws, cicd, eks. Biggest gaps: argocd, helm. Experience clears the 4+ year requirement.",
+    "jobLabel": "devops",
+    "jobDescriptionSnippet": "devops",
+    "requiredExperience": 2,
+    "match": 83.1,
+    "bucket": "high",
+    "recommendation": "Strong shortlist candidate.",
+    "matchingSummary": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+    "generatedResponse": "Strong overlap on devops. Experience clears the 2+ year requirement.",
     "evidenceHighlights": [
+      "and automate cloud resource management. collaborated with cross-functional teams to design and deploy scalable, secure, and cost-effective cloud architectures. conducted regular security audits and implemented best pract...",
       "professional experience grafana & prometheus linux shell & python scripting academian indian pvt ltd senior devops engineer march 2023-feb 2025 senior devops engineer transformation for 15+ enterprise applications, imple...",
-      "(tools: docker, kubernetes) automated configuration: implemented infrastructure as code (iac) using terraform and ansible to automate the configuration and management of infrastructure, ensuring consistency and repeatabi...",
-      "sensitive data and maintain compliance with regulatory standards. -- 1 of 2 -- intraedge technologies pvt ltd devops engineer responsibilities oct-2021-feb-2023 implemented ci/cd pipelines for java, genai, reactjs, and n..."
+      "jyothi j +91 9019421487 | akashjyothi369@gmail.com | https://www.linkedin.com/in/jyothi369/ bengaluru senior devops engineer skilled in designing and deploying scalable, high-availability solutions on aws. proficient in..."
     ],
     "matchedRequirements": [
-      "aws",
-      "cicd",
-      "eks",
-      "grafana",
-      "jenkins",
-      "kubernetes",
-      "prometheus",
-      "terraform"
+      "devops"
     ],
-    "missingRequirements": [
-      "argocd",
-      "helm"
-    ],
+    "missingRequirements": [],
     "improvementSuggestions": [
-      "Add clear evidence for argocd, helm if you have that experience.",
-      "Move aws, cicd, eks closer to the resume summary or latest project bullets.",
+      "Move devops closer to the resume summary or latest project bullets.",
       "Quantify impact with metrics so the strongest matching skills feel more credible."
     ],
-    "improvementMessage": "Resume: JyothiJ_Resume.pdf\nCurrent match: 75% (MEDIUM)\nSummary: Partial match with aws, cicd, eks. Biggest gaps: argocd, helm. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, helm\nSuggested improvements:\n- Add clear evidence for argocd, helm if you have that experience.\n- Move aws, cicd, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+    "improvementMessage": "Resume: JyothiJ_Resume.pdf\nCurrent match: 83% (HIGH)\nSummary: Strong overlap on devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
     "analysisProvider": "hybrid-ml",
     "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
     "analysisCached": false,
-    "updatedAt": "2026-03-25T07:12:18.838Z"
+    "updatedAt": "2026-03-25T09:42:59.953Z"
   },
   "experienceYearsOverride": 4
 }

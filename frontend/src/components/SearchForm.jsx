@@ -38,6 +38,55 @@ function buildMatchRequestError(err) {
   return data?.error || data?.message || err?.message || "Request failed";
 }
 
+function deriveSkillsFromJobDescription(text) {
+  const normalized = String(text || "").toLowerCase();
+  if (!normalized.trim()) return [];
+
+  const stopWords = new Set([
+    "a",
+    "an",
+    "and",
+    "are",
+    "as",
+    "at",
+    "be",
+    "by",
+    "for",
+    "from",
+    "in",
+    "is",
+    "it",
+    "of",
+    "on",
+    "or",
+    "that",
+    "the",
+    "to",
+    "with",
+    "we",
+    "you",
+    "your",
+  ]);
+
+  const tokens = normalized
+    .replaceAll(/[^a-z0-9+.#/\-\s]/g, " ")
+    .split(/\s+/g)
+    .map((word) => word.trim())
+    .filter(Boolean)
+    .filter((word) => word.length >= 2)
+    .filter((word) => !stopWords.has(word));
+
+  const counts = new Map();
+  for (const token of tokens) {
+    counts.set(token, (counts.get(token) || 0) + 1);
+  }
+
+  return [...counts.entries()]
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .slice(0, 20)
+    .map(([token]) => token);
+}
+
 export default function SearchForm({
   apiBase: apiBaseProp,
   onMatchData,
@@ -204,14 +253,20 @@ export default function SearchForm({
     setLoading(true);
     onLoadingChange?.(true);
     try {
+      const derivedSkills = deriveSkillsFromJobDescription(
+        normalizedJobDescription,
+      );
       const payload = {
         jobDescription: normalizedJobDescription,
         requiredExperience: years,
+        // Backward-compat for deployments still validating skills arrays.
+        skills: derivedSkills,
+        requiredSkills: derivedSkills,
       };
       const resp = await axios.post(`${apiBase}/api/resumes/match`, payload);
       const data = resp?.data || {};
       onMatchData?.({
-        results: Array.isArray(data) ? data : data.results ?? [],
+        results: Array.isArray(data) ? data : (data.results ?? []),
         buckets: data?.buckets ?? { high: 0, medium: 0, low: 0 },
         jobProfile: data?.jobProfile ?? null,
         matcher: data?.matcher ?? null,
@@ -450,7 +505,9 @@ export default function SearchForm({
                       className="inline-flex shrink-0 items-center rounded-full border border-slate-200 bg-white px-3 py-2 text-xs font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-slate-50 disabled:opacity-60"
                       title="Replace resume"
                     >
-                      {replacingFileName === fileName ? "Replacing..." : "Replace"}
+                      {replacingFileName === fileName
+                        ? "Replacing..."
+                        : "Replace"}
                     </button>
                     <input
                       ref={(node) => {

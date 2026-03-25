@@ -2,6 +2,37 @@
   "experienceYearsOverride": 3,
   "improvementHistory": [
     {
+      "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779972",
+      "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "devops",
+      "jobDescriptionSnippet": "devops",
+      "requiredExperience": 2,
+      "match": 75.6,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li..."
+      ],
+      "matchedRequirements": [
+        "devops"
+      ],
+      "missingRequirements": [],
+      "improvementSuggestions": [
+        "Move devops closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 76% (HIGH)\nSummary: Strong overlap on devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T09:42:59.972Z"
+    },
+    {
       "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738853",
       "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
       "fileName": "sumanth hebbar Resume (1).pdf",
@@ -1055,92 +1086,37 @@
       "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
       "analysisCached": false,
       "updatedAt": "2026-03-25T06:15:31.755Z"
-    },
-    {
-      "id": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909:1774419242296",
-      "jobHash": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909",
-      "fileName": "sumanth hebbar Resume (1).pdf",
-      "jobLabel": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "jobDescriptionSnippet": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "requiredExperience": 0,
-      "match": 69.8,
-      "bucket": "medium",
-      "recommendation": "Worth recruiter review with moderate alignment.",
-      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: gcp, gitlab.",
-      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: gcp, gitlab.",
-      "evidenceHighlights": [
-        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
-        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
-        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
-      ],
-      "matchedRequirements": [
-        "aws",
-        "azure",
-        "cicd",
-        "jenkins",
-        "linux",
-        "linux shell scripting",
-        "scripting",
-        "terraform"
-      ],
-      "missingRequirements": [
-        "gcp",
-        "gitlab",
-        "shell"
-      ],
-      "improvementSuggestions": [
-        "Add clear evidence for gcp, gitlab, shell if you have that experience.",
-        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
-        "Quantify impact with metrics so the strongest matching skills feel more credible."
-      ],
-      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 70% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: gcp, gitlab.\nMissing or weak areas: gcp, gitlab, shell\nSuggested improvements:\n- Add clear evidence for gcp, gitlab, shell if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
-      "analysisProvider": "hybrid-ml",
-      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
-      "analysisCached": false,
-      "updatedAt": "2026-03-25T06:14:02.296Z"
     }
   ],
   "latestImprovement": {
-    "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738853",
-    "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+    "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779972",
+    "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
     "fileName": "sumanth hebbar Resume (1).pdf",
-    "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "requiredExperience": 4,
-    "match": 49.3,
-    "bucket": "medium",
-    "recommendation": "Potential fit but requires deeper manual screening.",
-    "matchingSummary": "Partial match with aws, cicd, grafana. Biggest gaps: argocd, eks. Resume shows about 3 years against the 4+ year target.",
-    "generatedResponse": "Partial match with aws, cicd, grafana. Biggest gaps: argocd, eks. Resume shows about 3 years against the 4+ year target.",
+    "jobLabel": "devops",
+    "jobDescriptionSnippet": "devops",
+    "requiredExperience": 2,
+    "match": 75.6,
+    "bucket": "high",
+    "recommendation": "Strong shortlist candidate.",
+    "matchingSummary": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+    "generatedResponse": "Strong overlap on devops. Experience clears the 2+ year requirement.",
     "evidenceHighlights": [
       "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
-      "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
-      "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin..."
+      "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+      "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li..."
     ],
     "matchedRequirements": [
-      "aws",
-      "cicd",
-      "grafana",
-      "jenkins",
-      "kubernetes",
-      "prometheus",
-      "terraform"
+      "devops"
     ],
-    "missingRequirements": [
-      "argocd",
-      "eks",
-      "helm"
-    ],
+    "missingRequirements": [],
     "improvementSuggestions": [
-      "Add clear evidence for argocd, eks, helm if you have that experience.",
-      "Move aws, cicd, grafana closer to the resume summary or latest project bullets.",
-      "Group related work together so the recruiter can quickly see relevant experience depth.",
+      "Move devops closer to the resume summary or latest project bullets.",
       "Quantify impact with metrics so the strongest matching skills feel more credible."
     ],
-    "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 49% (MEDIUM)\nSummary: Partial match with aws, cicd, grafana. Biggest gaps: argocd, eks. Resume shows about 3 years against the 4+ year target.\nMissing or weak areas: argocd, eks, helm\nSuggested improvements:\n- Add clear evidence for argocd, eks, helm if you have that experience.\n- Move aws, cicd, grafana closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+    "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 76% (HIGH)\nSummary: Strong overlap on devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
     "analysisProvider": "hybrid-ml",
     "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
     "analysisCached": false,
-    "updatedAt": "2026-03-25T07:12:18.853Z"
+    "updatedAt": "2026-03-25T09:42:59.972Z"
   }
 }

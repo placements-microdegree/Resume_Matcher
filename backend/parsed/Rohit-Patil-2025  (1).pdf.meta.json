@@ -1,6 +1,37 @@
 {
   "improvementHistory": [
     {
+      "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779970",
+      "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "devops",
+      "jobDescriptionSnippet": "devops",
+      "requiredExperience": 2,
+      "match": 72.8,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with devops. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Partial match with devops. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "and hybrid environments. â€¢worked on network setup, security group management, and troubleshooting access/performance issues. â€¢conducted cost optimization and usage audits on aws accounts. â€¢configured cloudwatch das..."
+      ],
+      "matchedRequirements": [
+        "devops"
+      ],
+      "missingRequirements": [],
+      "improvementSuggestions": [
+        "Move devops closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 73% (MEDIUM)\nSummary: Partial match with devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T09:42:59.970Z"
+    },
+    {
       "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738851",
       "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
       "fileName": "Rohit-Patil-2025  (1).pdf",
@@ -1035,91 +1066,38 @@
       "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
       "analysisCached": false,
       "updatedAt": "2026-03-25T06:15:31.753Z"
-    },
-    {
-      "id": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909:1774419242295",
-      "jobHash": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909",
-      "fileName": "Rohit-Patil-2025  (1).pdf",
-      "jobLabel": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "jobDescriptionSnippet": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "requiredExperience": 0,
-      "match": 77.6,
-      "bucket": "high",
-      "recommendation": "Strong shortlist candidate.",
-      "matchingSummary": "Strong overlap on aws, azure, cicd.",
-      "generatedResponse": "Strong overlap on aws, azure, cicd.",
-      "evidenceHighlights": [
-        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
-        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
-        "performances, cpu utilization, disk usage etc. to take recommended action for better performance. â€¢good experiences in aws backup service ( backup and restoration ). -- 1 of 2 -- dell emc, associate specialist 09/2016..."
-      ],
-      "matchedRequirements": [
-        "aws",
-        "azure",
-        "cicd",
-        "jenkins",
-        "linux",
-        "linux shell scripting",
-        "scripting",
-        "shell"
-      ],
-      "missingRequirements": [
-        "gcp",
-        "gitlab"
-      ],
-      "improvementSuggestions": [
-        "Add clear evidence for gcp, gitlab if you have that experience.",
-        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
-        "Quantify impact with metrics so the strongest matching skills feel more credible."
-      ],
-      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 78% (HIGH)\nSummary: Strong overlap on aws, azure, cicd.\nMissing or weak areas: gcp, gitlab\nSuggested improvements:\n- Add clear evidence for gcp, gitlab if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
-      "analysisProvider": "hybrid-ml",
-      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
-      "analysisCached": false,
-      "updatedAt": "2026-03-25T06:14:02.295Z"
     }
   ],
   "latestImprovement": {
-    "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738851",
-    "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+    "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779970",
+    "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
     "fileName": "Rohit-Patil-2025  (1).pdf",
-    "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "requiredExperience": 4,
-    "match": 76.3,
-    "bucket": "high",
-    "recommendation": "Strong shortlist candidate.",
-    "matchingSummary": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
-    "generatedResponse": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+    "jobLabel": "devops",
+    "jobDescriptionSnippet": "devops",
+    "requiredExperience": 2,
+    "match": 72.8,
+    "bucket": "medium",
+    "recommendation": "Worth recruiter review with moderate alignment.",
+    "matchingSummary": "Partial match with devops. Experience clears the 2+ year requirement.",
+    "generatedResponse": "Partial match with devops. Experience clears the 2+ year requirement.",
     "evidenceHighlights": [
       "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
       "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
-      "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      "and hybrid environments. â€¢worked on network setup, security group management, and troubleshooting access/performance issues. â€¢conducted cost optimization and usage audits on aws accounts. â€¢configured cloudwatch das..."
     ],
     "matchedRequirements": [
-      "aws",
-      "cicd",
-      "eks",
-      "grafana",
-      "jenkins",
-      "kubernetes",
-      "prometheus",
-      "terraform"
+      "devops"
     ],
-    "missingRequirements": [
-      "argocd",
-      "helm"
-    ],
+    "missingRequirements": [],
     "improvementSuggestions": [
-      "Add clear evidence for argocd, helm if you have that experience.",
-      "Move aws, cicd, eks closer to the resume summary or latest project bullets.",
+      "Move devops closer to the resume summary or latest project bullets.",
       "Quantify impact with metrics so the strongest matching skills feel more credible."
     ],
-    "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 76% (HIGH)\nSummary: Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, helm\nSuggested improvements:\n- Add clear evidence for argocd, helm if you have that experience.\n- Move aws, cicd, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+    "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 73% (MEDIUM)\nSummary: Partial match with devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
     "analysisProvider": "hybrid-ml",
     "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
     "analysisCached": false,
-    "updatedAt": "2026-03-25T07:12:18.852Z"
+    "updatedAt": "2026-03-25T09:42:59.970Z"
   },
   "experienceYearsOverride": 7
 }

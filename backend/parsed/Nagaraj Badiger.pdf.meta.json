@@ -1,6 +1,37 @@
 {
   "improvementHistory": [
     {
+      "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779964",
+      "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "devops",
+      "jobDescriptionSnippet": "devops",
+      "requiredExperience": 2,
+      "match": 75.1,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "devops"
+      ],
+      "missingRequirements": [],
+      "improvementSuggestions": [
+        "Move devops closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 75% (HIGH)\nSummary: Strong overlap on devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T09:42:59.964Z"
+    },
+    {
       "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738846",
       "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
       "fileName": "Nagaraj Badiger.pdf",
@@ -1035,91 +1066,38 @@
       "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
       "analysisCached": false,
       "updatedAt": "2026-03-25T06:15:31.748Z"
-    },
-    {
-      "id": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909:1774419242290",
-      "jobHash": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909",
-      "fileName": "Nagaraj Badiger.pdf",
-      "jobLabel": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "jobDescriptionSnippet": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
-      "requiredExperience": 0,
-      "match": 75.3,
-      "bucket": "high",
-      "recommendation": "Strong shortlist candidate.",
-      "matchingSummary": "Strong overlap on aws, cicd, jenkins.",
-      "generatedResponse": "Strong overlap on aws, cicd, jenkins.",
-      "evidenceHighlights": [
-        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete...",
-        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
-        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and..."
-      ],
-      "matchedRequirements": [
-        "aws",
-        "cicd",
-        "jenkins",
-        "linux",
-        "linux shell scripting",
-        "scripting",
-        "shell",
-        "terraform"
-      ],
-      "missingRequirements": [
-        "azure",
-        "gcp",
-        "gitlab"
-      ],
-      "improvementSuggestions": [
-        "Add clear evidence for azure, gcp, gitlab if you have that experience.",
-        "Move aws, cicd, jenkins closer to the resume summary or latest project bullets.",
-        "Quantify impact with metrics so the strongest matching skills feel more credible."
-      ],
-      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 75% (HIGH)\nSummary: Strong overlap on aws, cicd, jenkins.\nMissing or weak areas: azure, gcp, gitlab\nSuggested improvements:\n- Add clear evidence for azure, gcp, gitlab if you have that experience.\n- Move aws, cicd, jenkins closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
-      "analysisProvider": "hybrid-ml",
-      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
-      "analysisCached": false,
-      "updatedAt": "2026-03-25T06:14:02.290Z"
     }
   ],
   "latestImprovement": {
-    "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738846",
-    "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+    "id": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633:1774431779964",
+    "jobHash": "8f6e85ba456c4abc1334fa3a836c7b5aa0b63bf17de0d8992f6717467c324633",
     "fileName": "Nagaraj Badiger.pdf",
-    "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
-    "requiredExperience": 4,
-    "match": 78.6,
+    "jobLabel": "devops",
+    "jobDescriptionSnippet": "devops",
+    "requiredExperience": 2,
+    "match": 75.1,
     "bucket": "high",
     "recommendation": "Strong shortlist candidate.",
-    "matchingSummary": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
-    "generatedResponse": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+    "matchingSummary": "Strong overlap on devops. Experience clears the 2+ year requirement.",
+    "generatedResponse": "Strong overlap on devops. Experience clears the 2+ year requirement.",
     "evidenceHighlights": [
       "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
-      "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
-      "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana...",
+      "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
     ],
     "matchedRequirements": [
-      "aws",
-      "cicd",
-      "eks",
-      "grafana",
-      "helm",
-      "jenkins",
-      "kubernetes",
-      "prometheus"
+      "devops"
     ],
-    "missingRequirements": [
-      "argocd"
-    ],
+    "missingRequirements": [],
     "improvementSuggestions": [
-      "Add clear evidence for argocd if you have that experience.",
-      "Move aws, cicd, eks closer to the resume summary or latest project bullets.",
+      "Move devops closer to the resume summary or latest project bullets.",
       "Quantify impact with metrics so the strongest matching skills feel more credible."
     ],
-    "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 79% (HIGH)\nSummary: Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd\nSuggested improvements:\n- Add clear evidence for argocd if you have that experience.\n- Move aws, cicd, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+    "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 75% (HIGH)\nSummary: Strong overlap on devops. Experience clears the 2+ year requirement.\nSuggested improvements:\n- Move devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
     "analysisProvider": "hybrid-ml",
     "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
     "analysisCached": false,
-    "updatedAt": "2026-03-25T07:12:18.846Z"
+    "updatedAt": "2026-03-25T09:42:59.964Z"
   },
   "experienceYearsOverride": 4
 }

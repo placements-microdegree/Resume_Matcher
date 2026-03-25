@@ -1,308 +1,285 @@
-function normalize(text) {
-  return String(text || "").toLowerCase();
+const {
+  extractExperienceYears,
+  hasTerm,
+  normalizeTerm,
+  tokenize,
+} = require("./textMatching");
+
+function toRoundedNumber(value) {
+  return Number(Number(value || 0).toFixed(1));
 }
 
-function normalizeSkill(s) {
-  const v = normalize(s).trim().replaceAll(/\s+/g, " ");
+function scoreExperience(requiredExperience, experienceUsed) {
+  const minimum = Number(requiredExperience) || 0;
+  if (minimum <= 0) return 100;
 
-  // Common canonicalizations.
-  if (v === "node.js" || v === "node js") return "nodejs";
-  if (v === "next.js" || v === "next js") return "nextjs";
-  if (v === "c#" || v === "c sharp") return "csharp";
-  if (v === "c++" || v === "c plus plus") return "cplusplus";
-  if (v === ".net" || v === "dot net") return "dotnet";
-  if (v === "ci/cd" || v === "ci cd") return "cicd";
-  return v;
+  const years = Number(experienceUsed);
+  if (!Number.isFinite(years)) return 20;
+  if (years >= minimum) return 100;
+
+  const ratio = Math.max(0, Math.min(1, years / minimum));
+  return 20 + ratio * 80;
 }
 
-function tokenize(text) {
-  // Keep + and # for skills like c++ / c#.
-  return String(text || "")
-    .toLowerCase()
-    .split(/[^a-z0-9#+]+/g)
-    .filter(Boolean);
-}
+function applyExperienceScoreCap(score, requiredExperience, experienceUsed) {
+  const minimum = Number(requiredExperience) || 0;
+  if (minimum <= 0) return Number(score || 0);
 
-function extractExperienceFromExplicitYears(text) {
-  // Heuristic: find patterns like "3 years", "5+ yrs", "2.5 years" and take the max.
-  const re = /(\d{1,2}(?:\.\d{1,2})?)\s*\+?\s*(?:years?|yrs?)\b/g;
-  let max = null;
-  let m;
-  while ((m = re.exec(text)) !== null) {
-    const n = Number(m[1]);
-    if (Number.isFinite(n)) max = max == null ? n : Math.max(max, n);
-  }
-  return max;
-}
+  const years = Number(experienceUsed);
+  const nextScore = Number(score || 0);
 
-function parseMonthYear(s) {
-  const v = String(s || "")
-    .trim()
-    .toLowerCase();
-  if (!v) return null;
-
-  const now = new Date();
-  const current = { year: now.getFullYear(), month: now.getMonth() };
-  if (/(present|current|now)/.test(v)) return current;
-
-  // MM/YYYY
-  const mm = /^(\d{1,2})\/(\d{4})$/.exec(v);
-  if (mm) {
-    const m = Number(mm[1]);
-    const y = Number(mm[2]);
-    if (Number.isFinite(m) && Number.isFinite(y) && m >= 1 && m <= 12) {
-      return { year: y, month: m - 1 };
-    }
+  if (!Number.isFinite(years)) {
+    return Math.min(nextScore, 59.9);
   }
 
-  // Month YYYY
-  const months = {
-    jan: 0,
-    january: 0,
-    feb: 1,
-    february: 1,
-    mar: 2,
-    march: 2,
-    apr: 3,
-    april: 3,
-    may: 4,
-    jun: 5,
-    june: 5,
-    jul: 6,
-    july: 6,
-    aug: 7,
-    august: 7,
-    sep: 8,
-    sept: 8,
-    september: 8,
-    oct: 9,
-    october: 9,
-    nov: 10,
-    november: 10,
-    dec: 11,
-    december: 11,
-  };
+  if (years >= minimum) return nextScore;
 
-  const my = /^([a-z]{3,9})\s+(\d{4})$/.exec(v);
-  if (my) {
-    const month = months[my[1]];
-    const year = Number(my[2]);
-    if (month != null && Number.isFinite(year)) return { year, month };
+  const ratio = years / minimum;
+  if (ratio < 0.5) {
+    return Math.min(nextScore, 44.9);
   }
 
-  // YYYY
-  const y = /^(\d{4})$/.exec(v);
-  if (y) {
-    const year = Number(y[1]);
-    if (Number.isFinite(year)) return { year, month: 0 };
-  }
-
-  return null;
+  return Math.min(nextScore, 74.9);
 }
 
-function monthIndex({ year, month }) {
-  return year * 12 + month;
+function bucketForScore(score) {
+  if (score >= 75) return "high";
+  if (score >= 45) return "medium";
+  return "low";
 }
 
-function buildDateTokenPattern() {
-  return String.raw`(?:present|current|now|(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:t|tember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\s+\d{4}|\d{1,2}\/\d{4}|\d{4})`;
+function formatExperienceNote(requiredExperience, experienceUsed) {
+  const minimum = Number(requiredExperience) || 0;
+  if (minimum <= 0) return null;
+
+  const years = Number(experienceUsed);
+  if (!Number.isFinite(years)) {
+    return `Resume does not clearly show the ${minimum}+ years requested.`;
+  }
+
+  if (years >= minimum) {
+    return `Experience clears the ${minimum}+ year requirement.`;
+  }
+
+  return `Resume shows about ${years} years against the ${minimum}+ year target.`;
 }
 
-function normalizeRangeBounds(rawStart, rawEnd, startObj, endObj) {
-  let start = monthIndex(startObj);
-  let end = monthIndex(endObj);
+function buildSummary(bucket, matchedRequirements, missingRequirements, experienceNote) {
+  const topMatches = matchedRequirements.slice(0, 3);
+  const topGaps = missingRequirements.slice(0, 2);
 
-  // If year-only end like "2022", interpret as end of year.
-  if (/^\d{4}$/.test(String(rawEnd).trim())) {
-    end = Number(rawEnd) * 12 + 11;
-  }
-  // If year-only start like "2020", interpret as start of year.
-  if (/^\d{4}$/.test(String(rawStart).trim())) {
-    start = Number(rawStart) * 12;
+  if (bucket === "high") {
+    const headline = topMatches.length
+      ? `Strong overlap on ${topMatches.join(", ")}.`
+      : "Strong overall alignment with the job description.";
+    return experienceNote ? `${headline} ${experienceNote}` : headline;
   }
 
-  if (!Number.isFinite(start) || !Number.isFinite(end)) return null;
-  if (end < start) {
-    const tmp = start;
-    start = end;
-    end = tmp;
+  if (bucket === "medium") {
+    const headline = topMatches.length
+      ? `Partial match with ${topMatches.join(", ")}.`
+      : "Partial overlap with the job description.";
+    const gap = topGaps.length ? ` Biggest gaps: ${topGaps.join(", ")}.` : "";
+    return `${headline}${gap}${experienceNote ? ` ${experienceNote}` : ""}`.trim();
   }
 
-  // Ignore absurd ranges
-  if (end - start > 12 * 80) return null;
-  return [start, end];
+  const headline = topGaps.length
+    ? `Limited overlap so far. Missing visible evidence for ${topGaps.join(", ")}.`
+    : "Limited overlap with the requested role.";
+  return `${headline}${experienceNote ? ` ${experienceNote}` : ""}`.trim();
 }
 
-function mergeMonthRanges(ranges) {
-  if (!ranges.length) return [];
-  const sorted = [...ranges].sort((a, b) => a[0] - b[0]);
-  const merged = [];
-  for (const [s, e] of sorted) {
-    const last = merged.at(-1);
-    if (!last) {
-      merged.push([s, e]);
-      continue;
-    }
-    if (s <= last[1] + 1) last[1] = Math.max(last[1], e);
-    else merged.push([s, e]);
+function buildImprovementSuggestions({
+  matchedRequirements,
+  missingRequirements,
+  requiredExperience,
+  experienceUsed,
+}) {
+  const suggestions = [];
+
+  if (missingRequirements.length) {
+    suggestions.push(
+      `Add clear evidence for ${missingRequirements
+        .slice(0, 3)
+        .join(", ")} if you have that experience.`,
+    );
   }
-  return merged;
-}
 
-function extractExperienceFromDateRanges(text) {
-  // Try to infer experience from date ranges like:
-  // "Jan 2021 - Present", "2020 - 2022", "03/2019 to 11/2021"
-  const t = String(text || "").toLowerCase();
-  const ranges = [];
+  if (matchedRequirements.length) {
+    suggestions.push(
+      `Move ${matchedRequirements
+        .slice(0, 3)
+        .join(", ")} closer to the resume summary or latest project bullets.`,
+    );
+  }
 
-  const token = buildDateTokenPattern();
-  const re = new RegExp(
-    String.raw`(${token})\s*(?:-|–|—|to)\s*(${token})`,
-    "g",
+  const minimum = Number(requiredExperience) || 0;
+  const years = Number(experienceUsed);
+  if (minimum > 0 && !Number.isFinite(years)) {
+    suggestions.push(
+      "Make total relevant experience easier to verify by showing dates more clearly.",
+    );
+  } else if (minimum > 0 && Number.isFinite(years) && years < minimum) {
+    suggestions.push(
+      "Group related work together so the recruiter can quickly see relevant experience depth.",
+    );
+  }
+
+  suggestions.push(
+    "Quantify impact with metrics so the strongest matching skills feel more credible.",
   );
-  let m;
-  while ((m = re.exec(t)) !== null) {
-    const a = parseMonthYear(m[1]);
-    const b = parseMonthYear(m[2]);
-    if (!a || !b) continue;
 
-    const normalized = normalizeRangeBounds(m[1], m[2], a, b);
-    if (!normalized) continue;
-    ranges.push(normalized);
-  }
-
-  if (!ranges.length) return null;
-
-  const merged = mergeMonthRanges(ranges);
-
-  let months = 0;
-  for (const [s, e] of merged) {
-    months += e - s + 1;
-  }
-
-  const years = months / 12;
-  if (!Number.isFinite(years) || years <= 0) return null;
-  return Number(years.toFixed(1));
+  return suggestions.slice(0, 4);
 }
 
-function extractExperienceYears(resumeText) {
-  const text = normalize(resumeText);
-  const explicit = extractExperienceFromExplicitYears(text);
-  const fromDates = extractExperienceFromDateRanges(text);
-  if (explicit == null && fromDates == null) return null;
-  if (explicit == null) return fromDates;
-  if (fromDates == null) return explicit;
-  return Math.max(explicit, fromDates);
-}
+function buildImprovementMessage({
+  fileName,
+  bucket,
+  match,
+  matchingSummary,
+  missingRequirements,
+  improvementSuggestions,
+}) {
+  const lines = [
+    `Resume: ${fileName || "Candidate"}`,
+    `Current match: ${Math.round(Number(match) || 0)}% (${String(bucket || "low").toUpperCase()})`,
+  ];
 
-function skillTokenVariants(canonicalSkill) {
-  const s = normalizeSkill(canonicalSkill);
-  const variants = [];
-
-  // Phrase skills
-  if (s.includes(" ")) {
-    variants.push(s.split(" ").filter(Boolean));
-  } else {
-    variants.push([s]);
+  if (matchingSummary) {
+    lines.push(`Summary: ${matchingSummary}`);
   }
 
-  // Common variants
-  if (s === "nodejs") variants.push(["node", "js"]);
-  if (s === "nextjs") variants.push(["next", "js"]);
-  if (s === "csharp") {
-    variants.push(["c#"], ["c", "sharp"]);
-  }
-  if (s === "cplusplus") {
-    variants.push(["c++"], ["cpp"], ["c", "plus", "plus"]);
-  }
-  if (s === "dotnet") {
-    variants.push([".net"], ["dot", "net"]);
-  }
-  if (s === "cicd") {
-    variants.push(["ci", "cd"], ["ci/cd"]);
+  if (missingRequirements?.length) {
+    lines.push(`Missing or weak areas: ${missingRequirements.join(", ")}`);
   }
 
-  // De-dupe
-  const seen = new Set();
-  const out = [];
-  for (const v of variants) {
-    const key = v.join(" ");
-    if (seen.has(key)) continue;
-    seen.add(key);
-    out.push(v);
-  }
-  return out;
-}
-
-function hasSkill(resumeTokens, resumeTokenString, skillCanonical) {
-  const tokenSet = resumeTokens._set;
-  const variants = skillTokenVariants(skillCanonical);
-  for (const v of variants) {
-    if (!v.length) continue;
-    if (v.length === 1) {
-      const needle = v[0];
-      if (tokenSet.has(needle)) return true;
-      continue;
+  if (improvementSuggestions?.length) {
+    lines.push("Suggested improvements:");
+    for (const suggestion of improvementSuggestions) {
+      lines.push(`- ${suggestion}`);
     }
-    const phrase = ` ${v.join(" ")} `;
-    if (resumeTokenString.includes(phrase)) return true;
   }
-  return false;
+
+  return lines.join("\n");
 }
 
-// Returns details compatible with frontend requirements.
-module.exports = function matchLogic(
+function matchLogic(
   resumeText,
-  { skills, minExperience, experienceOverride = null },
+  { jobProfile, requiredExperience, experienceOverride = null, fileName = "" },
 ) {
-  const resume = normalize(resumeText);
-  const tokens = tokenize(resume);
+  const tokens = tokenize(resumeText);
   const tokenSet = new Set(tokens);
-  // Attach set for quick lookups without re-creating in loops.
-  const resumeTokens = { list: tokens, _set: tokenSet };
-  const resumeTokenString = ` ${tokens.join(" ")} `;
+  const tokenString = ` ${tokens.join(" ")} `;
 
-  const requested = (Array.isArray(skills) ? skills : [])
-    .map(normalizeSkill)
+  const mustHave = (jobProfile?.mustHaveKeywords || []).map(normalizeTerm).filter(Boolean);
+  const optional = (jobProfile?.niceToHaveKeywords || [])
+    .map(normalizeTerm)
+    .filter(Boolean);
+  const fallback = (jobProfile?.fallbackKeywords || [])
+    .map(normalizeTerm)
     .filter(Boolean);
 
-  const matchedSkills = [];
-  const missingSkills = [];
-
-  for (const s of requested) {
-    if (hasSkill(resumeTokens, resumeTokenString, s)) matchedSkills.push(s);
-    else missingSkills.push(s);
+  const matchedMustHave = [];
+  const missingMustHave = [];
+  for (const term of mustHave) {
+    if (hasTerm(tokenSet, tokenString, term)) matchedMustHave.push(term);
+    else missingMustHave.push(term);
   }
 
-  const extracted = extractExperienceYears(resumeText);
+  const matchedOptional = [];
+  const missingOptional = [];
+  for (const term of optional) {
+    if (hasTerm(tokenSet, tokenString, term)) matchedOptional.push(term);
+    else missingOptional.push(term);
+  }
+
+  const matchedFallback = [];
+  const missingFallback = [];
+  for (const term of fallback) {
+    if (mustHave.includes(term) || optional.includes(term)) continue;
+    if (hasTerm(tokenSet, tokenString, term)) matchedFallback.push(term);
+    else missingFallback.push(term);
+  }
+
+  let requirementScore = 0;
+  if (mustHave.length || optional.length) {
+    const mustScore = mustHave.length ? (matchedMustHave.length / mustHave.length) * 100 : 100;
+    const optionalScore = optional.length
+      ? (matchedOptional.length / optional.length) * 100
+      : 0;
+    requirementScore = mustHave.length
+      ? mustScore * 0.8 + optionalScore * 0.2
+      : optionalScore;
+  } else if (fallback.length) {
+    requirementScore = (matchedFallback.length / fallback.length) * 100;
+  }
+
+  const experienceFound = extractExperienceYears(resumeText);
   const overrideNum =
     experienceOverride == null ? null : Number(experienceOverride);
-  const experienceFound = extracted;
-  const experienceUsed = Number.isFinite(overrideNum) ? overrideNum : extracted;
+  const experienceUsed = Number.isFinite(overrideNum) ? overrideNum : experienceFound;
+  const experienceScore = scoreExperience(requiredExperience, experienceUsed);
 
-  const total = requested.length || 1;
-  const base = (matchedSkills.length / total) * 100;
+  const rawScore = Math.max(
+    0,
+    Math.min(100, requirementScore * 0.75 + experienceScore * 0.25),
+  );
+  const finalScore = applyExperienceScoreCap(
+    rawScore,
+    requiredExperience,
+    experienceUsed,
+  );
+  const bucket = bucketForScore(finalScore);
 
-  const minExp = Number(minExperience) || 0;
-  const exp = Number(experienceUsed ?? 0);
+  const matchedRequirements = [...matchedMustHave, ...matchedOptional, ...matchedFallback]
+    .filter((term, index, all) => all.indexOf(term) === index)
+    .slice(0, 8);
 
-  // Smooth penalty curve: if exp is below minExp, scale down rather than a hard 0.7.
-  // - when minExp=0 => no penalty
-  // - when exp=0 and minExp>0 => 0.5
-  // - when exp=minExp => 1.0
-  let expPenalty = 1;
-  if (minExp > 0 && exp < minExp) {
-    expPenalty = 0.5 + 0.5 * Math.max(0, Math.min(1, exp / minExp));
-  }
+  const missingRequirements = [...missingMustHave, ...missingOptional, ...missingFallback]
+    .filter((term, index, all) => all.indexOf(term) === index)
+    .slice(0, 8);
 
-  const match = Math.max(0, Math.min(100, base * expPenalty));
+  const experienceNote = formatExperienceNote(requiredExperience, experienceUsed);
+  const improvementSuggestions = buildImprovementSuggestions({
+    matchedRequirements,
+    missingRequirements,
+    requiredExperience,
+    experienceUsed,
+  });
+  const matchingSummary = buildSummary(
+    bucket,
+    matchedRequirements,
+    missingRequirements,
+    experienceNote,
+  );
 
   return {
-    match,
-    matchedSkills,
-    missingSkills,
+    match: toRoundedNumber(finalScore),
+    bucket,
+    matchedRequirements,
+    missingRequirements,
+    improvementSuggestions,
+    matchingSummary,
+    improvementMessage: buildImprovementMessage({
+      fileName,
+      bucket,
+      match: finalScore,
+      matchingSummary,
+      missingRequirements,
+      improvementSuggestions,
+    }),
     experienceFound,
     experienceOverride: Number.isFinite(overrideNum) ? overrideNum : null,
     experienceUsed,
+    scoreBreakdown: {
+      requirementScore: toRoundedNumber(requirementScore),
+      experienceScore: toRoundedNumber(experienceScore),
+    },
   };
-};
+}
+
+matchLogic.bucketForScore = bucketForScore;
+matchLogic.buildImprovementMessage = buildImprovementMessage;
+matchLogic.applyExperienceScoreCap = applyExperienceScoreCap;
+
+module.exports = matchLogic;

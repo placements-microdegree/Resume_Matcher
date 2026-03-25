@@ -1,7 +1,10 @@
 const express = require("express");
 const cors = require("cors");
+const path = require("path");
+const dotenv = require("dotenv");
 
-require("dotenv").config();
+dotenv.config({ path: path.resolve(__dirname, "..", ".env") });
+dotenv.config();
 
 const resumeRoutes = require("./routes/resumeRoutes");
 

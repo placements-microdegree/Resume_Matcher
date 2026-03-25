@@ -1,0 +1,1125 @@
+{
+  "improvementHistory": [
+    {
+      "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738851",
+      "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+      "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+      "requiredExperience": 4,
+      "match": 76.3,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "eks",
+        "grafana",
+        "jenkins",
+        "kubernetes",
+        "prometheus",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "helm"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, helm if you have that experience.",
+        "Move aws, cicd, eks closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 76% (HIGH)\nSummary: Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, helm\nSuggested improvements:\n- Add clear evidence for argocd, helm if you have that experience.\n- Move aws, cicd, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:12:18.852Z"
+    },
+    {
+      "id": "5268009416b2d01a708f6bbf7ccb6ed388bcb876757585d4bb6f08e4ebb5b86a:1774422616879",
+      "jobHash": "5268009416b2d01a708f6bbf7ccb6ed388bcb876757585d4bb6f08e4ebb5b86a",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Python, Terraform, CloudFormation, CI/CD, Docker, Kubernetes, Linux, Shell Scripting",
+      "jobDescriptionSnippet": "AWS, Python, Terraform, CloudFormation, CI/CD, Docker, Kubernetes, Linux, Shell Scripting",
+      "requiredExperience": 5,
+      "match": 80.5,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, docker. Experience clears the 5+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, docker. Experience clears the 5+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "performances, cpu utilization, disk usage etc. to take recommended action for better performance. â€¢good experiences in aws backup service ( backup and restoration ). -- 1 of 2 -- dell emc, associate specialist 09/2016..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "kubernetes",
+        "linux",
+        "linux shell scripting",
+        "scripting",
+        "shell"
+      ],
+      "missingRequirements": [
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for python if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 80% (HIGH)\nSummary: Strong overlap on aws, cicd, docker. Experience clears the 5+ year requirement.\nMissing or weak areas: python\nSuggested improvements:\n- Add clear evidence for python if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:10:16.879Z"
+    },
+    {
+      "id": "cf0a49f4ac0afe695be1a59548dd7ff2d915a41cb52898ec28a65bd6c91e7566:1774422539315",
+      "jobHash": "cf0a49f4ac0afe695be1a59548dd7ff2d915a41cb52898ec28a65bd6c91e7566",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Terraform, EKS, Lambda, EC2, S3, RDS, VPC, IAM, CloudWatch, API Gateway, SQS, Docker, ECS, CI/CD, Git",
+      "jobDescriptionSnippet": "AWS, Terraform, EKS, Lambda, EC2, S3, RDS, VPC, IAM, CloudWatch, API Gateway, SQS, Docker, ECS, CI/CD, Git",
+      "requiredExperience": 5,
+      "match": 79.3,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, cloudwatch. Experience clears the 5+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, cloudwatch. Experience clears the 5+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "ec2",
+        "eks",
+        "iam",
+        "rds"
+      ],
+      "missingRequirements": [
+        "api gateway",
+        "ecs",
+        "git",
+        "lambda"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for api gateway, ecs, git if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 79% (HIGH)\nSummary: Strong overlap on aws, cicd, cloudwatch. Experience clears the 5+ year requirement.\nMissing or weak areas: api gateway, ecs, git, lambda\nSuggested improvements:\n- Add clear evidence for api gateway, ecs, git if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:08:59.315Z"
+    },
+    {
+      "id": "b16e85680510dd2a96de639bd451f996abe71319ba823568a3da73c67a60783e:1774422205163",
+      "jobHash": "b16e85680510dd2a96de639bd451f996abe71319ba823568a3da73c67a60783e",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "Azure, Kubernetes, Terraform, Docker, PowerShell, Azure CLI, Prometheus, Grafana, CI/CD, GitOps",
+      "jobDescriptionSnippet": "Azure, Kubernetes, Terraform, Docker, PowerShell, Azure CLI, Prometheus, Grafana, CI/CD, GitOps",
+      "requiredExperience": 5,
+      "match": 77,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on azure, cicd, docker. Experience clears the 5+ year requirement.",
+      "generatedResponse": "Strong overlap on azure, cicd, docker. Experience clears the 5+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "and hybrid environments. â€¢worked on network setup, security group management, and troubleshooting access/performance issues. â€¢conducted cost optimization and usage audits on aws accounts. â€¢configured cloudwatch das..."
+      ],
+      "matchedRequirements": [
+        "azure",
+        "cicd",
+        "docker",
+        "grafana",
+        "kubernetes",
+        "prometheus",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "powershell"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for powershell if you have that experience.",
+        "Move azure, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 77% (HIGH)\nSummary: Strong overlap on azure, cicd, docker. Experience clears the 5+ year requirement.\nMissing or weak areas: powershell\nSuggested improvements:\n- Add clear evidence for powershell if you have that experience.\n- Move azure, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:03:25.163Z"
+    },
+    {
+      "id": "26fd8873862c5d5653277b96afe3153458849a4f2ab8aacd30bd09227544ee62:1774422127436",
+      "jobHash": "26fd8873862c5d5653277b96afe3153458849a4f2ab8aacd30bd09227544ee62",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, Microservices, IAM, Networking, Kafka,",
+      "jobDescriptionSnippet": "Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, Microservices, IAM, Networking, Kafka,",
+      "requiredExperience": 0,
+      "match": 75.5,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, azure, cicd.",
+      "generatedResponse": "Strong overlap on aws, azure, cicd.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "iam",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "gcp",
+        "kafka"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for gcp, kafka if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 76% (HIGH)\nSummary: Strong overlap on aws, azure, cicd.\nMissing or weak areas: gcp, kafka\nSuggested improvements:\n- Add clear evidence for gcp, kafka if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:02:07.436Z"
+    },
+    {
+      "id": "d29edb80f028c904109140fcfa0b64e16fd59841ce48f1eff1ea26995d8f51fc:1774421973554",
+      "jobHash": "d29edb80f028c904109140fcfa0b64e16fd59841ce48f1eff1ea26995d8f51fc",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "Kubernetes, Go, Java, Python, CI/CD, Cloud-Native, Container Orchestration, Docker, Observability, Private Cloud, Application Lifecycle Management, Automation",
+      "jobDescriptionSnippet": "Kubernetes, Go, Java, Python, CI/CD, Cloud-Native, Container Orchestration, Docker, Observability, Private Cloud, Application Lifecycle Management, Automation",
+      "requiredExperience": 5,
+      "match": 63.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with cicd, cloud, docker. Biggest gaps: go, java. Experience clears the 5+ year requirement.",
+      "generatedResponse": "Partial match with cicd, cloud, docker. Biggest gaps: go, java. Experience clears the 5+ year requirement.",
+      "evidenceHighlights": [
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "and hybrid environments. â€¢worked on network setup, security group management, and troubleshooting access/performance issues. â€¢conducted cost optimization and usage audits on aws accounts. â€¢configured cloudwatch das..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "cloud",
+        "docker",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "go",
+        "java",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for go, java, python if you have that experience.",
+        "Move cicd, cloud, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 64% (MEDIUM)\nSummary: Partial match with cicd, cloud, docker. Biggest gaps: go, java. Experience clears the 5+ year requirement.\nMissing or weak areas: go, java, python\nSuggested improvements:\n- Add clear evidence for go, java, python if you have that experience.\n- Move cicd, cloud, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:59:33.554Z"
+    },
+    {
+      "id": "363e66cbb66ac7d9b3bbe2c3e6c1defec546469e8e276a9fbc0ecd27ea4d6b82:1774421854526",
+      "jobHash": "363e66cbb66ac7d9b3bbe2c3e6c1defec546469e8e276a9fbc0ecd27ea4d6b82",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Azure, Terraform, Ansible, CI/CD, GitLab, Jenkins, Kubernetes, Docker, Python, Go, Bash, Linux, Monitoring, SRE",
+      "jobDescriptionSnippet": "AWS, Azure, Terraform, Ansible, CI/CD, GitLab, Jenkins, Kubernetes, Docker, Python, Go, Bash, Linux, Monitoring, SRE",
+      "requiredExperience": 5,
+      "match": 73.7,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Experience clears the 5+ year requirement.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Experience clears the 5+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "performances, cpu utilization, disk usage etc. to take recommended action for better performance. â€¢good experiences in aws backup service ( backup and restoration ). -- 1 of 2 -- dell emc, associate specialist 09/2016..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "docker",
+        "jenkins",
+        "kubernetes",
+        "linux",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "gitlab",
+        "go",
+        "python",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, gitlab if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Experience clears the 5+ year requirement.\nMissing or weak areas: ansible, bash, gitlab, go, python, sre\nSuggested improvements:\n- Add clear evidence for ansible, bash, gitlab if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:57:34.526Z"
+    },
+    {
+      "id": "052a01648ee5d178c87d1cc2094446a0f9bd11ba73d992413a0b03a2021f3220:1774421774848",
+      "jobHash": "052a01648ee5d178c87d1cc2094446a0f9bd11ba73d992413a0b03a2021f3220",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Kubernetes, EKS, GitLab CI/CD, OpenTofu, Terraform, Docker, ArgoCD, Helm, CloudWatch, Prometheus, Grafana, Datadog, Python, Bash, Linux, IAM, VPC, DevSecOps, Trivy, Snyk, Pulumi, Karpenter",
+      "jobDescriptionSnippet": "AWS, Kubernetes, EKS, GitLab CI/CD, OpenTofu, Terraform, Docker, ArgoCD, Helm, CloudWatch, Prometheus, Grafana, Datadog, Python, Bash, Linux, IAM, VPC, DevSecOps, Trivy, Snyk, Pulumi, Karpenter",
+      "requiredExperience": 4,
+      "match": 73.7,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, cloudwatch. Biggest gaps: argocd, bash. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, cloudwatch. Biggest gaps: argocd, bash. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "eks",
+        "grafana",
+        "iam",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "bash",
+        "gitlab",
+        "helm",
+        "pulumi",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, bash, gitlab if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with aws, cicd, cloudwatch. Biggest gaps: argocd, bash. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, bash, gitlab, helm, pulumi, python\nSuggested improvements:\n- Add clear evidence for argocd, bash, gitlab if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:56:14.848Z"
+    },
+    {
+      "id": "e1b2c0f643e0c42be8d4e67058ef41413f943cc09d53192540052ebd9a5b09eb:1774421667447",
+      "jobHash": "e1b2c0f643e0c42be8d4e67058ef41413f943cc09d53192540052ebd9a5b09eb",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Python, Groovy, Bash, Jenkins, Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, CloudWatch, MSK, Kafka, Nexus, GitLab, Ansible, SonarQube, OWASP, Veracode",
+      "jobDescriptionSnippet": "AWS, Python, Groovy, Bash, Jenkins, Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, CloudWatch, MSK, Kafka, Nexus, GitLab, Ansible, SonarQube, OWASP, Veracode",
+      "requiredExperience": 4,
+      "match": 65.8,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, cloudwatch. Biggest gaps: ansible, bash. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, cloudwatch. Biggest gaps: ansible, bash. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "grafana",
+        "jenkins",
+        "kubernetes",
+        "prometheus"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "gitlab",
+        "groovy",
+        "kafka",
+        "nexus",
+        "python",
+        "sonarqube"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, gitlab if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 66% (MEDIUM)\nSummary: Partial match with aws, cicd, cloudwatch. Biggest gaps: ansible, bash. Experience clears the 4+ year requirement.\nMissing or weak areas: ansible, bash, gitlab, groovy, kafka, nexus, python, sonarqube\nSuggested improvements:\n- Add clear evidence for ansible, bash, gitlab if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:54:27.447Z"
+    },
+    {
+      "id": "1bb77c9359e62a1d9242e307874109a724ed8998a667878f8b757e6f3aee2faa:1774421507184",
+      "jobHash": "1bb77c9359e62a1d9242e307874109a724ed8998a667878f8b757e6f3aee2faa",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "Jenkins, GitLab CI, Git, Bitbucket, ArgoCD, GitOps, Docker, Kubernetes, Ansible, Puppet, SonarQube, CI/CD, Terraform, CloudFormation, Prometheus, Grafana, ELK, Splunk, Service Mesh",
+      "jobDescriptionSnippet": "Jenkins, GitLab CI, Git, Bitbucket, ArgoCD, GitOps, Docker, Kubernetes, Ansible, Puppet, SonarQube, CI/CD, Terraform, CloudFormation, Prometheus, Grafana, ELK, Splunk, Service Mesh",
+      "requiredExperience": 4,
+      "match": 48.2,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with cicd, docker, gitlab ci. Biggest gaps: ansible, argocd. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Partial match with cicd, docker, gitlab ci. Biggest gaps: ansible, argocd. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "docker",
+        "gitlab ci",
+        "grafana",
+        "jenkins",
+        "kubernetes",
+        "prometheus",
+        "service mesh"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "argocd",
+        "elk",
+        "git",
+        "gitlab",
+        "sonarqube",
+        "splunk"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, argocd, elk if you have that experience.",
+        "Move cicd, docker, gitlab ci closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 48% (MEDIUM)\nSummary: Partial match with cicd, docker, gitlab ci. Biggest gaps: ansible, argocd. Experience clears the 4+ year requirement.\nMissing or weak areas: ansible, argocd, elk, git, gitlab, sonarqube, splunk\nSuggested improvements:\n- Add clear evidence for ansible, argocd, elk if you have that experience.\n- Move cicd, docker, gitlab ci closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:51:47.184Z"
+    },
+    {
+      "id": "2a038ce74fd1fb5e14c653a8e117ac36eba547acd7c7ca331a395b0f3020d252:1774421306870",
+      "jobHash": "2a038ce74fd1fb5e14c653a8e117ac36eba547acd7c7ca331a395b0f3020d252",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "Azure DevOps, CI/CD, Terraform, Kubernetes, Docker, Ansible, Python, Monitoring, Git",
+      "jobDescriptionSnippet": "Azure DevOps, CI/CD, Terraform, Kubernetes, Docker, Ansible, Python, Monitoring, Git",
+      "requiredExperience": 5,
+      "match": 75.5,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on azure, azure devops, cicd. Experience clears the 5+ year requirement.",
+      "generatedResponse": "Strong overlap on azure, azure devops, cicd. Experience clears the 5+ year requirement.",
+      "evidenceHighlights": [
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "and hybrid environments. â€¢worked on network setup, security group management, and troubleshooting access/performance issues. â€¢conducted cost optimization and usage audits on aws accounts. â€¢configured cloudwatch das..."
+      ],
+      "matchedRequirements": [
+        "azure",
+        "azure devops",
+        "cicd",
+        "devops",
+        "docker",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "git",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, git, python if you have that experience.",
+        "Move azure, azure devops, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 76% (HIGH)\nSummary: Strong overlap on azure, azure devops, cicd. Experience clears the 5+ year requirement.\nMissing or weak areas: ansible, git, python\nSuggested improvements:\n- Add clear evidence for ansible, git, python if you have that experience.\n- Move azure, azure devops, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:48:26.870Z"
+    },
+    {
+      "id": "482007b681564c665963cc64789195b694b75ba9f2cfcf41c75157026bad659f:1774421195214",
+      "jobHash": "482007b681564c665963cc64789195b694b75ba9f2cfcf41c75157026bad659f",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "CI/CD, Jenkins, GitHub Actions, Terraform, Docker, Kubernetes, AWS, GCP, Containerization, Cloud-Native, Security, Prisma Cloud, Nessus, CrowdStrike, PCI-DSS, HIPAA, SOX, GDPR, CCPA",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitHub Actions, Terraform, Docker, Kubernetes, AWS, GCP, Containerization, Cloud-Native, Security, Prisma Cloud, Nessus, CrowdStrike, PCI-DSS, HIPAA, SOX, GDPR, CCPA",
+      "requiredExperience": 5,
+      "match": 76.4,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, cloud. Experience clears the 5+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, cloud. Experience clears the 5+ year requirement.",
+      "evidenceHighlights": [
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "performances, cpu utilization, disk usage etc. to take recommended action for better performance. â€¢good experiences in aws backup service ( backup and restoration ). -- 1 of 2 -- dell emc, associate specialist 09/2016..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloud",
+        "docker",
+        "github",
+        "github actions",
+        "jenkins",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "gcp"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for gcp if you have that experience.",
+        "Move aws, cicd, cloud closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 76% (HIGH)\nSummary: Strong overlap on aws, cicd, cloud. Experience clears the 5+ year requirement.\nMissing or weak areas: gcp\nSuggested improvements:\n- Add clear evidence for gcp if you have that experience.\n- Move aws, cicd, cloud closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:46:35.214Z"
+    },
+    {
+      "id": "d4e10eae8d94cc277a72a426da93f39fdec42ae69df1b0c756ff70d60585034a:1774421134140",
+      "jobHash": "d4e10eae8d94cc277a72a426da93f39fdec42ae69df1b0c756ff70d60585034a",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "CI/CD, JFrog, Artifactory, Docker, Kubernetes, Helm, Bash, Python, Go, AWS, Azure, GCP, Infrastructure as Code, Monitoring, SRE",
+      "jobDescriptionSnippet": "CI/CD, JFrog, Artifactory, Docker, Kubernetes, Helm, Bash, Python, Go, AWS, Azure, GCP, Infrastructure as Code, Monitoring, SRE",
+      "requiredExperience": 2,
+      "match": 53.4,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: bash, gcp. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: bash, gcp. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "and hybrid environments. â€¢worked on network setup, security group management, and troubleshooting access/performance issues. â€¢conducted cost optimization and usage audits on aws accounts. â€¢configured cloudwatch das..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "docker",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "bash",
+        "gcp",
+        "go",
+        "helm",
+        "python",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for bash, gcp, go if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 53% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: bash, gcp. Experience clears the 2+ year requirement.\nMissing or weak areas: bash, gcp, go, helm, python, sre\nSuggested improvements:\n- Add clear evidence for bash, gcp, go if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:45:34.140Z"
+    },
+    {
+      "id": "1e40ff0cc812e9645d85e034a7c4d9c2f644946e92dc86aa5decca24e01c6326:1774421019764",
+      "jobHash": "1e40ff0cc812e9645d85e034a7c4d9c2f644946e92dc86aa5decca24e01c6326",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, Ansible, Docker, CI/CD, EKS, ECS, Python, Bash, Prometheus, Grafana, CloudWatch, Datadog, New Relic, Linux, VPC, EC2, RDS, ElastiCache",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, Ansible, Docker, CI/CD, EKS, ECS, Python, Bash, Prometheus, Grafana, CloudWatch, Datadog, New Relic, Linux, VPC, EC2, RDS, ElastiCache",
+      "requiredExperience": 3,
+      "match": 78.4,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, cloudwatch. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, cloudwatch. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "ec2",
+        "eks",
+        "grafana",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "ecs",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, ecs if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 78% (HIGH)\nSummary: Strong overlap on aws, cicd, cloudwatch. Experience clears the 3+ year requirement.\nMissing or weak areas: ansible, bash, ecs, python\nSuggested improvements:\n- Add clear evidence for ansible, bash, ecs if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:43:39.764Z"
+    },
+    {
+      "id": "7dedf81a25d092832aba916fefb2beb6ab54ed505a38207c2770d1237c63d990:1774420832977",
+      "jobHash": "7dedf81a25d092832aba916fefb2beb6ab54ed505a38207c2770d1237c63d990",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "CI/CD, Jenkins, GitLab CI, Azure DevOps, Terraform, Ansible, CloudFormation, AWS, Azure, GCP, Docker, Kubernetes, Prometheus, Grafana, ELK, Python, Shell, Groovy, Linux, Git, Istio, Linkerd",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitLab CI, Azure DevOps, Terraform, Ansible, CloudFormation, AWS, Azure, GCP, Docker, Kubernetes, Prometheus, Grafana, ELK, Python, Shell, Groovy, Linux, Git, Istio, Linkerd",
+      "requiredExperience": 0,
+      "match": 72.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, azure devops. Biggest gaps: ansible, elk.",
+      "generatedResponse": "Partial match with aws, azure, azure devops. Biggest gaps: ansible, elk.",
+      "evidenceHighlights": [
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "and hybrid environments. â€¢worked on network setup, security group management, and troubleshooting access/performance issues. â€¢conducted cost optimization and usage audits on aws accounts. â€¢configured cloudwatch das..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "azure devops",
+        "cicd",
+        "devops",
+        "docker",
+        "gitlab ci",
+        "grafana"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "elk",
+        "gcp",
+        "git",
+        "gitlab",
+        "groovy",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, elk, gcp if you have that experience.",
+        "Move aws, azure, azure devops closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 73% (MEDIUM)\nSummary: Partial match with aws, azure, azure devops. Biggest gaps: ansible, elk.\nMissing or weak areas: ansible, elk, gcp, git, gitlab, groovy, python\nSuggested improvements:\n- Add clear evidence for ansible, elk, gcp if you have that experience.\n- Move aws, azure, azure devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:40:32.977Z"
+    },
+    {
+      "id": "6b3c68b2cb875a375dff3a47565b78d3accd9d661f415fe852d7d541bb50416e:1774420742324",
+      "jobHash": "6b3c68b2cb875a375dff3a47565b78d3accd9d661f415fe852d7d541bb50416e",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, Jenkins, Chef, CI/CD, Amazon SQS, Kafka, RabbitMQ",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, Jenkins, Chef, CI/CD, Amazon SQS, Kafka, RabbitMQ",
+      "requiredExperience": 3,
+      "match": 73.7,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, jenkins. Biggest gaps: chef, kafka. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, jenkins. Biggest gaps: chef, kafka. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "performances, cpu utilization, disk usage etc. to take recommended action for better performance. â€¢good experiences in aws backup service ( backup and restoration ). -- 1 of 2 -- dell emc, associate specialist 09/2016..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "jenkins",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "chef",
+        "kafka"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for chef, kafka if you have that experience.",
+        "Move aws, cicd, jenkins closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with aws, cicd, jenkins. Biggest gaps: chef, kafka. Experience clears the 3+ year requirement.\nMissing or weak areas: chef, kafka\nSuggested improvements:\n- Add clear evidence for chef, kafka if you have that experience.\n- Move aws, cicd, jenkins closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:39:02.324Z"
+    },
+    {
+      "id": "0b059ac10c97bd7204b31d0707a715cfbcead96e9ea0da5f1ae568af80e323ce:1774420353798",
+      "jobHash": "0b059ac10c97bd7204b31d0707a715cfbcead96e9ea0da5f1ae568af80e323ce",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "CI/CD, Jenkins, GitLab CI/CD, GitHub Actions, AWS, Azure, GCP, Terraform, CloudFormation, Docker, Kubernetes, Ansible, Prometheus, Grafana, ELK Stack, Datadog, Python, Bash, PowerShell, Linux, Windows",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitLab CI/CD, GitHub Actions, AWS, Azure, GCP, Terraform, CloudFormation, Docker, Kubernetes, Ansible, Prometheus, Grafana, ELK Stack, Datadog, Python, Bash, PowerShell, Linux, Windows",
+      "requiredExperience": 3,
+      "match": 58.6,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "performances, cpu utilization, disk usage etc. to take recommended action for better performance. â€¢good experiences in aws backup service ( backup and restoration ). -- 1 of 2 -- dell emc, associate specialist 09/2016..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "grafana",
+        "jenkins"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "elk",
+        "elk stack",
+        "gcp",
+        "gitlab",
+        "powershell",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, elk if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 59% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.\nMissing or weak areas: ansible, bash, elk, elk stack, gcp, gitlab, powershell, python\nSuggested improvements:\n- Add clear evidence for ansible, bash, elk if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:32:33.798Z"
+    },
+    {
+      "id": "224e8ad00c5a929ccb1eed18d1cd6c2f362b91df027fbd99154f26d87fc464d7:1774420091680",
+      "jobHash": "224e8ad00c5a929ccb1eed18d1cd6c2f362b91df027fbd99154f26d87fc464d7",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "Docker, Kubernetes, Jenkins, GitHub Actions, Python, Bash, Linux, CI/CD, Podman, Docker Compose, Build Automation, On-Premise Infrastructure",
+      "jobDescriptionSnippet": "Docker, Kubernetes, Jenkins, GitHub Actions, Python, Bash, Linux, CI/CD, Podman, Docker Compose, Build Automation, On-Premise Infrastructure",
+      "requiredExperience": 5,
+      "match": 56.9,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with cicd, docker, github. Biggest gaps: bash, python. Experience clears the 5+ year requirement.",
+      "generatedResponse": "Partial match with cicd, docker, github. Biggest gaps: bash, python. Experience clears the 5+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "jenkins",
+        "kubernetes",
+        "linux"
+      ],
+      "missingRequirements": [
+        "bash",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for bash, python if you have that experience.",
+        "Move cicd, docker, github closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 57% (MEDIUM)\nSummary: Partial match with cicd, docker, github. Biggest gaps: bash, python. Experience clears the 5+ year requirement.\nMissing or weak areas: bash, python\nSuggested improvements:\n- Add clear evidence for bash, python if you have that experience.\n- Move cicd, docker, github closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:28:11.680Z"
+    },
+    {
+      "id": "5a4f9c8d21310460db7851f7915451343636b20fde5366dd4a66ce325c04784b:1774420028556",
+      "jobHash": "5a4f9c8d21310460db7851f7915451343636b20fde5366dd4a66ce325c04784b",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "GitLab CI/CD, Python, Ansible, DevOps Architecture, CI/CD, Docker, Kubernetes, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "jobDescriptionSnippet": "GitLab CI/CD, Python, Ansible, DevOps Architecture, CI/CD, Docker, Kubernetes, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "requiredExperience": 5,
+      "match": 58.2,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Experience clears the 5+ year requirement.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Experience clears the 5+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "and hybrid environments. â€¢worked on network setup, security group management, and troubleshooting access/performance issues. â€¢conducted cost optimization and usage audits on aws accounts. â€¢configured cloudwatch das..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "gcp",
+        "gitlab",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, gcp, gitlab if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 58% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Experience clears the 5+ year requirement.\nMissing or weak areas: ansible, gcp, gitlab, python\nSuggested improvements:\n- Add clear evidence for ansible, gcp, gitlab if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:27:08.556Z"
+    },
+    {
+      "id": "905f7d2615639c8672f382872db2404835f6f7172be3ea7da8a5786af2197f1b:1774419900275",
+      "jobHash": "905f7d2615639c8672f382872db2404835f6f7172be3ea7da8a5786af2197f1b",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "Python, GitLab CI/CD, Ansible, Linux, Automation, CI/CD, Docker, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "jobDescriptionSnippet": "Python, GitLab CI/CD, Ansible, Linux, Automation, CI/CD, Docker, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "requiredExperience": 2,
+      "match": 67.2,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "and hybrid environments. â€¢worked on network setup, security group management, and troubleshooting access/performance issues. â€¢conducted cost optimization and usage audits on aws accounts. â€¢configured cloudwatch das..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "docker",
+        "linux"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "gcp",
+        "gitlab",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, gcp, gitlab if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 67% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Experience clears the 2+ year requirement.\nMissing or weak areas: ansible, gcp, gitlab, python\nSuggested improvements:\n- Add clear evidence for ansible, gcp, gitlab if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:25:00.275Z"
+    },
+    {
+      "id": "39a2a7caaed3004c60595b0ad63f316cb70f5336bc8da1a6c17f6c57409a5893:1774419784993",
+      "jobHash": "39a2a7caaed3004c60595b0ad63f316cb70f5336bc8da1a6c17f6c57409a5893",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, ArgoCD, GitHub Actions, Datadog, Go, Python, TypeScript, PostgreSQL, CI/CD, SRE",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, ArgoCD, GitHub Actions, Datadog, Go, Python, TypeScript, PostgreSQL, CI/CD, SRE",
+      "requiredExperience": 4,
+      "match": 56.5,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, cicd, github. Biggest gaps: argocd, go. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, github. Biggest gaps: argocd, go. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "performances, cpu utilization, disk usage etc. to take recommended action for better performance. â€¢good experiences in aws backup service ( backup and restoration ). -- 1 of 2 -- dell emc, associate specialist 09/2016..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "github",
+        "github actions",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "go",
+        "postgresql",
+        "python",
+        "sre",
+        "typescript"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, go, postgresql if you have that experience.",
+        "Move aws, cicd, github closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 57% (MEDIUM)\nSummary: Partial match with aws, cicd, github. Biggest gaps: argocd, go. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, go, postgresql, python, sre, typescript\nSuggested improvements:\n- Add clear evidence for argocd, go, postgresql if you have that experience.\n- Move aws, cicd, github closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:23:04.993Z"
+    },
+    {
+      "id": "624a027da27b86239a50227e5fb3b57aef50b9e1279719d7a4e69cfe44686cb7:1774419680690",
+      "jobHash": "624a027da27b86239a50227e5fb3b57aef50b9e1279719d7a4e69cfe44686cb7",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, EC2, S3, RDS, IAM, GitHub, GitHub Actions, CloudWatch, Linux, Git, Docker, CI/CD",
+      "jobDescriptionSnippet": "AWS, EC2, S3, RDS, IAM, GitHub, GitHub Actions, CloudWatch, Linux, Git, Docker, CI/CD",
+      "requiredExperience": 0,
+      "match": 81.1,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, cloudwatch.",
+      "generatedResponse": "Strong overlap on aws, cicd, cloudwatch.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "ec2",
+        "github",
+        "github actions",
+        "iam"
+      ],
+      "missingRequirements": [
+        "git"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for git if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 81% (HIGH)\nSummary: Strong overlap on aws, cicd, cloudwatch.\nMissing or weak areas: git\nSuggested improvements:\n- Add clear evidence for git if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:21:20.690Z"
+    },
+    {
+      "id": "8f769b10b86227334f0a348656f2fca45231af18cdd7bbac6e3cdf6a2c94d06c:1774419545787",
+      "jobHash": "8f769b10b86227334f0a348656f2fca45231af18cdd7bbac6e3cdf6a2c94d06c",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Docker, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins, Terraform, CloudFormation, Prometheus, Grafana, ELK, Python, Shell, AI/ML Infrastructure, Observability, SRE",
+      "jobDescriptionSnippet": "AWS, Docker, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins, Terraform, CloudFormation, Prometheus, Grafana, ELK, Python, Shell, AI/ML Infrastructure, Observability, SRE",
+      "requiredExperience": 4,
+      "match": 78.6,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, docker. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, docker. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "gitlab ci",
+        "grafana",
+        "jenkins"
+      ],
+      "missingRequirements": [
+        "elk",
+        "gitlab",
+        "python",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for elk, gitlab, python if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 79% (HIGH)\nSummary: Strong overlap on aws, cicd, docker. Experience clears the 4+ year requirement.\nMissing or weak areas: elk, gitlab, python, sre\nSuggested improvements:\n- Add clear evidence for elk, gitlab, python if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:19:05.788Z"
+    },
+    {
+      "id": "0bb4c9f9f6b23dda615a41f48217c11326f2ada15e2c5ddea31b0c10ad75f410:1774419331753",
+      "jobHash": "0bb4c9f9f6b23dda615a41f48217c11326f2ada15e2c5ddea31b0c10ad75f410",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "AWS, Azure, Jenkins, GitHub Actions, Argo CD, Helm, Docker, Kubernetes, EKS, AKS, Terraform, CloudFormation, Ansible, Prometheus, Grafana, ELK, Python, Bash, Git, JIRA, ServiceNow",
+      "jobDescriptionSnippet": "AWS, Azure, Jenkins, GitHub Actions, Argo CD, Helm, Docker, Kubernetes, EKS, AKS, Terraform, CloudFormation, Ansible, Prometheus, Grafana, ELK, Python, Bash, Git, JIRA, ServiceNow",
+      "requiredExperience": 3,
+      "match": 59.5,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, azure, docker. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, azure, docker. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "docker",
+        "eks",
+        "github",
+        "github actions",
+        "grafana",
+        "jenkins"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "elk",
+        "git",
+        "helm",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, elk if you have that experience.",
+        "Move aws, azure, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 60% (MEDIUM)\nSummary: Partial match with aws, azure, docker. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.\nMissing or weak areas: ansible, bash, elk, git, helm, python\nSuggested improvements:\n- Add clear evidence for ansible, bash, elk if you have that experience.\n- Move aws, azure, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:15:31.753Z"
+    },
+    {
+      "id": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909:1774419242295",
+      "jobHash": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909",
+      "fileName": "Rohit-Patil-2025  (1).pdf",
+      "jobLabel": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
+      "jobDescriptionSnippet": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
+      "requiredExperience": 0,
+      "match": 77.6,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, azure, cicd.",
+      "generatedResponse": "Strong overlap on aws, azure, cicd.",
+      "evidenceHighlights": [
+        "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+        "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+        "performances, cpu utilization, disk usage etc. to take recommended action for better performance. â€¢good experiences in aws backup service ( backup and restoration ). -- 1 of 2 -- dell emc, associate specialist 09/2016..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "jenkins",
+        "linux",
+        "linux shell scripting",
+        "scripting",
+        "shell"
+      ],
+      "missingRequirements": [
+        "gcp",
+        "gitlab"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for gcp, gitlab if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 78% (HIGH)\nSummary: Strong overlap on aws, azure, cicd.\nMissing or weak areas: gcp, gitlab\nSuggested improvements:\n- Add clear evidence for gcp, gitlab if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:14:02.295Z"
+    }
+  ],
+  "latestImprovement": {
+    "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738851",
+    "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+    "fileName": "Rohit-Patil-2025  (1).pdf",
+    "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+    "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+    "requiredExperience": 4,
+    "match": 76.3,
+    "bucket": "high",
+    "recommendation": "Strong shortlist candidate.",
+    "matchingSummary": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+    "generatedResponse": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+    "evidenceHighlights": [
+      "jira , nagios, grafana and prometheus aws services :: ec2, s3, vpc, iam , efs, elb, eks, cloud watch, rds, aws backup. infrastructure as code:: terraform scripting: shell scripting professional experience dell emc, devop...",
+      "rohit patil rohit.patil0073@gmail.com 9008674573 bengaluru linkedin.com/in/rohit-patil-7929b958 profile experienced cloud devops engineer with over 4+ years of hands-on experience in designing and implementing ci/cd pipe...",
+      "code quality, security scans, and automated rollbacks. â€¢deployed and automated aws cloud-based production systems. â€¢ensured security best practices using iam, data encryption, and network security. â€¢actively worked..."
+    ],
+    "matchedRequirements": [
+      "aws",
+      "cicd",
+      "eks",
+      "grafana",
+      "jenkins",
+      "kubernetes",
+      "prometheus",
+      "terraform"
+    ],
+    "missingRequirements": [
+      "argocd",
+      "helm"
+    ],
+    "improvementSuggestions": [
+      "Add clear evidence for argocd, helm if you have that experience.",
+      "Move aws, cicd, eks closer to the resume summary or latest project bullets.",
+      "Quantify impact with metrics so the strongest matching skills feel more credible."
+    ],
+    "improvementMessage": "Resume: Rohit-Patil-2025  (1).pdf\nCurrent match: 76% (HIGH)\nSummary: Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, helm\nSuggested improvements:\n- Add clear evidence for argocd, helm if you have that experience.\n- Move aws, cicd, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+    "analysisProvider": "hybrid-ml",
+    "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "analysisCached": false,
+    "updatedAt": "2026-03-25T07:12:18.852Z"
+  },
+  "experienceYearsOverride": 7
+}

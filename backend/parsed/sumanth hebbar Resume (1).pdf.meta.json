@@ -1,3 +1,1146 @@
 {
-  "experienceYearsOverride": 3
+  "experienceYearsOverride": 3,
+  "improvementHistory": [
+    {
+      "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738853",
+      "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+      "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+      "requiredExperience": 4,
+      "match": 49.3,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, cicd, grafana. Biggest gaps: argocd, eks. Resume shows about 3 years against the 4+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, grafana. Biggest gaps: argocd, eks. Resume shows about 3 years against the 4+ year target.",
+      "evidenceHighlights": [
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "grafana",
+        "jenkins",
+        "kubernetes",
+        "prometheus",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "eks",
+        "helm"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, eks, helm if you have that experience.",
+        "Move aws, cicd, grafana closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 49% (MEDIUM)\nSummary: Partial match with aws, cicd, grafana. Biggest gaps: argocd, eks. Resume shows about 3 years against the 4+ year target.\nMissing or weak areas: argocd, eks, helm\nSuggested improvements:\n- Add clear evidence for argocd, eks, helm if you have that experience.\n- Move aws, cicd, grafana closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:12:18.853Z"
+    },
+    {
+      "id": "5268009416b2d01a708f6bbf7ccb6ed388bcb876757585d4bb6f08e4ebb5b86a:1774422616880",
+      "jobHash": "5268009416b2d01a708f6bbf7ccb6ed388bcb876757585d4bb6f08e4ebb5b86a",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Python, Terraform, CloudFormation, CI/CD, Docker, Kubernetes, Linux, Shell Scripting",
+      "jobDescriptionSnippet": "AWS, Python, Terraform, CloudFormation, CI/CD, Docker, Kubernetes, Linux, Shell Scripting",
+      "requiredExperience": 5,
+      "match": 73.6,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: shell. Resume shows about 3 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: shell. Resume shows about 3 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "kubernetes",
+        "linux",
+        "linux shell scripting",
+        "python",
+        "scripting"
+      ],
+      "missingRequirements": [
+        "shell"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for shell if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: shell. Resume shows about 3 years against the 5+ year target.\nMissing or weak areas: shell\nSuggested improvements:\n- Add clear evidence for shell if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:10:16.880Z"
+    },
+    {
+      "id": "cf0a49f4ac0afe695be1a59548dd7ff2d915a41cb52898ec28a65bd6c91e7566:1774422539316",
+      "jobHash": "cf0a49f4ac0afe695be1a59548dd7ff2d915a41cb52898ec28a65bd6c91e7566",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Terraform, EKS, Lambda, EC2, S3, RDS, VPC, IAM, CloudWatch, API Gateway, SQS, Docker, ECS, CI/CD, Git",
+      "jobDescriptionSnippet": "AWS, Terraform, EKS, Lambda, EC2, S3, RDS, VPC, IAM, CloudWatch, API Gateway, SQS, Docker, ECS, CI/CD, Git",
+      "requiredExperience": 5,
+      "match": 52.7,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: api gateway, cloudwatch. Resume shows about 3 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: api gateway, cloudwatch. Resume shows about 3 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "ec2",
+        "git",
+        "iam",
+        "s3",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "api gateway",
+        "cloudwatch",
+        "ecs",
+        "eks",
+        "lambda",
+        "rds"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for api gateway, cloudwatch, ecs if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 53% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: api gateway, cloudwatch. Resume shows about 3 years against the 5+ year target.\nMissing or weak areas: api gateway, cloudwatch, ecs, eks, lambda, rds\nSuggested improvements:\n- Add clear evidence for api gateway, cloudwatch, ecs if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:08:59.316Z"
+    },
+    {
+      "id": "b16e85680510dd2a96de639bd451f996abe71319ba823568a3da73c67a60783e:1774422205165",
+      "jobHash": "b16e85680510dd2a96de639bd451f996abe71319ba823568a3da73c67a60783e",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "Azure, Kubernetes, Terraform, Docker, PowerShell, Azure CLI, Prometheus, Grafana, CI/CD, GitOps",
+      "jobDescriptionSnippet": "Azure, Kubernetes, Terraform, Docker, PowerShell, Azure CLI, Prometheus, Grafana, CI/CD, GitOps",
+      "requiredExperience": 5,
+      "match": 73.7,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with azure, cicd, docker. Biggest gaps: powershell. Resume shows about 3 years against the 5+ year target.",
+      "generatedResponse": "Partial match with azure, cicd, docker. Biggest gaps: powershell. Resume shows about 3 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "policy enforcement. â€¢ developed and managed docker images for application deployment. â€¢ deployed containerized applications to kubernetes clusters using yaml manifest files. education bachelor of engineering | rns in...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "azure",
+        "cicd",
+        "docker",
+        "grafana",
+        "kubernetes",
+        "prometheus",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "powershell"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for powershell if you have that experience.",
+        "Move azure, cicd, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with azure, cicd, docker. Biggest gaps: powershell. Resume shows about 3 years against the 5+ year target.\nMissing or weak areas: powershell\nSuggested improvements:\n- Add clear evidence for powershell if you have that experience.\n- Move azure, cicd, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:03:25.165Z"
+    },
+    {
+      "id": "26fd8873862c5d5653277b96afe3153458849a4f2ab8aacd30bd09227544ee62:1774422127438",
+      "jobHash": "26fd8873862c5d5653277b96afe3153458849a4f2ab8aacd30bd09227544ee62",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, Microservices, IAM, Networking, Kafka,",
+      "jobDescriptionSnippet": "Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, Microservices, IAM, Networking, Kafka,",
+      "requiredExperience": 0,
+      "match": 73.6,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: gcp, kafka.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: gcp, kafka.",
+      "evidenceHighlights": [
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "iam",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "gcp",
+        "kafka"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for gcp, kafka if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: gcp, kafka.\nMissing or weak areas: gcp, kafka\nSuggested improvements:\n- Add clear evidence for gcp, kafka if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:02:07.438Z"
+    },
+    {
+      "id": "d29edb80f028c904109140fcfa0b64e16fd59841ce48f1eff1ea26995d8f51fc:1774421973556",
+      "jobHash": "d29edb80f028c904109140fcfa0b64e16fd59841ce48f1eff1ea26995d8f51fc",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "Kubernetes, Go, Java, Python, CI/CD, Cloud-Native, Container Orchestration, Docker, Observability, Private Cloud, Application Lifecycle Management, Automation",
+      "jobDescriptionSnippet": "Kubernetes, Go, Java, Python, CI/CD, Cloud-Native, Container Orchestration, Docker, Observability, Private Cloud, Application Lifecycle Management, Automation",
+      "requiredExperience": 5,
+      "match": 62.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with cicd, cloud, docker. Biggest gaps: go, java. Resume shows about 3 years against the 5+ year target.",
+      "generatedResponse": "Partial match with cicd, cloud, docker. Biggest gaps: go, java. Resume shows about 3 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "policy enforcement. â€¢ developed and managed docker images for application deployment. â€¢ deployed containerized applications to kubernetes clusters using yaml manifest files. education bachelor of engineering | rns in..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "cloud",
+        "docker",
+        "kubernetes",
+        "python"
+      ],
+      "missingRequirements": [
+        "go",
+        "java"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for go, java if you have that experience.",
+        "Move cicd, cloud, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 63% (MEDIUM)\nSummary: Partial match with cicd, cloud, docker. Biggest gaps: go, java. Resume shows about 3 years against the 5+ year target.\nMissing or weak areas: go, java\nSuggested improvements:\n- Add clear evidence for go, java if you have that experience.\n- Move cicd, cloud, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:59:33.556Z"
+    },
+    {
+      "id": "363e66cbb66ac7d9b3bbe2c3e6c1defec546469e8e276a9fbc0ecd27ea4d6b82:1774421854527",
+      "jobHash": "363e66cbb66ac7d9b3bbe2c3e6c1defec546469e8e276a9fbc0ecd27ea4d6b82",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Azure, Terraform, Ansible, CI/CD, GitLab, Jenkins, Kubernetes, Docker, Python, Go, Bash, Linux, Monitoring, SRE",
+      "jobDescriptionSnippet": "AWS, Azure, Terraform, Ansible, CI/CD, GitLab, Jenkins, Kubernetes, Docker, Python, Go, Bash, Linux, Monitoring, SRE",
+      "requiredExperience": 5,
+      "match": 68.5,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Resume shows about 3 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Resume shows about 3 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "docker",
+        "jenkins",
+        "kubernetes",
+        "linux",
+        "python"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "gitlab",
+        "go",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, gitlab if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 69% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Resume shows about 3 years against the 5+ year target.\nMissing or weak areas: ansible, bash, gitlab, go, sre\nSuggested improvements:\n- Add clear evidence for ansible, bash, gitlab if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:57:34.527Z"
+    },
+    {
+      "id": "052a01648ee5d178c87d1cc2094446a0f9bd11ba73d992413a0b03a2021f3220:1774421774851",
+      "jobHash": "052a01648ee5d178c87d1cc2094446a0f9bd11ba73d992413a0b03a2021f3220",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Kubernetes, EKS, GitLab CI/CD, OpenTofu, Terraform, Docker, ArgoCD, Helm, CloudWatch, Prometheus, Grafana, Datadog, Python, Bash, Linux, IAM, VPC, DevSecOps, Trivy, Snyk, Pulumi, Karpenter",
+      "jobDescriptionSnippet": "AWS, Kubernetes, EKS, GitLab CI/CD, OpenTofu, Terraform, Docker, ArgoCD, Helm, CloudWatch, Prometheus, Grafana, Datadog, Python, Bash, Linux, IAM, VPC, DevSecOps, Trivy, Snyk, Pulumi, Karpenter",
+      "requiredExperience": 4,
+      "match": 59.2,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: argocd, bash. Resume shows about 3 years against the 4+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: argocd, bash. Resume shows about 3 years against the 4+ year target.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "grafana",
+        "iam",
+        "kubernetes",
+        "linux",
+        "prometheus"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "bash",
+        "cloudwatch",
+        "datadog",
+        "eks",
+        "gitlab",
+        "helm",
+        "pulumi"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, bash, cloudwatch if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 59% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: argocd, bash. Resume shows about 3 years against the 4+ year target.\nMissing or weak areas: argocd, bash, cloudwatch, datadog, eks, gitlab, helm, pulumi\nSuggested improvements:\n- Add clear evidence for argocd, bash, cloudwatch if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:56:14.851Z"
+    },
+    {
+      "id": "e1b2c0f643e0c42be8d4e67058ef41413f943cc09d53192540052ebd9a5b09eb:1774421667448",
+      "jobHash": "e1b2c0f643e0c42be8d4e67058ef41413f943cc09d53192540052ebd9a5b09eb",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Python, Groovy, Bash, Jenkins, Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, CloudWatch, MSK, Kafka, Nexus, GitLab, Ansible, SonarQube, OWASP, Veracode",
+      "jobDescriptionSnippet": "AWS, Python, Groovy, Bash, Jenkins, Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, CloudWatch, MSK, Kafka, Nexus, GitLab, Ansible, SonarQube, OWASP, Veracode",
+      "requiredExperience": 4,
+      "match": 65.1,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: ansible, bash. Resume shows about 3 years against the 4+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: ansible, bash. Resume shows about 3 years against the 4+ year target.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "grafana",
+        "jenkins",
+        "kubernetes",
+        "prometheus",
+        "python"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "cloudwatch",
+        "gitlab",
+        "groovy",
+        "kafka",
+        "nexus"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, cloudwatch if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 65% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: ansible, bash. Resume shows about 3 years against the 4+ year target.\nMissing or weak areas: ansible, bash, cloudwatch, gitlab, groovy, kafka, nexus\nSuggested improvements:\n- Add clear evidence for ansible, bash, cloudwatch if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:54:27.448Z"
+    },
+    {
+      "id": "1bb77c9359e62a1d9242e307874109a724ed8998a667878f8b757e6f3aee2faa:1774421507186",
+      "jobHash": "1bb77c9359e62a1d9242e307874109a724ed8998a667878f8b757e6f3aee2faa",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "Jenkins, GitLab CI, Git, Bitbucket, ArgoCD, GitOps, Docker, Kubernetes, Ansible, Puppet, SonarQube, CI/CD, Terraform, CloudFormation, Prometheus, Grafana, ELK, Splunk, Service Mesh",
+      "jobDescriptionSnippet": "Jenkins, GitLab CI, Git, Bitbucket, ArgoCD, GitOps, Docker, Kubernetes, Ansible, Puppet, SonarQube, CI/CD, Terraform, CloudFormation, Prometheus, Grafana, ELK, Splunk, Service Mesh",
+      "requiredExperience": 4,
+      "match": 44.2,
+      "bucket": "low",
+      "recommendation": "Low overlap for this JD right now.",
+      "matchingSummary": "Limited overlap so far. Missing visible evidence for ansible, argocd. Resume shows about 3 years against the 4+ year target.",
+      "generatedResponse": "Limited overlap so far. Missing visible evidence for ansible, argocd. Resume shows about 3 years against the 4+ year target.",
+      "evidenceHighlights": [
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "docker",
+        "git",
+        "gitlab ci",
+        "grafana",
+        "jenkins",
+        "kubernetes",
+        "prometheus"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "argocd",
+        "elk",
+        "gitlab",
+        "service mesh",
+        "splunk"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, argocd, elk if you have that experience.",
+        "Move cicd, docker, git closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 44% (LOW)\nSummary: Limited overlap so far. Missing visible evidence for ansible, argocd. Resume shows about 3 years against the 4+ year target.\nMissing or weak areas: ansible, argocd, elk, gitlab, service mesh, splunk\nSuggested improvements:\n- Add clear evidence for ansible, argocd, elk if you have that experience.\n- Move cicd, docker, git closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:51:47.186Z"
+    },
+    {
+      "id": "2a038ce74fd1fb5e14c653a8e117ac36eba547acd7c7ca331a395b0f3020d252:1774421306872",
+      "jobHash": "2a038ce74fd1fb5e14c653a8e117ac36eba547acd7c7ca331a395b0f3020d252",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "Azure DevOps, CI/CD, Terraform, Kubernetes, Docker, Ansible, Python, Monitoring, Git",
+      "jobDescriptionSnippet": "Azure DevOps, CI/CD, Terraform, Kubernetes, Docker, Ansible, Python, Monitoring, Git",
+      "requiredExperience": 5,
+      "match": 74.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with azure, azure devops, cicd. Biggest gaps: ansible. Resume shows about 3 years against the 5+ year target.",
+      "generatedResponse": "Partial match with azure, azure devops, cicd. Biggest gaps: ansible. Resume shows about 3 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "azure",
+        "azure devops",
+        "cicd",
+        "devops",
+        "docker",
+        "git",
+        "kubernetes",
+        "python"
+      ],
+      "missingRequirements": [
+        "ansible"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible if you have that experience.",
+        "Move azure, azure devops, cicd closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 75% (MEDIUM)\nSummary: Partial match with azure, azure devops, cicd. Biggest gaps: ansible. Resume shows about 3 years against the 5+ year target.\nMissing or weak areas: ansible\nSuggested improvements:\n- Add clear evidence for ansible if you have that experience.\n- Move azure, azure devops, cicd closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:48:26.872Z"
+    },
+    {
+      "id": "482007b681564c665963cc64789195b694b75ba9f2cfcf41c75157026bad659f:1774421195215",
+      "jobHash": "482007b681564c665963cc64789195b694b75ba9f2cfcf41c75157026bad659f",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "CI/CD, Jenkins, GitHub Actions, Terraform, Docker, Kubernetes, AWS, GCP, Containerization, Cloud-Native, Security, Prisma Cloud, Nessus, CrowdStrike, PCI-DSS, HIPAA, SOX, GDPR, CCPA",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitHub Actions, Terraform, Docker, Kubernetes, AWS, GCP, Containerization, Cloud-Native, Security, Prisma Cloud, Nessus, CrowdStrike, PCI-DSS, HIPAA, SOX, GDPR, CCPA",
+      "requiredExperience": 5,
+      "match": 70.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, cloud. Biggest gaps: gcp. Resume shows about 3 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, cloud. Biggest gaps: gcp. Resume shows about 3 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloud",
+        "docker",
+        "github",
+        "github actions",
+        "jenkins",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "gcp"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for gcp if you have that experience.",
+        "Move aws, cicd, cloud closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 71% (MEDIUM)\nSummary: Partial match with aws, cicd, cloud. Biggest gaps: gcp. Resume shows about 3 years against the 5+ year target.\nMissing or weak areas: gcp\nSuggested improvements:\n- Add clear evidence for gcp if you have that experience.\n- Move aws, cicd, cloud closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:46:35.215Z"
+    },
+    {
+      "id": "d4e10eae8d94cc277a72a426da93f39fdec42ae69df1b0c756ff70d60585034a:1774421134142",
+      "jobHash": "d4e10eae8d94cc277a72a426da93f39fdec42ae69df1b0c756ff70d60585034a",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "CI/CD, JFrog, Artifactory, Docker, Kubernetes, Helm, Bash, Python, Go, AWS, Azure, GCP, Infrastructure as Code, Monitoring, SRE",
+      "jobDescriptionSnippet": "CI/CD, JFrog, Artifactory, Docker, Kubernetes, Helm, Bash, Python, Go, AWS, Azure, GCP, Infrastructure as Code, Monitoring, SRE",
+      "requiredExperience": 2,
+      "match": 58,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: bash, gcp. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: bash, gcp. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "docker",
+        "kubernetes",
+        "python"
+      ],
+      "missingRequirements": [
+        "bash",
+        "gcp",
+        "go",
+        "helm",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for bash, gcp, go if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 58% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: bash, gcp. Experience clears the 2+ year requirement.\nMissing or weak areas: bash, gcp, go, helm, sre\nSuggested improvements:\n- Add clear evidence for bash, gcp, go if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:45:34.142Z"
+    },
+    {
+      "id": "1e40ff0cc812e9645d85e034a7c4d9c2f644946e92dc86aa5decca24e01c6326:1774421019766",
+      "jobHash": "1e40ff0cc812e9645d85e034a7c4d9c2f644946e92dc86aa5decca24e01c6326",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, Ansible, Docker, CI/CD, EKS, ECS, Python, Bash, Prometheus, Grafana, CloudWatch, Datadog, New Relic, Linux, VPC, EC2, RDS, ElastiCache",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, Ansible, Docker, CI/CD, EKS, ECS, Python, Bash, Prometheus, Grafana, CloudWatch, Datadog, New Relic, Linux, VPC, EC2, RDS, ElastiCache",
+      "requiredExperience": 3,
+      "match": 71.1,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "ec2",
+        "grafana",
+        "kubernetes",
+        "linux",
+        "prometheus"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "cloudwatch",
+        "datadog",
+        "ecs",
+        "eks",
+        "rds"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, cloudwatch if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 71% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.\nMissing or weak areas: ansible, bash, cloudwatch, datadog, ecs, eks, rds\nSuggested improvements:\n- Add clear evidence for ansible, bash, cloudwatch if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:43:39.766Z"
+    },
+    {
+      "id": "7dedf81a25d092832aba916fefb2beb6ab54ed505a38207c2770d1237c63d990:1774420832979",
+      "jobHash": "7dedf81a25d092832aba916fefb2beb6ab54ed505a38207c2770d1237c63d990",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "CI/CD, Jenkins, GitLab CI, Azure DevOps, Terraform, Ansible, CloudFormation, AWS, Azure, GCP, Docker, Kubernetes, Prometheus, Grafana, ELK, Python, Shell, Groovy, Linux, Git, Istio, Linkerd",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitLab CI, Azure DevOps, Terraform, Ansible, CloudFormation, AWS, Azure, GCP, Docker, Kubernetes, Prometheus, Grafana, ELK, Python, Shell, Groovy, Linux, Git, Istio, Linkerd",
+      "requiredExperience": 0,
+      "match": 74.2,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, azure devops. Biggest gaps: ansible, elk.",
+      "generatedResponse": "Partial match with aws, azure, azure devops. Biggest gaps: ansible, elk.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "azure devops",
+        "cicd",
+        "devops",
+        "docker",
+        "git",
+        "gitlab ci"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "elk",
+        "gcp",
+        "gitlab",
+        "groovy",
+        "shell"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, elk, gcp if you have that experience.",
+        "Move aws, azure, azure devops closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with aws, azure, azure devops. Biggest gaps: ansible, elk.\nMissing or weak areas: ansible, elk, gcp, gitlab, groovy, shell\nSuggested improvements:\n- Add clear evidence for ansible, elk, gcp if you have that experience.\n- Move aws, azure, azure devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:40:32.979Z"
+    },
+    {
+      "id": "6b3c68b2cb875a375dff3a47565b78d3accd9d661f415fe852d7d541bb50416e:1774420742326",
+      "jobHash": "6b3c68b2cb875a375dff3a47565b78d3accd9d661f415fe852d7d541bb50416e",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, Jenkins, Chef, CI/CD, Amazon SQS, Kafka, RabbitMQ",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, Jenkins, Chef, CI/CD, Amazon SQS, Kafka, RabbitMQ",
+      "requiredExperience": 3,
+      "match": 57,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, cicd, jenkins. Biggest gaps: chef, kafka. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, jenkins. Biggest gaps: chef, kafka. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "jenkins",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "chef",
+        "kafka"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for chef, kafka if you have that experience.",
+        "Move aws, cicd, jenkins closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 57% (MEDIUM)\nSummary: Partial match with aws, cicd, jenkins. Biggest gaps: chef, kafka. Experience clears the 3+ year requirement.\nMissing or weak areas: chef, kafka\nSuggested improvements:\n- Add clear evidence for chef, kafka if you have that experience.\n- Move aws, cicd, jenkins closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:39:02.326Z"
+    },
+    {
+      "id": "0b059ac10c97bd7204b31d0707a715cfbcead96e9ea0da5f1ae568af80e323ce:1774420353799",
+      "jobHash": "0b059ac10c97bd7204b31d0707a715cfbcead96e9ea0da5f1ae568af80e323ce",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "CI/CD, Jenkins, GitLab CI/CD, GitHub Actions, AWS, Azure, GCP, Terraform, CloudFormation, Docker, Kubernetes, Ansible, Prometheus, Grafana, ELK Stack, Datadog, Python, Bash, PowerShell, Linux, Windows",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitLab CI/CD, GitHub Actions, AWS, Azure, GCP, Terraform, CloudFormation, Docker, Kubernetes, Ansible, Prometheus, Grafana, ELK Stack, Datadog, Python, Bash, PowerShell, Linux, Windows",
+      "requiredExperience": 3,
+      "match": 66,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "grafana",
+        "jenkins"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "datadog",
+        "elk",
+        "elk stack",
+        "gcp",
+        "gitlab",
+        "powershell"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, datadog if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 66% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.\nMissing or weak areas: ansible, bash, datadog, elk, elk stack, gcp, gitlab, powershell\nSuggested improvements:\n- Add clear evidence for ansible, bash, datadog if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:32:33.799Z"
+    },
+    {
+      "id": "224e8ad00c5a929ccb1eed18d1cd6c2f362b91df027fbd99154f26d87fc464d7:1774420091681",
+      "jobHash": "224e8ad00c5a929ccb1eed18d1cd6c2f362b91df027fbd99154f26d87fc464d7",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "Docker, Kubernetes, Jenkins, GitHub Actions, Python, Bash, Linux, CI/CD, Podman, Docker Compose, Build Automation, On-Premise Infrastructure",
+      "jobDescriptionSnippet": "Docker, Kubernetes, Jenkins, GitHub Actions, Python, Bash, Linux, CI/CD, Podman, Docker Compose, Build Automation, On-Premise Infrastructure",
+      "requiredExperience": 5,
+      "match": 54.8,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with cicd, docker, github. Biggest gaps: bash. Resume shows about 3 years against the 5+ year target.",
+      "generatedResponse": "Partial match with cicd, docker, github. Biggest gaps: bash. Resume shows about 3 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "jenkins",
+        "kubernetes",
+        "linux",
+        "python"
+      ],
+      "missingRequirements": [
+        "bash"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for bash if you have that experience.",
+        "Move cicd, docker, github closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 55% (MEDIUM)\nSummary: Partial match with cicd, docker, github. Biggest gaps: bash. Resume shows about 3 years against the 5+ year target.\nMissing or weak areas: bash\nSuggested improvements:\n- Add clear evidence for bash if you have that experience.\n- Move cicd, docker, github closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:28:11.681Z"
+    },
+    {
+      "id": "5a4f9c8d21310460db7851f7915451343636b20fde5366dd4a66ce325c04784b:1774420028557",
+      "jobHash": "5a4f9c8d21310460db7851f7915451343636b20fde5366dd4a66ce325c04784b",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "GitLab CI/CD, Python, Ansible, DevOps Architecture, CI/CD, Docker, Kubernetes, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "jobDescriptionSnippet": "GitLab CI/CD, Python, Ansible, DevOps Architecture, CI/CD, Docker, Kubernetes, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "requiredExperience": 5,
+      "match": 62.7,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Resume shows about 3 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Resume shows about 3 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "devops",
+        "docker",
+        "kubernetes",
+        "python"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "gcp",
+        "gitlab"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, gcp, gitlab if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 63% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Resume shows about 3 years against the 5+ year target.\nMissing or weak areas: ansible, gcp, gitlab\nSuggested improvements:\n- Add clear evidence for ansible, gcp, gitlab if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:27:08.557Z"
+    },
+    {
+      "id": "905f7d2615639c8672f382872db2404835f6f7172be3ea7da8a5786af2197f1b:1774419900276",
+      "jobHash": "905f7d2615639c8672f382872db2404835f6f7172be3ea7da8a5786af2197f1b",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "Python, GitLab CI/CD, Ansible, Linux, Automation, CI/CD, Docker, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "jobDescriptionSnippet": "Python, GitLab CI/CD, Ansible, Linux, Automation, CI/CD, Docker, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "requiredExperience": 2,
+      "match": 67.2,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "docker",
+        "linux",
+        "python"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "gcp",
+        "gitlab"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, gcp, gitlab if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 67% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: ansible, gcp. Experience clears the 2+ year requirement.\nMissing or weak areas: ansible, gcp, gitlab\nSuggested improvements:\n- Add clear evidence for ansible, gcp, gitlab if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:25:00.276Z"
+    },
+    {
+      "id": "39a2a7caaed3004c60595b0ad63f316cb70f5336bc8da1a6c17f6c57409a5893:1774419784994",
+      "jobHash": "39a2a7caaed3004c60595b0ad63f316cb70f5336bc8da1a6c17f6c57409a5893",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, ArgoCD, GitHub Actions, Datadog, Go, Python, TypeScript, PostgreSQL, CI/CD, SRE",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, ArgoCD, GitHub Actions, Datadog, Go, Python, TypeScript, PostgreSQL, CI/CD, SRE",
+      "requiredExperience": 4,
+      "match": 48.7,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, cicd, github. Biggest gaps: argocd, datadog. Resume shows about 3 years against the 4+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, github. Biggest gaps: argocd, datadog. Resume shows about 3 years against the 4+ year target.",
+      "evidenceHighlights": [
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "github",
+        "github actions",
+        "kubernetes",
+        "python",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "datadog",
+        "go",
+        "postgresql",
+        "sre",
+        "typescript"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, datadog, go if you have that experience.",
+        "Move aws, cicd, github closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 49% (MEDIUM)\nSummary: Partial match with aws, cicd, github. Biggest gaps: argocd, datadog. Resume shows about 3 years against the 4+ year target.\nMissing or weak areas: argocd, datadog, go, postgresql, sre, typescript\nSuggested improvements:\n- Add clear evidence for argocd, datadog, go if you have that experience.\n- Move aws, cicd, github closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:23:04.994Z"
+    },
+    {
+      "id": "624a027da27b86239a50227e5fb3b57aef50b9e1279719d7a4e69cfe44686cb7:1774419680691",
+      "jobHash": "624a027da27b86239a50227e5fb3b57aef50b9e1279719d7a4e69cfe44686cb7",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, EC2, S3, RDS, IAM, GitHub, GitHub Actions, CloudWatch, Linux, Git, Docker, CI/CD",
+      "jobDescriptionSnippet": "AWS, EC2, S3, RDS, IAM, GitHub, GitHub Actions, CloudWatch, Linux, Git, Docker, CI/CD",
+      "requiredExperience": 0,
+      "match": 59.2,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: cloudwatch, rds.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: cloudwatch, rds.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "ec2",
+        "git",
+        "github",
+        "github actions",
+        "iam"
+      ],
+      "missingRequirements": [
+        "cloudwatch",
+        "rds"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for cloudwatch, rds if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 59% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: cloudwatch, rds.\nMissing or weak areas: cloudwatch, rds\nSuggested improvements:\n- Add clear evidence for cloudwatch, rds if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:21:20.692Z"
+    },
+    {
+      "id": "8f769b10b86227334f0a348656f2fca45231af18cdd7bbac6e3cdf6a2c94d06c:1774419545789",
+      "jobHash": "8f769b10b86227334f0a348656f2fca45231af18cdd7bbac6e3cdf6a2c94d06c",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Docker, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins, Terraform, CloudFormation, Prometheus, Grafana, ELK, Python, Shell, AI/ML Infrastructure, Observability, SRE",
+      "jobDescriptionSnippet": "AWS, Docker, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins, Terraform, CloudFormation, Prometheus, Grafana, ELK, Python, Shell, AI/ML Infrastructure, Observability, SRE",
+      "requiredExperience": 4,
+      "match": 70.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: elk, gitlab. Resume shows about 3 years against the 4+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: elk, gitlab. Resume shows about 3 years against the 4+ year target.",
+      "evidenceHighlights": [
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "gitlab ci",
+        "grafana",
+        "jenkins"
+      ],
+      "missingRequirements": [
+        "elk",
+        "gitlab",
+        "shell",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for elk, gitlab, shell if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 71% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: elk, gitlab. Resume shows about 3 years against the 4+ year target.\nMissing or weak areas: elk, gitlab, shell, sre\nSuggested improvements:\n- Add clear evidence for elk, gitlab, shell if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:19:05.789Z"
+    },
+    {
+      "id": "0bb4c9f9f6b23dda615a41f48217c11326f2ada15e2c5ddea31b0c10ad75f410:1774419331755",
+      "jobHash": "0bb4c9f9f6b23dda615a41f48217c11326f2ada15e2c5ddea31b0c10ad75f410",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "AWS, Azure, Jenkins, GitHub Actions, Argo CD, Helm, Docker, Kubernetes, EKS, AKS, Terraform, CloudFormation, Ansible, Prometheus, Grafana, ELK, Python, Bash, Git, JIRA, ServiceNow",
+      "jobDescriptionSnippet": "AWS, Azure, Jenkins, GitHub Actions, Argo CD, Helm, Docker, Kubernetes, EKS, AKS, Terraform, CloudFormation, Ansible, Prometheus, Grafana, ELK, Python, Bash, Git, JIRA, ServiceNow",
+      "requiredExperience": 3,
+      "match": 69.6,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, docker. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, azure, docker. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "docker",
+        "git",
+        "github",
+        "github actions",
+        "grafana",
+        "jenkins"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "eks",
+        "elk",
+        "helm",
+        "jira"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, eks if you have that experience.",
+        "Move aws, azure, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 70% (MEDIUM)\nSummary: Partial match with aws, azure, docker. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.\nMissing or weak areas: ansible, bash, eks, elk, helm, jira\nSuggested improvements:\n- Add clear evidence for ansible, bash, eks if you have that experience.\n- Move aws, azure, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:15:31.755Z"
+    },
+    {
+      "id": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909:1774419242296",
+      "jobHash": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909",
+      "fileName": "sumanth hebbar Resume (1).pdf",
+      "jobLabel": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
+      "jobDescriptionSnippet": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
+      "requiredExperience": 0,
+      "match": 69.8,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure, cicd. Biggest gaps: gcp, gitlab.",
+      "generatedResponse": "Partial match with aws, azure, cicd. Biggest gaps: gcp, gitlab.",
+      "evidenceHighlights": [
+        "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+        "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin...",
+        "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure",
+        "cicd",
+        "jenkins",
+        "linux",
+        "linux shell scripting",
+        "scripting",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "gcp",
+        "gitlab",
+        "shell"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for gcp, gitlab, shell if you have that experience.",
+        "Move aws, azure, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 70% (MEDIUM)\nSummary: Partial match with aws, azure, cicd. Biggest gaps: gcp, gitlab.\nMissing or weak areas: gcp, gitlab, shell\nSuggested improvements:\n- Add clear evidence for gcp, gitlab, shell if you have that experience.\n- Move aws, azure, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:14:02.296Z"
+    }
+  ],
+  "latestImprovement": {
+    "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738853",
+    "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+    "fileName": "sumanth hebbar Resume (1).pdf",
+    "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+    "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+    "requiredExperience": 4,
+    "match": 49.3,
+    "bucket": "medium",
+    "recommendation": "Potential fit but requires deeper manual screening.",
+    "matchingSummary": "Partial match with aws, cicd, grafana. Biggest gaps: argocd, eks. Resume shows about 3 years against the 4+ year target.",
+    "generatedResponse": "Partial match with aws, cicd, grafana. Biggest gaps: argocd, eks. Resume shows about 3 years against the 4+ year target.",
+    "evidenceHighlights": [
+      "applications on iis 10.0 windows 2016/2019/2022 web servers. â€¢ managed big-ip f5 load balancers for 99.9% high availability of business-critical applications. â€¢ ensured application security by managing and implementi...",
+      "â€¢ infrastructure as code: terraform â€¢ containers & orchestration: docker, kubernetes â€¢ web infrastructure: iis, big-ip f5, dns management â€¢ scripting: bash/shell, python (basic) â€¢ operating systems: windows, li...",
+      "sumantha hebbar +91-9741989564 | hebbarsumantha452@gmail.com | linkedin:https://www.linkedin.com/in/iamsumanthahebbar/ professional summary cloud infrastructure engineer with 3.1 years of experience in designing, managin..."
+    ],
+    "matchedRequirements": [
+      "aws",
+      "cicd",
+      "grafana",
+      "jenkins",
+      "kubernetes",
+      "prometheus",
+      "terraform"
+    ],
+    "missingRequirements": [
+      "argocd",
+      "eks",
+      "helm"
+    ],
+    "improvementSuggestions": [
+      "Add clear evidence for argocd, eks, helm if you have that experience.",
+      "Move aws, cicd, grafana closer to the resume summary or latest project bullets.",
+      "Group related work together so the recruiter can quickly see relevant experience depth.",
+      "Quantify impact with metrics so the strongest matching skills feel more credible."
+    ],
+    "improvementMessage": "Resume: sumanth hebbar Resume (1).pdf\nCurrent match: 49% (MEDIUM)\nSummary: Partial match with aws, cicd, grafana. Biggest gaps: argocd, eks. Resume shows about 3 years against the 4+ year target.\nMissing or weak areas: argocd, eks, helm\nSuggested improvements:\n- Add clear evidence for argocd, eks, helm if you have that experience.\n- Move aws, cicd, grafana closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+    "analysisProvider": "hybrid-ml",
+    "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "analysisCached": false,
+    "updatedAt": "2026-03-25T07:12:18.853Z"
+  }
 }

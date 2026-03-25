@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "ml:ping": "python src/ml/hybrid_matcher.py --ping"
   },
   "keywords": [],
   "author": "",

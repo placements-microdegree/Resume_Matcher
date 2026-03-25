@@ -1,0 +1,1144 @@
+{
+  "improvementHistory": [
+    {
+      "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738850",
+      "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+      "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+      "requiredExperience": 4,
+      "match": 75.3,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "eks",
+        "helm",
+        "jenkins",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "grafana",
+        "prometheus"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, grafana, prometheus if you have that experience.",
+        "Move aws, cicd, eks closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 75% (HIGH)\nSummary: Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, grafana, prometheus\nSuggested improvements:\n- Add clear evidence for argocd, grafana, prometheus if you have that experience.\n- Move aws, cicd, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:12:18.850Z"
+    },
+    {
+      "id": "5268009416b2d01a708f6bbf7ccb6ed388bcb876757585d4bb6f08e4ebb5b86a:1774422616877",
+      "jobHash": "5268009416b2d01a708f6bbf7ccb6ed388bcb876757585d4bb6f08e4ebb5b86a",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Python, Terraform, CloudFormation, CI/CD, Docker, Kubernetes, Linux, Shell Scripting",
+      "jobDescriptionSnippet": "AWS, Python, Terraform, CloudFormation, CI/CD, Docker, Kubernetes, Linux, Shell Scripting",
+      "requiredExperience": 5,
+      "match": 69,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: linux, linux shell scripting. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: linux, linux shell scripting. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "linux",
+        "linux shell scripting",
+        "python",
+        "scripting",
+        "shell"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for linux, linux shell scripting, python if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 69% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: linux, linux shell scripting. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: linux, linux shell scripting, python, scripting, shell\nSuggested improvements:\n- Add clear evidence for linux, linux shell scripting, python if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:10:16.877Z"
+    },
+    {
+      "id": "cf0a49f4ac0afe695be1a59548dd7ff2d915a41cb52898ec28a65bd6c91e7566:1774422539314",
+      "jobHash": "cf0a49f4ac0afe695be1a59548dd7ff2d915a41cb52898ec28a65bd6c91e7566",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Terraform, EKS, Lambda, EC2, S3, RDS, VPC, IAM, CloudWatch, API Gateway, SQS, Docker, ECS, CI/CD, Git",
+      "jobDescriptionSnippet": "AWS, Terraform, EKS, Lambda, EC2, S3, RDS, VPC, IAM, CloudWatch, API Gateway, SQS, Docker, ECS, CI/CD, Git",
+      "requiredExperience": 5,
+      "match": 74.5,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with api gateway, aws, cicd. Biggest gaps: ecs. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with api gateway, aws, cicd. Biggest gaps: ecs. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "financial apis and handled audit-friendly data validation. â€¢inventory module â€“ 10% â€¢implemented vendor management, item creation, and stock management workflows. â€¢ensured data accuracy with form validations and o...",
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im..."
+      ],
+      "matchedRequirements": [
+        "api gateway",
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "ec2",
+        "eks",
+        "git"
+      ],
+      "missingRequirements": [
+        "ecs"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ecs if you have that experience.",
+        "Move api gateway, aws, cicd closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with api gateway, aws, cicd. Biggest gaps: ecs. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: ecs\nSuggested improvements:\n- Add clear evidence for ecs if you have that experience.\n- Move api gateway, aws, cicd closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:08:59.314Z"
+    },
+    {
+      "id": "b16e85680510dd2a96de639bd451f996abe71319ba823568a3da73c67a60783e:1774422205161",
+      "jobHash": "b16e85680510dd2a96de639bd451f996abe71319ba823568a3da73c67a60783e",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "Azure, Kubernetes, Terraform, Docker, PowerShell, Azure CLI, Prometheus, Grafana, CI/CD, GitOps",
+      "jobDescriptionSnippet": "Azure, Kubernetes, Terraform, Docker, PowerShell, Azure CLI, Prometheus, Grafana, CI/CD, GitOps",
+      "requiredExperience": 5,
+      "match": 43.6,
+      "bucket": "low",
+      "recommendation": "Low overlap for this JD right now.",
+      "matchingSummary": "Limited overlap so far. Missing visible evidence for azure, grafana. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Limited overlap so far. Missing visible evidence for azure, grafana. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "docker",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "azure",
+        "grafana",
+        "powershell",
+        "prometheus"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, grafana, powershell if you have that experience.",
+        "Move cicd, docker, kubernetes closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 44% (LOW)\nSummary: Limited overlap so far. Missing visible evidence for azure, grafana. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: azure, grafana, powershell, prometheus\nSuggested improvements:\n- Add clear evidence for azure, grafana, powershell if you have that experience.\n- Move cicd, docker, kubernetes closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:03:25.161Z"
+    },
+    {
+      "id": "26fd8873862c5d5653277b96afe3153458849a4f2ab8aacd30bd09227544ee62:1774422127435",
+      "jobHash": "26fd8873862c5d5653277b96afe3153458849a4f2ab8aacd30bd09227544ee62",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, Microservices, IAM, Networking, Kafka,",
+      "jobDescriptionSnippet": "Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, Microservices, IAM, Networking, Kafka,",
+      "requiredExperience": 0,
+      "match": 67.5,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, iam. Biggest gaps: azure, gcp.",
+      "generatedResponse": "Partial match with aws, cicd, iam. Biggest gaps: azure, gcp.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "iam",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "azure",
+        "gcp",
+        "kafka"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, gcp, kafka if you have that experience.",
+        "Move aws, cicd, iam closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 67% (MEDIUM)\nSummary: Partial match with aws, cicd, iam. Biggest gaps: azure, gcp.\nMissing or weak areas: azure, gcp, kafka\nSuggested improvements:\n- Add clear evidence for azure, gcp, kafka if you have that experience.\n- Move aws, cicd, iam closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:02:07.435Z"
+    },
+    {
+      "id": "d29edb80f028c904109140fcfa0b64e16fd59841ce48f1eff1ea26995d8f51fc:1774421973553",
+      "jobHash": "d29edb80f028c904109140fcfa0b64e16fd59841ce48f1eff1ea26995d8f51fc",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "Kubernetes, Go, Java, Python, CI/CD, Cloud-Native, Container Orchestration, Docker, Observability, Private Cloud, Application Lifecycle Management, Automation",
+      "jobDescriptionSnippet": "Kubernetes, Go, Java, Python, CI/CD, Cloud-Native, Container Orchestration, Docker, Observability, Private Cloud, Application Lifecycle Management, Automation",
+      "requiredExperience": 5,
+      "match": 66.3,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with cicd, cloud, docker. Biggest gaps: go, java. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with cicd, cloud, docker. Biggest gaps: go, java. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "cloud",
+        "docker",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "go",
+        "java",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for go, java, python if you have that experience.",
+        "Move cicd, cloud, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 66% (MEDIUM)\nSummary: Partial match with cicd, cloud, docker. Biggest gaps: go, java. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: go, java, python\nSuggested improvements:\n- Add clear evidence for go, java, python if you have that experience.\n- Move cicd, cloud, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:59:33.553Z"
+    },
+    {
+      "id": "363e66cbb66ac7d9b3bbe2c3e6c1defec546469e8e276a9fbc0ecd27ea4d6b82:1774421854525",
+      "jobHash": "363e66cbb66ac7d9b3bbe2c3e6c1defec546469e8e276a9fbc0ecd27ea4d6b82",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Azure, Terraform, Ansible, CI/CD, GitLab, Jenkins, Kubernetes, Docker, Python, Go, Bash, Linux, Monitoring, SRE",
+      "jobDescriptionSnippet": "AWS, Azure, Terraform, Ansible, CI/CD, GitLab, Jenkins, Kubernetes, Docker, Python, Go, Bash, Linux, Monitoring, SRE",
+      "requiredExperience": 5,
+      "match": 70.6,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: ansible, azure. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: ansible, azure. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "jenkins",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "azure",
+        "bash",
+        "gitlab",
+        "go",
+        "linux",
+        "python",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, azure, bash if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 71% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: ansible, azure. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: ansible, azure, bash, gitlab, go, linux, python, sre\nSuggested improvements:\n- Add clear evidence for ansible, azure, bash if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:57:34.525Z"
+    },
+    {
+      "id": "052a01648ee5d178c87d1cc2094446a0f9bd11ba73d992413a0b03a2021f3220:1774421774847",
+      "jobHash": "052a01648ee5d178c87d1cc2094446a0f9bd11ba73d992413a0b03a2021f3220",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Kubernetes, EKS, GitLab CI/CD, OpenTofu, Terraform, Docker, ArgoCD, Helm, CloudWatch, Prometheus, Grafana, Datadog, Python, Bash, Linux, IAM, VPC, DevSecOps, Trivy, Snyk, Pulumi, Karpenter",
+      "jobDescriptionSnippet": "AWS, Kubernetes, EKS, GitLab CI/CD, OpenTofu, Terraform, Docker, ArgoCD, Helm, CloudWatch, Prometheus, Grafana, Datadog, Python, Bash, Linux, IAM, VPC, DevSecOps, Trivy, Snyk, Pulumi, Karpenter",
+      "requiredExperience": 4,
+      "match": 71.3,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, cloudwatch. Biggest gaps: argocd, bash. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, cloudwatch. Biggest gaps: argocd, bash. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio...",
+        "metrics, and deployment stability on aws. â€¢applied aws iam role-based access control to secure interactions between ci/cd pipelines, eks workloads, and other aws services. projects erp application a comprehensive erp p..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "eks",
+        "helm",
+        "iam",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "bash",
+        "gitlab",
+        "grafana",
+        "linux",
+        "prometheus",
+        "pulumi",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, bash, gitlab if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 71% (MEDIUM)\nSummary: Partial match with aws, cicd, cloudwatch. Biggest gaps: argocd, bash. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, bash, gitlab, grafana, linux, prometheus, pulumi, python\nSuggested improvements:\n- Add clear evidence for argocd, bash, gitlab if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:56:14.847Z"
+    },
+    {
+      "id": "e1b2c0f643e0c42be8d4e67058ef41413f943cc09d53192540052ebd9a5b09eb:1774421667446",
+      "jobHash": "e1b2c0f643e0c42be8d4e67058ef41413f943cc09d53192540052ebd9a5b09eb",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Python, Groovy, Bash, Jenkins, Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, CloudWatch, MSK, Kafka, Nexus, GitLab, Ansible, SonarQube, OWASP, Veracode",
+      "jobDescriptionSnippet": "AWS, Python, Groovy, Bash, Jenkins, Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, CloudWatch, MSK, Kafka, Nexus, GitLab, Ansible, SonarQube, OWASP, Veracode",
+      "requiredExperience": 4,
+      "match": 68.7,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, cloudwatch. Biggest gaps: ansible, bash. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, cloudwatch. Biggest gaps: ansible, bash. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "jenkins",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "gitlab",
+        "grafana",
+        "groovy",
+        "kafka",
+        "nexus",
+        "prometheus"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, gitlab if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 69% (MEDIUM)\nSummary: Partial match with aws, cicd, cloudwatch. Biggest gaps: ansible, bash. Experience clears the 4+ year requirement.\nMissing or weak areas: ansible, bash, gitlab, grafana, groovy, kafka, nexus, prometheus\nSuggested improvements:\n- Add clear evidence for ansible, bash, gitlab if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:54:27.446Z"
+    },
+    {
+      "id": "1bb77c9359e62a1d9242e307874109a724ed8998a667878f8b757e6f3aee2faa:1774421507183",
+      "jobHash": "1bb77c9359e62a1d9242e307874109a724ed8998a667878f8b757e6f3aee2faa",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "Jenkins, GitLab CI, Git, Bitbucket, ArgoCD, GitOps, Docker, Kubernetes, Ansible, Puppet, SonarQube, CI/CD, Terraform, CloudFormation, Prometheus, Grafana, ELK, Splunk, Service Mesh",
+      "jobDescriptionSnippet": "Jenkins, GitLab CI, Git, Bitbucket, ArgoCD, GitOps, Docker, Kubernetes, Ansible, Puppet, SonarQube, CI/CD, Terraform, CloudFormation, Prometheus, Grafana, ELK, Splunk, Service Mesh",
+      "requiredExperience": 4,
+      "match": 58.4,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with cicd, docker, git. Biggest gaps: ansible, argocd. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Partial match with cicd, docker, git. Biggest gaps: ansible, argocd. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "docker",
+        "git",
+        "gitlab ci",
+        "jenkins",
+        "kubernetes",
+        "service mesh",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "argocd",
+        "elk",
+        "gitlab",
+        "grafana",
+        "prometheus",
+        "sonarqube",
+        "splunk"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, argocd, elk if you have that experience.",
+        "Move cicd, docker, git closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 58% (MEDIUM)\nSummary: Partial match with cicd, docker, git. Biggest gaps: ansible, argocd. Experience clears the 4+ year requirement.\nMissing or weak areas: ansible, argocd, elk, gitlab, grafana, prometheus, sonarqube, splunk\nSuggested improvements:\n- Add clear evidence for ansible, argocd, elk if you have that experience.\n- Move cicd, docker, git closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:51:47.183Z"
+    },
+    {
+      "id": "2a038ce74fd1fb5e14c653a8e117ac36eba547acd7c7ca331a395b0f3020d252:1774421306868",
+      "jobHash": "2a038ce74fd1fb5e14c653a8e117ac36eba547acd7c7ca331a395b0f3020d252",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "Azure DevOps, CI/CD, Terraform, Kubernetes, Docker, Ansible, Python, Monitoring, Git",
+      "jobDescriptionSnippet": "Azure DevOps, CI/CD, Terraform, Kubernetes, Docker, Ansible, Python, Monitoring, Git",
+      "requiredExperience": 5,
+      "match": 70.7,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with azure devops, cicd, devops. Biggest gaps: ansible, azure. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with azure devops, cicd, devops. Biggest gaps: ansible, azure. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio..."
+      ],
+      "matchedRequirements": [
+        "azure devops",
+        "cicd",
+        "devops",
+        "docker",
+        "git",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "azure",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, azure, python if you have that experience.",
+        "Move azure devops, cicd, devops closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 71% (MEDIUM)\nSummary: Partial match with azure devops, cicd, devops. Biggest gaps: ansible, azure. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: ansible, azure, python\nSuggested improvements:\n- Add clear evidence for ansible, azure, python if you have that experience.\n- Move azure devops, cicd, devops closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:48:26.868Z"
+    },
+    {
+      "id": "482007b681564c665963cc64789195b694b75ba9f2cfcf41c75157026bad659f:1774421195212",
+      "jobHash": "482007b681564c665963cc64789195b694b75ba9f2cfcf41c75157026bad659f",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "CI/CD, Jenkins, GitHub Actions, Terraform, Docker, Kubernetes, AWS, GCP, Containerization, Cloud-Native, Security, Prisma Cloud, Nessus, CrowdStrike, PCI-DSS, HIPAA, SOX, GDPR, CCPA",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitHub Actions, Terraform, Docker, Kubernetes, AWS, GCP, Containerization, Cloud-Native, Security, Prisma Cloud, Nessus, CrowdStrike, PCI-DSS, HIPAA, SOX, GDPR, CCPA",
+      "requiredExperience": 5,
+      "match": 74.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, cloud. Biggest gaps: gcp. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, cloud. Biggest gaps: gcp. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloud",
+        "docker",
+        "github",
+        "github actions",
+        "jenkins",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "gcp"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for gcp if you have that experience.",
+        "Move aws, cicd, cloud closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 75% (MEDIUM)\nSummary: Partial match with aws, cicd, cloud. Biggest gaps: gcp. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: gcp\nSuggested improvements:\n- Add clear evidence for gcp if you have that experience.\n- Move aws, cicd, cloud closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:46:35.213Z"
+    },
+    {
+      "id": "d4e10eae8d94cc277a72a426da93f39fdec42ae69df1b0c756ff70d60585034a:1774421134139",
+      "jobHash": "d4e10eae8d94cc277a72a426da93f39fdec42ae69df1b0c756ff70d60585034a",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "CI/CD, JFrog, Artifactory, Docker, Kubernetes, Helm, Bash, Python, Go, AWS, Azure, GCP, Infrastructure as Code, Monitoring, SRE",
+      "jobDescriptionSnippet": "CI/CD, JFrog, Artifactory, Docker, Kubernetes, Helm, Bash, Python, Go, AWS, Azure, GCP, Infrastructure as Code, Monitoring, SRE",
+      "requiredExperience": 2,
+      "match": 57.1,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: azure, bash. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: azure, bash. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio...",
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "helm",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "azure",
+        "bash",
+        "gcp",
+        "go",
+        "python",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, bash, gcp if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 57% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: azure, bash. Experience clears the 2+ year requirement.\nMissing or weak areas: azure, bash, gcp, go, python, sre\nSuggested improvements:\n- Add clear evidence for azure, bash, gcp if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:45:34.139Z"
+    },
+    {
+      "id": "1e40ff0cc812e9645d85e034a7c4d9c2f644946e92dc86aa5decca24e01c6326:1774421019763",
+      "jobHash": "1e40ff0cc812e9645d85e034a7c4d9c2f644946e92dc86aa5decca24e01c6326",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, Ansible, Docker, CI/CD, EKS, ECS, Python, Bash, Prometheus, Grafana, CloudWatch, Datadog, New Relic, Linux, VPC, EC2, RDS, ElastiCache",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, Ansible, Docker, CI/CD, EKS, ECS, Python, Bash, Prometheus, Grafana, CloudWatch, Datadog, New Relic, Linux, VPC, EC2, RDS, ElastiCache",
+      "requiredExperience": 3,
+      "match": 74.1,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, cloudwatch. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, cloudwatch. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio...",
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "ec2",
+        "eks",
+        "kubernetes",
+        "rds"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "bash",
+        "ecs",
+        "grafana",
+        "linux",
+        "prometheus",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, bash, ecs if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with aws, cicd, cloudwatch. Biggest gaps: ansible, bash. Experience clears the 3+ year requirement.\nMissing or weak areas: ansible, bash, ecs, grafana, linux, prometheus, python\nSuggested improvements:\n- Add clear evidence for ansible, bash, ecs if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:43:39.763Z"
+    },
+    {
+      "id": "7dedf81a25d092832aba916fefb2beb6ab54ed505a38207c2770d1237c63d990:1774420832976",
+      "jobHash": "7dedf81a25d092832aba916fefb2beb6ab54ed505a38207c2770d1237c63d990",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "CI/CD, Jenkins, GitLab CI, Azure DevOps, Terraform, Ansible, CloudFormation, AWS, Azure, GCP, Docker, Kubernetes, Prometheus, Grafana, ELK, Python, Shell, Groovy, Linux, Git, Istio, Linkerd",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitLab CI, Azure DevOps, Terraform, Ansible, CloudFormation, AWS, Azure, GCP, Docker, Kubernetes, Prometheus, Grafana, ELK, Python, Shell, Groovy, Linux, Git, Istio, Linkerd",
+      "requiredExperience": 0,
+      "match": 74.5,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, azure devops, cicd. Biggest gaps: ansible, azure.",
+      "generatedResponse": "Partial match with aws, azure devops, cicd. Biggest gaps: ansible, azure.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "azure devops",
+        "cicd",
+        "devops",
+        "docker",
+        "git",
+        "gitlab ci",
+        "jenkins"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "azure",
+        "elk",
+        "gcp",
+        "gitlab",
+        "grafana",
+        "groovy",
+        "linux"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, azure, elk if you have that experience.",
+        "Move aws, azure devops, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with aws, azure devops, cicd. Biggest gaps: ansible, azure.\nMissing or weak areas: ansible, azure, elk, gcp, gitlab, grafana, groovy, linux\nSuggested improvements:\n- Add clear evidence for ansible, azure, elk if you have that experience.\n- Move aws, azure devops, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:40:32.976Z"
+    },
+    {
+      "id": "6b3c68b2cb875a375dff3a47565b78d3accd9d661f415fe852d7d541bb50416e:1774420742323",
+      "jobHash": "6b3c68b2cb875a375dff3a47565b78d3accd9d661f415fe852d7d541bb50416e",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, Jenkins, Chef, CI/CD, Amazon SQS, Kafka, RabbitMQ",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, Jenkins, Chef, CI/CD, Amazon SQS, Kafka, RabbitMQ",
+      "requiredExperience": 3,
+      "match": 76.9,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, jenkins. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, jenkins. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "jenkins",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "chef",
+        "kafka"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for chef, kafka if you have that experience.",
+        "Move aws, cicd, jenkins closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 77% (HIGH)\nSummary: Strong overlap on aws, cicd, jenkins. Experience clears the 3+ year requirement.\nMissing or weak areas: chef, kafka\nSuggested improvements:\n- Add clear evidence for chef, kafka if you have that experience.\n- Move aws, cicd, jenkins closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:39:02.323Z"
+    },
+    {
+      "id": "0b059ac10c97bd7204b31d0707a715cfbcead96e9ea0da5f1ae568af80e323ce:1774420353796",
+      "jobHash": "0b059ac10c97bd7204b31d0707a715cfbcead96e9ea0da5f1ae568af80e323ce",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "CI/CD, Jenkins, GitLab CI/CD, GitHub Actions, AWS, Azure, GCP, Terraform, CloudFormation, Docker, Kubernetes, Ansible, Prometheus, Grafana, ELK Stack, Datadog, Python, Bash, PowerShell, Linux, Windows",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitLab CI/CD, GitHub Actions, AWS, Azure, GCP, Terraform, CloudFormation, Docker, Kubernetes, Ansible, Prometheus, Grafana, ELK Stack, Datadog, Python, Bash, PowerShell, Linux, Windows",
+      "requiredExperience": 3,
+      "match": 72.6,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: ansible, azure. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: ansible, azure. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "jenkins",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "azure",
+        "bash",
+        "elk",
+        "elk stack",
+        "gcp",
+        "gitlab",
+        "grafana"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, azure, bash if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 73% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: ansible, azure. Experience clears the 3+ year requirement.\nMissing or weak areas: ansible, azure, bash, elk, elk stack, gcp, gitlab, grafana\nSuggested improvements:\n- Add clear evidence for ansible, azure, bash if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:32:33.796Z"
+    },
+    {
+      "id": "224e8ad00c5a929ccb1eed18d1cd6c2f362b91df027fbd99154f26d87fc464d7:1774420091679",
+      "jobHash": "224e8ad00c5a929ccb1eed18d1cd6c2f362b91df027fbd99154f26d87fc464d7",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "Docker, Kubernetes, Jenkins, GitHub Actions, Python, Bash, Linux, CI/CD, Podman, Docker Compose, Build Automation, On-Premise Infrastructure",
+      "jobDescriptionSnippet": "Docker, Kubernetes, Jenkins, GitHub Actions, Python, Bash, Linux, CI/CD, Podman, Docker Compose, Build Automation, On-Premise Infrastructure",
+      "requiredExperience": 5,
+      "match": 70.2,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with cicd, docker, github. Biggest gaps: bash, linux. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with cicd, docker, github. Biggest gaps: bash, linux. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "jenkins",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "bash",
+        "linux",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for bash, linux, python if you have that experience.",
+        "Move cicd, docker, github closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 70% (MEDIUM)\nSummary: Partial match with cicd, docker, github. Biggest gaps: bash, linux. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: bash, linux, python\nSuggested improvements:\n- Add clear evidence for bash, linux, python if you have that experience.\n- Move cicd, docker, github closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:28:11.679Z"
+    },
+    {
+      "id": "5a4f9c8d21310460db7851f7915451343636b20fde5366dd4a66ce325c04784b:1774420028555",
+      "jobHash": "5a4f9c8d21310460db7851f7915451343636b20fde5366dd4a66ce325c04784b",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "GitLab CI/CD, Python, Ansible, DevOps Architecture, CI/CD, Docker, Kubernetes, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "jobDescriptionSnippet": "GitLab CI/CD, Python, Ansible, DevOps Architecture, CI/CD, Docker, Kubernetes, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "requiredExperience": 5,
+      "match": 65,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, devops. Biggest gaps: ansible, azure. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, devops. Biggest gaps: ansible, azure. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio...",
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "azure",
+        "gcp",
+        "gitlab",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, azure, gcp if you have that experience.",
+        "Move aws, cicd, devops closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 65% (MEDIUM)\nSummary: Partial match with aws, cicd, devops. Biggest gaps: ansible, azure. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: ansible, azure, gcp, gitlab, python\nSuggested improvements:\n- Add clear evidence for ansible, azure, gcp if you have that experience.\n- Move aws, cicd, devops closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:27:08.555Z"
+    },
+    {
+      "id": "905f7d2615639c8672f382872db2404835f6f7172be3ea7da8a5786af2197f1b:1774419900274",
+      "jobHash": "905f7d2615639c8672f382872db2404835f6f7172be3ea7da8a5786af2197f1b",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "Python, GitLab CI/CD, Ansible, Linux, Automation, CI/CD, Docker, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "jobDescriptionSnippet": "Python, GitLab CI/CD, Ansible, Linux, Automation, CI/CD, Docker, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "requiredExperience": 2,
+      "match": 57.2,
+      "bucket": "medium",
+      "recommendation": "Potential fit but requires deeper manual screening.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: ansible, azure. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: ansible, azure. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "azure",
+        "gcp",
+        "gitlab",
+        "linux",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, azure, gcp if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 57% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: ansible, azure. Experience clears the 2+ year requirement.\nMissing or weak areas: ansible, azure, gcp, gitlab, linux, python\nSuggested improvements:\n- Add clear evidence for ansible, azure, gcp if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:25:00.274Z"
+    },
+    {
+      "id": "39a2a7caaed3004c60595b0ad63f316cb70f5336bc8da1a6c17f6c57409a5893:1774419784991",
+      "jobHash": "39a2a7caaed3004c60595b0ad63f316cb70f5336bc8da1a6c17f6c57409a5893",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, ArgoCD, GitHub Actions, Datadog, Go, Python, TypeScript, PostgreSQL, CI/CD, SRE",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, ArgoCD, GitHub Actions, Datadog, Go, Python, TypeScript, PostgreSQL, CI/CD, SRE",
+      "requiredExperience": 4,
+      "match": 65.4,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, github. Biggest gaps: argocd, go. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, github. Biggest gaps: argocd, go. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "github",
+        "github actions",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "go",
+        "postgresql",
+        "python",
+        "sre",
+        "typescript"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, go, postgresql if you have that experience.",
+        "Move aws, cicd, github closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 65% (MEDIUM)\nSummary: Partial match with aws, cicd, github. Biggest gaps: argocd, go. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, go, postgresql, python, sre, typescript\nSuggested improvements:\n- Add clear evidence for argocd, go, postgresql if you have that experience.\n- Move aws, cicd, github closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:23:04.991Z"
+    },
+    {
+      "id": "624a027da27b86239a50227e5fb3b57aef50b9e1279719d7a4e69cfe44686cb7:1774419680689",
+      "jobHash": "624a027da27b86239a50227e5fb3b57aef50b9e1279719d7a4e69cfe44686cb7",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, EC2, S3, RDS, IAM, GitHub, GitHub Actions, CloudWatch, Linux, Git, Docker, CI/CD",
+      "jobDescriptionSnippet": "AWS, EC2, S3, RDS, IAM, GitHub, GitHub Actions, CloudWatch, Linux, Git, Docker, CI/CD",
+      "requiredExperience": 0,
+      "match": 77.5,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, cloudwatch.",
+      "generatedResponse": "Strong overlap on aws, cicd, cloudwatch.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "financial apis and handled audit-friendly data validation. â€¢inventory module â€“ 10% â€¢implemented vendor management, item creation, and stock management workflows. â€¢ensured data accuracy with form validations and o...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "ec2",
+        "git",
+        "github",
+        "github actions"
+      ],
+      "missingRequirements": [
+        "linux"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for linux if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 78% (HIGH)\nSummary: Strong overlap on aws, cicd, cloudwatch.\nMissing or weak areas: linux\nSuggested improvements:\n- Add clear evidence for linux if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:21:20.689Z"
+    },
+    {
+      "id": "8f769b10b86227334f0a348656f2fca45231af18cdd7bbac6e3cdf6a2c94d06c:1774419545786",
+      "jobHash": "8f769b10b86227334f0a348656f2fca45231af18cdd7bbac6e3cdf6a2c94d06c",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Docker, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins, Terraform, CloudFormation, Prometheus, Grafana, ELK, Python, Shell, AI/ML Infrastructure, Observability, SRE",
+      "jobDescriptionSnippet": "AWS, Docker, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins, Terraform, CloudFormation, Prometheus, Grafana, ELK, Python, Shell, AI/ML Infrastructure, Observability, SRE",
+      "requiredExperience": 4,
+      "match": 77.3,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, docker. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, docker. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "rakshith v software developer rakshithv751@gmail.com | 8073783250 | bengaluru | www.linkedin.com/in/raksh-v professional summary aws & cloud engineer with 4+ years of experience building scalable, user-focused applicatio..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "gitlab ci",
+        "jenkins",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "elk",
+        "gitlab",
+        "grafana",
+        "prometheus",
+        "python",
+        "shell",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for elk, gitlab, grafana if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 77% (HIGH)\nSummary: Strong overlap on aws, cicd, docker. Experience clears the 4+ year requirement.\nMissing or weak areas: elk, gitlab, grafana, prometheus, python, shell, sre\nSuggested improvements:\n- Add clear evidence for elk, gitlab, grafana if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:19:05.786Z"
+    },
+    {
+      "id": "0bb4c9f9f6b23dda615a41f48217c11326f2ada15e2c5ddea31b0c10ad75f410:1774419331752",
+      "jobHash": "0bb4c9f9f6b23dda615a41f48217c11326f2ada15e2c5ddea31b0c10ad75f410",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "AWS, Azure, Jenkins, GitHub Actions, Argo CD, Helm, Docker, Kubernetes, EKS, AKS, Terraform, CloudFormation, Ansible, Prometheus, Grafana, ELK, Python, Bash, Git, JIRA, ServiceNow",
+      "jobDescriptionSnippet": "AWS, Azure, Jenkins, GitHub Actions, Argo CD, Helm, Docker, Kubernetes, EKS, AKS, Terraform, CloudFormation, Ansible, Prometheus, Grafana, ELK, Python, Bash, Git, JIRA, ServiceNow",
+      "requiredExperience": 3,
+      "match": 73.2,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, docker, eks. Biggest gaps: ansible, azure. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, docker, eks. Biggest gaps: ansible, azure. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "docker",
+        "eks",
+        "git",
+        "github",
+        "github actions",
+        "helm",
+        "jenkins"
+      ],
+      "missingRequirements": [
+        "ansible",
+        "azure",
+        "bash",
+        "elk",
+        "grafana",
+        "jira",
+        "prometheus",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for ansible, azure, bash if you have that experience.",
+        "Move aws, docker, eks closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 73% (MEDIUM)\nSummary: Partial match with aws, docker, eks. Biggest gaps: ansible, azure. Experience clears the 3+ year requirement.\nMissing or weak areas: ansible, azure, bash, elk, grafana, jira, prometheus, python\nSuggested improvements:\n- Add clear evidence for ansible, azure, bash if you have that experience.\n- Move aws, docker, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:15:31.752Z"
+    },
+    {
+      "id": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909:1774419242294",
+      "jobHash": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909",
+      "fileName": "Rakshith-V-AWS.pdf",
+      "jobLabel": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
+      "jobDescriptionSnippet": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
+      "requiredExperience": 0,
+      "match": 68.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, jenkins. Biggest gaps: azure, gcp.",
+      "generatedResponse": "Partial match with aws, cicd, jenkins. Biggest gaps: azure, gcp.",
+      "evidenceHighlights": [
+        "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+        "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im...",
+        "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "jenkins",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "azure",
+        "gcp",
+        "gitlab",
+        "linux",
+        "linux shell scripting",
+        "scripting",
+        "shell"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, gcp, gitlab if you have that experience.",
+        "Move aws, cicd, jenkins closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 69% (MEDIUM)\nSummary: Partial match with aws, cicd, jenkins. Biggest gaps: azure, gcp.\nMissing or weak areas: azure, gcp, gitlab, linux, linux shell scripting, scripting, shell\nSuggested improvements:\n- Add clear evidence for azure, gcp, gitlab if you have that experience.\n- Move aws, cicd, jenkins closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:14:02.294Z"
+    }
+  ],
+  "latestImprovement": {
+    "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738850",
+    "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+    "fileName": "Rakshith-V-AWS.pdf",
+    "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+    "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+    "requiredExperience": 4,
+    "match": 75.3,
+    "bucket": "high",
+    "recommendation": "Strong shortlist candidate.",
+    "matchingSummary": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+    "generatedResponse": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+    "evidenceHighlights": [
+      "code (iac): terraform ci/cd tools: jenkins, github actions front end: html5, css, javascript (es6+), react.js, material-ui, bootstrap, jsx version control: git github certificates aws solution architect (microdegree) dev...",
+      "& push to amazon ecr (elastic container registry). â€¢implemented ci/cd pipelines using jenkins, integrating git, docker, and aws for automated build, test, and deploy workflows. â€¢deployed and managed the application o...",
+      "eks for scalable container orchestration, enabling automated scaling, load management, and self-healing of application instances. â€¢designed and implemented ci/cd pipelines in jenkins with docker and aws integration, im..."
+    ],
+    "matchedRequirements": [
+      "aws",
+      "cicd",
+      "eks",
+      "helm",
+      "jenkins",
+      "kubernetes",
+      "terraform"
+    ],
+    "missingRequirements": [
+      "argocd",
+      "grafana",
+      "prometheus"
+    ],
+    "improvementSuggestions": [
+      "Add clear evidence for argocd, grafana, prometheus if you have that experience.",
+      "Move aws, cicd, eks closer to the resume summary or latest project bullets.",
+      "Quantify impact with metrics so the strongest matching skills feel more credible."
+    ],
+    "improvementMessage": "Resume: Rakshith-V-AWS.pdf\nCurrent match: 75% (HIGH)\nSummary: Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, grafana, prometheus\nSuggested improvements:\n- Add clear evidence for argocd, grafana, prometheus if you have that experience.\n- Move aws, cicd, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+    "analysisProvider": "hybrid-ml",
+    "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "analysisCached": false,
+    "updatedAt": "2026-03-25T07:12:18.850Z"
+  },
+  "experienceYearsOverride": 4
+}

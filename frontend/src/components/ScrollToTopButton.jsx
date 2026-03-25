@@ -35,9 +35,9 @@ export default function ScrollToTopButton() {
       type="button"
       onClick={scrollToTop}
       aria-label="Scroll to top"
-      className="fixed bottom-6 right-6 z-50 rounded-full border border-slate-200 bg-white p-3 text-slate-700 shadow-sm hover:bg-slate-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-slate-300"
+      className="fixed bottom-5 right-5 z-50 rounded-full border border-slate-200 bg-white/95 px-4 py-2 text-sm font-semibold text-slate-700 shadow-[0_16px_40px_-24px_rgba(15,23,42,0.45)] transition hover:bg-white focus:outline-none focus-visible:ring-2 focus-visible:ring-teal-300"
     >
-      <span className="text-lg leading-none">↑</span>
+      Top
     </button>
   );
 }

@@ -1,0 +1,1125 @@
+{
+  "improvementHistory": [
+    {
+      "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738846",
+      "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+      "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+      "requiredExperience": 4,
+      "match": 78.6,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "eks",
+        "grafana",
+        "helm",
+        "jenkins",
+        "kubernetes",
+        "prometheus"
+      ],
+      "missingRequirements": [
+        "argocd"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd if you have that experience.",
+        "Move aws, cicd, eks closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 79% (HIGH)\nSummary: Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd\nSuggested improvements:\n- Add clear evidence for argocd if you have that experience.\n- Move aws, cicd, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:12:18.846Z"
+    },
+    {
+      "id": "5268009416b2d01a708f6bbf7ccb6ed388bcb876757585d4bb6f08e4ebb5b86a:1774422616873",
+      "jobHash": "5268009416b2d01a708f6bbf7ccb6ed388bcb876757585d4bb6f08e4ebb5b86a",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Python, Terraform, CloudFormation, CI/CD, Docker, Kubernetes, Linux, Shell Scripting",
+      "jobDescriptionSnippet": "AWS, Python, Terraform, CloudFormation, CI/CD, Docker, Kubernetes, Linux, Shell Scripting",
+      "requiredExperience": 5,
+      "match": 74.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, docker. Biggest gaps: python. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, docker. Biggest gaps: python. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "kubernetes",
+        "linux",
+        "linux shell scripting",
+        "scripting",
+        "shell"
+      ],
+      "missingRequirements": [
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for python if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 75% (MEDIUM)\nSummary: Partial match with aws, cicd, docker. Biggest gaps: python. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: python\nSuggested improvements:\n- Add clear evidence for python if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:10:16.873Z"
+    },
+    {
+      "id": "cf0a49f4ac0afe695be1a59548dd7ff2d915a41cb52898ec28a65bd6c91e7566:1774422539310",
+      "jobHash": "cf0a49f4ac0afe695be1a59548dd7ff2d915a41cb52898ec28a65bd6c91e7566",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Terraform, EKS, Lambda, EC2, S3, RDS, VPC, IAM, CloudWatch, API Gateway, SQS, Docker, ECS, CI/CD, Git",
+      "jobDescriptionSnippet": "AWS, Terraform, EKS, Lambda, EC2, S3, RDS, VPC, IAM, CloudWatch, API Gateway, SQS, Docker, ECS, CI/CD, Git",
+      "requiredExperience": 5,
+      "match": 74.3,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, cloudwatch. Biggest gaps: api gateway, ecs. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, cloudwatch. Biggest gaps: api gateway, ecs. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "â€“ sep 2025 roles & responsibilities aws cloud infrastructure & security ï‚· deployed and managed secure, scalable environments on aws leveraging vpc, ec2, load balancers, auto scaling, route 53, cloudfront, and s3 for...",
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "ec2",
+        "eks",
+        "git",
+        "iam"
+      ],
+      "missingRequirements": [
+        "api gateway",
+        "ecs",
+        "lambda",
+        "rds"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for api gateway, ecs, lambda if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with aws, cicd, cloudwatch. Biggest gaps: api gateway, ecs. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: api gateway, ecs, lambda, rds\nSuggested improvements:\n- Add clear evidence for api gateway, ecs, lambda if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:08:59.310Z"
+    },
+    {
+      "id": "b16e85680510dd2a96de639bd451f996abe71319ba823568a3da73c67a60783e:1774422205155",
+      "jobHash": "b16e85680510dd2a96de639bd451f996abe71319ba823568a3da73c67a60783e",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "Azure, Kubernetes, Terraform, Docker, PowerShell, Azure CLI, Prometheus, Grafana, CI/CD, GitOps",
+      "jobDescriptionSnippet": "Azure, Kubernetes, Terraform, Docker, PowerShell, Azure CLI, Prometheus, Grafana, CI/CD, GitOps",
+      "requiredExperience": 5,
+      "match": 67.2,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with cicd, docker, grafana. Biggest gaps: azure, powershell. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with cicd, docker, grafana. Biggest gaps: azure, powershell. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "docker",
+        "grafana",
+        "kubernetes",
+        "prometheus",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "azure",
+        "powershell"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, powershell if you have that experience.",
+        "Move cicd, docker, grafana closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 67% (MEDIUM)\nSummary: Partial match with cicd, docker, grafana. Biggest gaps: azure, powershell. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: azure, powershell\nSuggested improvements:\n- Add clear evidence for azure, powershell if you have that experience.\n- Move cicd, docker, grafana closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:03:25.155Z"
+    },
+    {
+      "id": "26fd8873862c5d5653277b96afe3153458849a4f2ab8aacd30bd09227544ee62:1774422127431",
+      "jobHash": "26fd8873862c5d5653277b96afe3153458849a4f2ab8aacd30bd09227544ee62",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, Microservices, IAM, Networking, Kafka,",
+      "jobDescriptionSnippet": "Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, Microservices, IAM, Networking, Kafka,",
+      "requiredExperience": 0,
+      "match": 69.3,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, iam. Biggest gaps: azure, gcp.",
+      "generatedResponse": "Partial match with aws, cicd, iam. Biggest gaps: azure, gcp.",
+      "evidenceHighlights": [
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "â€“ sep 2025 roles & responsibilities aws cloud infrastructure & security ï‚· deployed and managed secure, scalable environments on aws leveraging vpc, ec2, load balancers, auto scaling, route 53, cloudfront, and s3 for..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "iam",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "azure",
+        "gcp",
+        "kafka"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, gcp, kafka if you have that experience.",
+        "Move aws, cicd, iam closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 69% (MEDIUM)\nSummary: Partial match with aws, cicd, iam. Biggest gaps: azure, gcp.\nMissing or weak areas: azure, gcp, kafka\nSuggested improvements:\n- Add clear evidence for azure, gcp, kafka if you have that experience.\n- Move aws, cicd, iam closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T07:02:07.431Z"
+    },
+    {
+      "id": "d29edb80f028c904109140fcfa0b64e16fd59841ce48f1eff1ea26995d8f51fc:1774421973549",
+      "jobHash": "d29edb80f028c904109140fcfa0b64e16fd59841ce48f1eff1ea26995d8f51fc",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "Kubernetes, Go, Java, Python, CI/CD, Cloud-Native, Container Orchestration, Docker, Observability, Private Cloud, Application Lifecycle Management, Automation",
+      "jobDescriptionSnippet": "Kubernetes, Go, Java, Python, CI/CD, Cloud-Native, Container Orchestration, Docker, Observability, Private Cloud, Application Lifecycle Management, Automation",
+      "requiredExperience": 5,
+      "match": 66.8,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with cicd, cloud, docker. Biggest gaps: go, python. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with cicd, cloud, docker. Biggest gaps: go, python. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "cicd",
+        "cloud",
+        "docker",
+        "java",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "go",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for go, python if you have that experience.",
+        "Move cicd, cloud, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 67% (MEDIUM)\nSummary: Partial match with cicd, cloud, docker. Biggest gaps: go, python. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: go, python\nSuggested improvements:\n- Add clear evidence for go, python if you have that experience.\n- Move cicd, cloud, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:59:33.549Z"
+    },
+    {
+      "id": "363e66cbb66ac7d9b3bbe2c3e6c1defec546469e8e276a9fbc0ecd27ea4d6b82:1774421854521",
+      "jobHash": "363e66cbb66ac7d9b3bbe2c3e6c1defec546469e8e276a9fbc0ecd27ea4d6b82",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Azure, Terraform, Ansible, CI/CD, GitLab, Jenkins, Kubernetes, Docker, Python, Go, Bash, Linux, Monitoring, SRE",
+      "jobDescriptionSnippet": "AWS, Azure, Terraform, Ansible, CI/CD, GitLab, Jenkins, Kubernetes, Docker, Python, Go, Bash, Linux, Monitoring, SRE",
+      "requiredExperience": 5,
+      "match": 74.5,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with ansible, aws, bash. Biggest gaps: azure, gitlab. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with ansible, aws, bash. Biggest gaps: azure, gitlab. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "ansible",
+        "aws",
+        "bash",
+        "cicd",
+        "docker",
+        "jenkins",
+        "kubernetes",
+        "linux"
+      ],
+      "missingRequirements": [
+        "azure",
+        "gitlab",
+        "go",
+        "python",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, gitlab, go if you have that experience.",
+        "Move ansible, aws, bash closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 75% (MEDIUM)\nSummary: Partial match with ansible, aws, bash. Biggest gaps: azure, gitlab. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: azure, gitlab, go, python, sre\nSuggested improvements:\n- Add clear evidence for azure, gitlab, go if you have that experience.\n- Move ansible, aws, bash closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:57:34.521Z"
+    },
+    {
+      "id": "052a01648ee5d178c87d1cc2094446a0f9bd11ba73d992413a0b03a2021f3220:1774421774841",
+      "jobHash": "052a01648ee5d178c87d1cc2094446a0f9bd11ba73d992413a0b03a2021f3220",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Kubernetes, EKS, GitLab CI/CD, OpenTofu, Terraform, Docker, ArgoCD, Helm, CloudWatch, Prometheus, Grafana, Datadog, Python, Bash, Linux, IAM, VPC, DevSecOps, Trivy, Snyk, Pulumi, Karpenter",
+      "jobDescriptionSnippet": "AWS, Kubernetes, EKS, GitLab CI/CD, OpenTofu, Terraform, Docker, ArgoCD, Helm, CloudWatch, Prometheus, Grafana, Datadog, Python, Bash, Linux, IAM, VPC, DevSecOps, Trivy, Snyk, Pulumi, Karpenter",
+      "requiredExperience": 4,
+      "match": 75.6,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, bash, cicd. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, bash, cicd. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "bash",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "eks",
+        "grafana",
+        "helm"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "datadog",
+        "gitlab",
+        "pulumi",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, datadog, gitlab if you have that experience.",
+        "Move aws, bash, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 76% (HIGH)\nSummary: Strong overlap on aws, bash, cicd. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, datadog, gitlab, pulumi, python\nSuggested improvements:\n- Add clear evidence for argocd, datadog, gitlab if you have that experience.\n- Move aws, bash, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:56:14.841Z"
+    },
+    {
+      "id": "e1b2c0f643e0c42be8d4e67058ef41413f943cc09d53192540052ebd9a5b09eb:1774421667442",
+      "jobHash": "e1b2c0f643e0c42be8d4e67058ef41413f943cc09d53192540052ebd9a5b09eb",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Python, Groovy, Bash, Jenkins, Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, CloudWatch, MSK, Kafka, Nexus, GitLab, Ansible, SonarQube, OWASP, Veracode",
+      "jobDescriptionSnippet": "AWS, Python, Groovy, Bash, Jenkins, Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, CloudWatch, MSK, Kafka, Nexus, GitLab, Ansible, SonarQube, OWASP, Veracode",
+      "requiredExperience": 4,
+      "match": 75.4,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on ansible, aws, bash. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Strong overlap on ansible, aws, bash. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      ],
+      "matchedRequirements": [
+        "ansible",
+        "aws",
+        "bash",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "grafana",
+        "jenkins"
+      ],
+      "missingRequirements": [
+        "gitlab",
+        "groovy",
+        "kafka",
+        "nexus",
+        "python",
+        "sonarqube"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for gitlab, groovy, kafka if you have that experience.",
+        "Move ansible, aws, bash closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 75% (HIGH)\nSummary: Strong overlap on ansible, aws, bash. Experience clears the 4+ year requirement.\nMissing or weak areas: gitlab, groovy, kafka, nexus, python, sonarqube\nSuggested improvements:\n- Add clear evidence for gitlab, groovy, kafka if you have that experience.\n- Move ansible, aws, bash closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:54:27.442Z"
+    },
+    {
+      "id": "1bb77c9359e62a1d9242e307874109a724ed8998a667878f8b757e6f3aee2faa:1774421507179",
+      "jobHash": "1bb77c9359e62a1d9242e307874109a724ed8998a667878f8b757e6f3aee2faa",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "Jenkins, GitLab CI, Git, Bitbucket, ArgoCD, GitOps, Docker, Kubernetes, Ansible, Puppet, SonarQube, CI/CD, Terraform, CloudFormation, Prometheus, Grafana, ELK, Splunk, Service Mesh",
+      "jobDescriptionSnippet": "Jenkins, GitLab CI, Git, Bitbucket, ArgoCD, GitOps, Docker, Kubernetes, Ansible, Puppet, SonarQube, CI/CD, Terraform, CloudFormation, Prometheus, Grafana, ELK, Splunk, Service Mesh",
+      "requiredExperience": 4,
+      "match": 68.7,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with ansible, cicd, docker. Biggest gaps: argocd, elk. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Partial match with ansible, cicd, docker. Biggest gaps: argocd, elk. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "ansible",
+        "cicd",
+        "docker",
+        "git",
+        "gitlab ci",
+        "grafana",
+        "jenkins",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "elk",
+        "gitlab",
+        "sonarqube",
+        "splunk"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, elk, gitlab if you have that experience.",
+        "Move ansible, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 69% (MEDIUM)\nSummary: Partial match with ansible, cicd, docker. Biggest gaps: argocd, elk. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, elk, gitlab, sonarqube, splunk\nSuggested improvements:\n- Add clear evidence for argocd, elk, gitlab if you have that experience.\n- Move ansible, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:51:47.179Z"
+    },
+    {
+      "id": "2a038ce74fd1fb5e14c653a8e117ac36eba547acd7c7ca331a395b0f3020d252:1774421306863",
+      "jobHash": "2a038ce74fd1fb5e14c653a8e117ac36eba547acd7c7ca331a395b0f3020d252",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "Azure DevOps, CI/CD, Terraform, Kubernetes, Docker, Ansible, Python, Monitoring, Git",
+      "jobDescriptionSnippet": "Azure DevOps, CI/CD, Terraform, Kubernetes, Docker, Ansible, Python, Monitoring, Git",
+      "requiredExperience": 5,
+      "match": 74.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with ansible, azure devops, cicd. Biggest gaps: azure, python. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with ansible, azure devops, cicd. Biggest gaps: azure, python. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      ],
+      "matchedRequirements": [
+        "ansible",
+        "azure devops",
+        "cicd",
+        "devops",
+        "docker",
+        "git",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "azure",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, python if you have that experience.",
+        "Move ansible, azure devops, cicd closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 75% (MEDIUM)\nSummary: Partial match with ansible, azure devops, cicd. Biggest gaps: azure, python. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: azure, python\nSuggested improvements:\n- Add clear evidence for azure, python if you have that experience.\n- Move ansible, azure devops, cicd closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:48:26.863Z"
+    },
+    {
+      "id": "482007b681564c665963cc64789195b694b75ba9f2cfcf41c75157026bad659f:1774421195208",
+      "jobHash": "482007b681564c665963cc64789195b694b75ba9f2cfcf41c75157026bad659f",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "CI/CD, Jenkins, GitHub Actions, Terraform, Docker, Kubernetes, AWS, GCP, Containerization, Cloud-Native, Security, Prisma Cloud, Nessus, CrowdStrike, PCI-DSS, HIPAA, SOX, GDPR, CCPA",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitHub Actions, Terraform, Docker, Kubernetes, AWS, GCP, Containerization, Cloud-Native, Security, Prisma Cloud, Nessus, CrowdStrike, PCI-DSS, HIPAA, SOX, GDPR, CCPA",
+      "requiredExperience": 5,
+      "match": 74.8,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, cloud. Biggest gaps: gcp. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with aws, cicd, cloud. Biggest gaps: gcp. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloud",
+        "docker",
+        "github",
+        "github actions",
+        "jenkins",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "gcp"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for gcp if you have that experience.",
+        "Move aws, cicd, cloud closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 75% (MEDIUM)\nSummary: Partial match with aws, cicd, cloud. Biggest gaps: gcp. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: gcp\nSuggested improvements:\n- Add clear evidence for gcp if you have that experience.\n- Move aws, cicd, cloud closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:46:35.208Z"
+    },
+    {
+      "id": "d4e10eae8d94cc277a72a426da93f39fdec42ae69df1b0c756ff70d60585034a:1774421134134",
+      "jobHash": "d4e10eae8d94cc277a72a426da93f39fdec42ae69df1b0c756ff70d60585034a",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "CI/CD, JFrog, Artifactory, Docker, Kubernetes, Helm, Bash, Python, Go, AWS, Azure, GCP, Infrastructure as Code, Monitoring, SRE",
+      "jobDescriptionSnippet": "CI/CD, JFrog, Artifactory, Docker, Kubernetes, Helm, Bash, Python, Go, AWS, Azure, GCP, Infrastructure as Code, Monitoring, SRE",
+      "requiredExperience": 2,
+      "match": 65.9,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, bash, cicd. Biggest gaps: azure, gcp. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Partial match with aws, bash, cicd. Biggest gaps: azure, gcp. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "bash",
+        "cicd",
+        "docker",
+        "helm",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "azure",
+        "gcp",
+        "go",
+        "python",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, gcp, go if you have that experience.",
+        "Move aws, bash, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 66% (MEDIUM)\nSummary: Partial match with aws, bash, cicd. Biggest gaps: azure, gcp. Experience clears the 2+ year requirement.\nMissing or weak areas: azure, gcp, go, python, sre\nSuggested improvements:\n- Add clear evidence for azure, gcp, go if you have that experience.\n- Move aws, bash, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:45:34.134Z"
+    },
+    {
+      "id": "1e40ff0cc812e9645d85e034a7c4d9c2f644946e92dc86aa5decca24e01c6326:1774421019759",
+      "jobHash": "1e40ff0cc812e9645d85e034a7c4d9c2f644946e92dc86aa5decca24e01c6326",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, Ansible, Docker, CI/CD, EKS, ECS, Python, Bash, Prometheus, Grafana, CloudWatch, Datadog, New Relic, Linux, VPC, EC2, RDS, ElastiCache",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, Ansible, Docker, CI/CD, EKS, ECS, Python, Bash, Prometheus, Grafana, CloudWatch, Datadog, New Relic, Linux, VPC, EC2, RDS, ElastiCache",
+      "requiredExperience": 3,
+      "match": 79.7,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on ansible, aws, bash. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Strong overlap on ansible, aws, bash. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      ],
+      "matchedRequirements": [
+        "ansible",
+        "aws",
+        "bash",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "ec2",
+        "eks"
+      ],
+      "missingRequirements": [
+        "datadog",
+        "ecs",
+        "python",
+        "rds"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for datadog, ecs, python if you have that experience.",
+        "Move ansible, aws, bash closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 80% (HIGH)\nSummary: Strong overlap on ansible, aws, bash. Experience clears the 3+ year requirement.\nMissing or weak areas: datadog, ecs, python, rds\nSuggested improvements:\n- Add clear evidence for datadog, ecs, python if you have that experience.\n- Move ansible, aws, bash closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:43:39.759Z"
+    },
+    {
+      "id": "7dedf81a25d092832aba916fefb2beb6ab54ed505a38207c2770d1237c63d990:1774420832971",
+      "jobHash": "7dedf81a25d092832aba916fefb2beb6ab54ed505a38207c2770d1237c63d990",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "CI/CD, Jenkins, GitLab CI, Azure DevOps, Terraform, Ansible, CloudFormation, AWS, Azure, GCP, Docker, Kubernetes, Prometheus, Grafana, ELK, Python, Shell, Groovy, Linux, Git, Istio, Linkerd",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitLab CI, Azure DevOps, Terraform, Ansible, CloudFormation, AWS, Azure, GCP, Docker, Kubernetes, Prometheus, Grafana, ELK, Python, Shell, Groovy, Linux, Git, Istio, Linkerd",
+      "requiredExperience": 0,
+      "match": 77.3,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on ansible, aws, azure devops.",
+      "generatedResponse": "Strong overlap on ansible, aws, azure devops.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      ],
+      "matchedRequirements": [
+        "ansible",
+        "aws",
+        "azure devops",
+        "cicd",
+        "devops",
+        "docker",
+        "git",
+        "gitlab ci"
+      ],
+      "missingRequirements": [
+        "azure",
+        "elk",
+        "gcp",
+        "gitlab",
+        "groovy",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, elk, gcp if you have that experience.",
+        "Move ansible, aws, azure devops closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 77% (HIGH)\nSummary: Strong overlap on ansible, aws, azure devops.\nMissing or weak areas: azure, elk, gcp, gitlab, groovy, python\nSuggested improvements:\n- Add clear evidence for azure, elk, gcp if you have that experience.\n- Move ansible, aws, azure devops closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:40:32.971Z"
+    },
+    {
+      "id": "6b3c68b2cb875a375dff3a47565b78d3accd9d661f415fe852d7d541bb50416e:1774420742319",
+      "jobHash": "6b3c68b2cb875a375dff3a47565b78d3accd9d661f415fe852d7d541bb50416e",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, Jenkins, Chef, CI/CD, Amazon SQS, Kafka, RabbitMQ",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, Jenkins, Chef, CI/CD, Amazon SQS, Kafka, RabbitMQ",
+      "requiredExperience": 3,
+      "match": 72.5,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, jenkins. Biggest gaps: chef, kafka. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, jenkins. Biggest gaps: chef, kafka. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "jenkins",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "chef",
+        "kafka"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for chef, kafka if you have that experience.",
+        "Move aws, cicd, jenkins closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 73% (MEDIUM)\nSummary: Partial match with aws, cicd, jenkins. Biggest gaps: chef, kafka. Experience clears the 3+ year requirement.\nMissing or weak areas: chef, kafka\nSuggested improvements:\n- Add clear evidence for chef, kafka if you have that experience.\n- Move aws, cicd, jenkins closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:39:02.319Z"
+    },
+    {
+      "id": "0b059ac10c97bd7204b31d0707a715cfbcead96e9ea0da5f1ae568af80e323ce:1774420353790",
+      "jobHash": "0b059ac10c97bd7204b31d0707a715cfbcead96e9ea0da5f1ae568af80e323ce",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "CI/CD, Jenkins, GitLab CI/CD, GitHub Actions, AWS, Azure, GCP, Terraform, CloudFormation, Docker, Kubernetes, Ansible, Prometheus, Grafana, ELK Stack, Datadog, Python, Bash, PowerShell, Linux, Windows",
+      "jobDescriptionSnippet": "CI/CD, Jenkins, GitLab CI/CD, GitHub Actions, AWS, Azure, GCP, Terraform, CloudFormation, Docker, Kubernetes, Ansible, Prometheus, Grafana, ELK Stack, Datadog, Python, Bash, PowerShell, Linux, Windows",
+      "requiredExperience": 3,
+      "match": 73.5,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with ansible, aws, bash. Biggest gaps: azure, datadog. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Partial match with ansible, aws, bash. Biggest gaps: azure, datadog. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "ansible",
+        "aws",
+        "bash",
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "grafana"
+      ],
+      "missingRequirements": [
+        "azure",
+        "datadog",
+        "elk",
+        "elk stack",
+        "gcp",
+        "gitlab",
+        "powershell",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, datadog, elk if you have that experience.",
+        "Move ansible, aws, bash closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 73% (MEDIUM)\nSummary: Partial match with ansible, aws, bash. Biggest gaps: azure, datadog. Experience clears the 3+ year requirement.\nMissing or weak areas: azure, datadog, elk, elk stack, gcp, gitlab, powershell, python\nSuggested improvements:\n- Add clear evidence for azure, datadog, elk if you have that experience.\n- Move ansible, aws, bash closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:32:33.790Z"
+    },
+    {
+      "id": "224e8ad00c5a929ccb1eed18d1cd6c2f362b91df027fbd99154f26d87fc464d7:1774420091674",
+      "jobHash": "224e8ad00c5a929ccb1eed18d1cd6c2f362b91df027fbd99154f26d87fc464d7",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "Docker, Kubernetes, Jenkins, GitHub Actions, Python, Bash, Linux, CI/CD, Podman, Docker Compose, Build Automation, On-Premise Infrastructure",
+      "jobDescriptionSnippet": "Docker, Kubernetes, Jenkins, GitHub Actions, Python, Bash, Linux, CI/CD, Podman, Docker Compose, Build Automation, On-Premise Infrastructure",
+      "requiredExperience": 5,
+      "match": 73.7,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with bash, cicd, docker. Biggest gaps: python. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with bash, cicd, docker. Biggest gaps: python. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "bash",
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "jenkins",
+        "kubernetes",
+        "linux"
+      ],
+      "missingRequirements": [
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for python if you have that experience.",
+        "Move bash, cicd, docker closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 74% (MEDIUM)\nSummary: Partial match with bash, cicd, docker. Biggest gaps: python. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: python\nSuggested improvements:\n- Add clear evidence for python if you have that experience.\n- Move bash, cicd, docker closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:28:11.674Z"
+    },
+    {
+      "id": "5a4f9c8d21310460db7851f7915451343636b20fde5366dd4a66ce325c04784b:1774420028551",
+      "jobHash": "5a4f9c8d21310460db7851f7915451343636b20fde5366dd4a66ce325c04784b",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "GitLab CI/CD, Python, Ansible, DevOps Architecture, CI/CD, Docker, Kubernetes, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "jobDescriptionSnippet": "GitLab CI/CD, Python, Ansible, DevOps Architecture, CI/CD, Docker, Kubernetes, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "requiredExperience": 5,
+      "match": 67.5,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with ansible, aws, cicd. Biggest gaps: azure, gcp. Resume shows about 4 years against the 5+ year target.",
+      "generatedResponse": "Partial match with ansible, aws, cicd. Biggest gaps: azure, gcp. Resume shows about 4 years against the 5+ year target.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      ],
+      "matchedRequirements": [
+        "ansible",
+        "aws",
+        "cicd",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "missingRequirements": [
+        "azure",
+        "gcp",
+        "gitlab",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, gcp, gitlab if you have that experience.",
+        "Move ansible, aws, cicd closer to the resume summary or latest project bullets.",
+        "Group related work together so the recruiter can quickly see relevant experience depth.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 68% (MEDIUM)\nSummary: Partial match with ansible, aws, cicd. Biggest gaps: azure, gcp. Resume shows about 4 years against the 5+ year target.\nMissing or weak areas: azure, gcp, gitlab, python\nSuggested improvements:\n- Add clear evidence for azure, gcp, gitlab if you have that experience.\n- Move ansible, aws, cicd closer to the resume summary or latest project bullets.\n- Group related work together so the recruiter can quickly see relevant experience depth.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:27:08.551Z"
+    },
+    {
+      "id": "905f7d2615639c8672f382872db2404835f6f7172be3ea7da8a5786af2197f1b:1774419900270",
+      "jobHash": "905f7d2615639c8672f382872db2404835f6f7172be3ea7da8a5786af2197f1b",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "Python, GitLab CI/CD, Ansible, Linux, Automation, CI/CD, Docker, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "jobDescriptionSnippet": "Python, GitLab CI/CD, Ansible, Linux, Automation, CI/CD, Docker, AWS, Azure, GCP, GitOps, Infrastructure as Code",
+      "requiredExperience": 2,
+      "match": 69.7,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with ansible, aws, cicd. Biggest gaps: azure, gcp. Experience clears the 2+ year requirement.",
+      "generatedResponse": "Partial match with ansible, aws, cicd. Biggest gaps: azure, gcp. Experience clears the 2+ year requirement.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      ],
+      "matchedRequirements": [
+        "ansible",
+        "aws",
+        "cicd",
+        "docker",
+        "linux"
+      ],
+      "missingRequirements": [
+        "azure",
+        "gcp",
+        "gitlab",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, gcp, gitlab if you have that experience.",
+        "Move ansible, aws, cicd closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 70% (MEDIUM)\nSummary: Partial match with ansible, aws, cicd. Biggest gaps: azure, gcp. Experience clears the 2+ year requirement.\nMissing or weak areas: azure, gcp, gitlab, python\nSuggested improvements:\n- Add clear evidence for azure, gcp, gitlab if you have that experience.\n- Move ansible, aws, cicd closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:25:00.270Z"
+    },
+    {
+      "id": "39a2a7caaed3004c60595b0ad63f316cb70f5336bc8da1a6c17f6c57409a5893:1774419784987",
+      "jobHash": "39a2a7caaed3004c60595b0ad63f316cb70f5336bc8da1a6c17f6c57409a5893",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Kubernetes, Terraform, ArgoCD, GitHub Actions, Datadog, Go, Python, TypeScript, PostgreSQL, CI/CD, SRE",
+      "jobDescriptionSnippet": "AWS, Kubernetes, Terraform, ArgoCD, GitHub Actions, Datadog, Go, Python, TypeScript, PostgreSQL, CI/CD, SRE",
+      "requiredExperience": 4,
+      "match": 61.1,
+      "bucket": "medium",
+      "recommendation": "Worth recruiter review with moderate alignment.",
+      "matchingSummary": "Partial match with aws, cicd, github. Biggest gaps: argocd, datadog. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Partial match with aws, cicd, github. Biggest gaps: argocd, datadog. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "github",
+        "github actions",
+        "kubernetes",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "argocd",
+        "datadog",
+        "go",
+        "postgresql",
+        "python",
+        "sre",
+        "typescript"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for argocd, datadog, go if you have that experience.",
+        "Move aws, cicd, github closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 61% (MEDIUM)\nSummary: Partial match with aws, cicd, github. Biggest gaps: argocd, datadog. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd, datadog, go, postgresql, python, sre, typescript\nSuggested improvements:\n- Add clear evidence for argocd, datadog, go if you have that experience.\n- Move aws, cicd, github closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:23:04.987Z"
+    },
+    {
+      "id": "624a027da27b86239a50227e5fb3b57aef50b9e1279719d7a4e69cfe44686cb7:1774419680684",
+      "jobHash": "624a027da27b86239a50227e5fb3b57aef50b9e1279719d7a4e69cfe44686cb7",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, EC2, S3, RDS, IAM, GitHub, GitHub Actions, CloudWatch, Linux, Git, Docker, CI/CD",
+      "jobDescriptionSnippet": "AWS, EC2, S3, RDS, IAM, GitHub, GitHub Actions, CloudWatch, Linux, Git, Docker, CI/CD",
+      "requiredExperience": 0,
+      "match": 80.5,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, cloudwatch.",
+      "generatedResponse": "Strong overlap on aws, cicd, cloudwatch.",
+      "evidenceHighlights": [
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete...",
+        "â€“ sep 2025 roles & responsibilities aws cloud infrastructure & security ï‚· deployed and managed secure, scalable environments on aws leveraging vpc, ec2, load balancers, auto scaling, route 53, cloudfront, and s3 for...",
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "cloudwatch",
+        "docker",
+        "ec2",
+        "git",
+        "github",
+        "github actions"
+      ],
+      "missingRequirements": [
+        "rds"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for rds if you have that experience.",
+        "Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 81% (HIGH)\nSummary: Strong overlap on aws, cicd, cloudwatch.\nMissing or weak areas: rds\nSuggested improvements:\n- Add clear evidence for rds if you have that experience.\n- Move aws, cicd, cloudwatch closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:21:20.684Z"
+    },
+    {
+      "id": "8f769b10b86227334f0a348656f2fca45231af18cdd7bbac6e3cdf6a2c94d06c:1774419545782",
+      "jobHash": "8f769b10b86227334f0a348656f2fca45231af18cdd7bbac6e3cdf6a2c94d06c",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Docker, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins, Terraform, CloudFormation, Prometheus, Grafana, ELK, Python, Shell, AI/ML Infrastructure, Observability, SRE",
+      "jobDescriptionSnippet": "AWS, Docker, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins, Terraform, CloudFormation, Prometheus, Grafana, ELK, Python, Shell, AI/ML Infrastructure, Observability, SRE",
+      "requiredExperience": 4,
+      "match": 80.4,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, docker. Experience clears the 4+ year requirement.",
+      "generatedResponse": "Strong overlap on aws, cicd, docker. Experience clears the 4+ year requirement.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "docker",
+        "github",
+        "github actions",
+        "gitlab ci",
+        "grafana",
+        "jenkins"
+      ],
+      "missingRequirements": [
+        "elk",
+        "gitlab",
+        "python",
+        "sre"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for elk, gitlab, python if you have that experience.",
+        "Move aws, cicd, docker closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 80% (HIGH)\nSummary: Strong overlap on aws, cicd, docker. Experience clears the 4+ year requirement.\nMissing or weak areas: elk, gitlab, python, sre\nSuggested improvements:\n- Add clear evidence for elk, gitlab, python if you have that experience.\n- Move aws, cicd, docker closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:19:05.782Z"
+    },
+    {
+      "id": "0bb4c9f9f6b23dda615a41f48217c11326f2ada15e2c5ddea31b0c10ad75f410:1774419331748",
+      "jobHash": "0bb4c9f9f6b23dda615a41f48217c11326f2ada15e2c5ddea31b0c10ad75f410",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "AWS, Azure, Jenkins, GitHub Actions, Argo CD, Helm, Docker, Kubernetes, EKS, AKS, Terraform, CloudFormation, Ansible, Prometheus, Grafana, ELK, Python, Bash, Git, JIRA, ServiceNow",
+      "jobDescriptionSnippet": "AWS, Azure, Jenkins, GitHub Actions, Argo CD, Helm, Docker, Kubernetes, EKS, AKS, Terraform, CloudFormation, Ansible, Prometheus, Grafana, ELK, Python, Bash, Git, JIRA, ServiceNow",
+      "requiredExperience": 3,
+      "match": 75.9,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on ansible, aws, bash. Experience clears the 3+ year requirement.",
+      "generatedResponse": "Strong overlap on ansible, aws, bash. Experience clears the 3+ year requirement.",
+      "evidenceHighlights": [
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete..."
+      ],
+      "matchedRequirements": [
+        "ansible",
+        "aws",
+        "bash",
+        "docker",
+        "eks",
+        "git",
+        "github",
+        "github actions"
+      ],
+      "missingRequirements": [
+        "azure",
+        "elk",
+        "jira",
+        "python"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, elk, jira if you have that experience.",
+        "Move ansible, aws, bash closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 76% (HIGH)\nSummary: Strong overlap on ansible, aws, bash. Experience clears the 3+ year requirement.\nMissing or weak areas: azure, elk, jira, python\nSuggested improvements:\n- Add clear evidence for azure, elk, jira if you have that experience.\n- Move ansible, aws, bash closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:15:31.748Z"
+    },
+    {
+      "id": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909:1774419242290",
+      "jobHash": "cc83f6188b4ececa6a47c8abd18560b49f8e3fc9b0521d45edb465ca29761909",
+      "fileName": "Nagaraj Badiger.pdf",
+      "jobLabel": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
+      "jobDescriptionSnippet": "Terraform, CloudFormation, Jenkins, GitLab CI/CD, Linux, Shell Scripting, AWS, Azure, GCP",
+      "requiredExperience": 0,
+      "match": 75.3,
+      "bucket": "high",
+      "recommendation": "Strong shortlist candidate.",
+      "matchingSummary": "Strong overlap on aws, cicd, jenkins.",
+      "generatedResponse": "Strong overlap on aws, cicd, jenkins.",
+      "evidenceHighlights": [
+        "strategies. monitoring & observability ï‚· integrated prometheus and grafana for end-to-end application and infrastructure monitoring, enhancing system visibility. ï‚· created custom alerting rules and dashboards to dete...",
+        "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+        "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and..."
+      ],
+      "matchedRequirements": [
+        "aws",
+        "cicd",
+        "jenkins",
+        "linux",
+        "linux shell scripting",
+        "scripting",
+        "shell",
+        "terraform"
+      ],
+      "missingRequirements": [
+        "azure",
+        "gcp",
+        "gitlab"
+      ],
+      "improvementSuggestions": [
+        "Add clear evidence for azure, gcp, gitlab if you have that experience.",
+        "Move aws, cicd, jenkins closer to the resume summary or latest project bullets.",
+        "Quantify impact with metrics so the strongest matching skills feel more credible."
+      ],
+      "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 75% (HIGH)\nSummary: Strong overlap on aws, cicd, jenkins.\nMissing or weak areas: azure, gcp, gitlab\nSuggested improvements:\n- Add clear evidence for azure, gcp, gitlab if you have that experience.\n- Move aws, cicd, jenkins closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+      "analysisProvider": "hybrid-ml",
+      "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "analysisCached": false,
+      "updatedAt": "2026-03-25T06:14:02.290Z"
+    }
+  ],
+  "latestImprovement": {
+    "id": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad:1774422738846",
+    "jobHash": "00a81e42d55cd3f169f30c3b110dd2079292f15df03606f4d200e73ce88c47ad",
+    "fileName": "Nagaraj Badiger.pdf",
+    "jobLabel": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+    "jobDescriptionSnippet": "AWS, Kubernetes, EKS, Terraform, Helm, ArgoCD, Jenkins, GitOps, CI/CD, Prometheus, Grafana,",
+    "requiredExperience": 4,
+    "match": 78.6,
+    "bucket": "high",
+    "recommendation": "Strong shortlist candidate.",
+    "matchingSummary": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+    "generatedResponse": "Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.",
+    "evidenceHighlights": [
+      "nagaraj badiger bengaluru, karnataka |+91 9916550489 | nagarajbadiger0123@gmail.com | linkedin | github professional summary certified aws & devops engineer with around 4 years of experience in deploying and managing sca...",
+      "automate provisioning of aws components including vpcs, ec2 instances, security groups, and iam roles, improving consistency and deployment speed. ï‚· automated configuration management and server setup using ansible and...",
+      "ï‚· iac & automation: terraform, ansible ï‚· monitoring & logging: prometheus, grafana ï‚· scripting & os: shell (bash), linux administration education bachelor of engineering â€“ vtu, ubdt college of engineering, davana..."
+    ],
+    "matchedRequirements": [
+      "aws",
+      "cicd",
+      "eks",
+      "grafana",
+      "helm",
+      "jenkins",
+      "kubernetes",
+      "prometheus"
+    ],
+    "missingRequirements": [
+      "argocd"
+    ],
+    "improvementSuggestions": [
+      "Add clear evidence for argocd if you have that experience.",
+      "Move aws, cicd, eks closer to the resume summary or latest project bullets.",
+      "Quantify impact with metrics so the strongest matching skills feel more credible."
+    ],
+    "improvementMessage": "Resume: Nagaraj Badiger.pdf\nCurrent match: 79% (HIGH)\nSummary: Strong overlap on aws, cicd, eks. Experience clears the 4+ year requirement.\nMissing or weak areas: argocd\nSuggested improvements:\n- Add clear evidence for argocd if you have that experience.\n- Move aws, cicd, eks closer to the resume summary or latest project bullets.\n- Quantify impact with metrics so the strongest matching skills feel more credible.",
+    "analysisProvider": "hybrid-ml",
+    "analysisModel": "sentence-transformers/all-MiniLM-L6-v2 + cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "analysisCached": false,
+    "updatedAt": "2026-03-25T07:12:18.846Z"
+  },
+  "experienceYearsOverride": 4
+}

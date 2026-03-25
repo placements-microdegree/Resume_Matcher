@@ -6,9 +6,12 @@ const path = require("path");
 const {
   uploadResume,
   listResumes,
+  listResumeImprovementSummaries,
   deleteResume,
   getResumeExperience,
   updateResumeExperience,
+  getResumeImprovements,
+  replaceResume,
   matchResumes,
 } = require("../controllers/resumeController");
 
@@ -59,13 +62,17 @@ const storage = multer.diskStorage({
 });
 
 const upload = multer({ storage });
+const replaceUpload = multer({ storage: multer.memoryStorage() });
 
 router.get("/", listResumes);
+router.get("/improvements", listResumeImprovementSummaries);
 router.post("/upload", upload.single("resume"), uploadResume);
 router.post("/match", matchResumes);
 
 // Manage individual resumes
 router.delete("/:fileName", deleteResume);
+router.put("/:fileName/replace", replaceUpload.single("resume"), replaceResume);
+router.get("/:fileName/improvements", getResumeImprovements);
 router.get("/:fileName/experience", getResumeExperience);
 router.patch("/:fileName/experience", updateResumeExperience);
 
